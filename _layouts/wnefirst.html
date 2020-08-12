@@ -14,7 +14,7 @@
                 <div class="page-content-container">
                     <span class="page-title">{{ page.title }}</span>
                     <span class="gradient-spacer"></span>
-                    <span class="page-meta">Last updated {{ page.last_updated }}</span>
+                    <span class="page-meta">Updated: {{ page.last_updated }}</span>
                     <div class="content">
                         {{ content }}
                     </div>
@@ -24,7 +24,7 @@
                 {% include sidebar.html %}
             </div>
         </div>
-        <div class="footer-container">Last built on <span style="font-weight:bold">{{ "now" | date: "%B %d, %Y at %I:%M %p" }}</span></div>
+        <div class="footer-container">Last built on <span style="font-weight:bold">{{ "now" | date: "%B %d, %Y at %I:%M %p (GMT)" }}</span></div>
     </div>
 </body>
 </html>
