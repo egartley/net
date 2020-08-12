@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>{{ page.title }} - egartley.net</title>
+    {% include minheader.html %}
+</head>
+<body>
+    <div class="root-container">
+        <div class="navigation-bar-container">
+            {% include navigationbar.html %}
+        </div>
+        <div class="content-container">
+            <div class="page-container content-card">
+                <div class="page-content-container">
+                    <span class="page-title">{{ page.title }}</span>
+                    <span class="gradient-spacer"></span>
+                    <span class="page-meta">Last updated {{ page.last_updated }}</span>
+                    <div class="content">
+                        {{ content }}
+                    </div>
+                </div>
+            </div>
+            <div class="sidebar-container content-card">
+                {% include sidebar.html %}
+            </div>
+        </div>
+        <div class="footer-container">Last built on <span style="font-weight:bold">{{ "now" | date: "%B %d, %Y at %I:%M %p" }}</span></div>
+    </div>
+</body>
+</html>
