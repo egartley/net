@@ -1,22 +1,22 @@
-<span class="home-container">
-    <span class="home-button">
+<span class="home-container flex center-items">
+    <span class="home-button" onclick="navigate('/')">
         <img src="/resources/png/home-button.png">
     </span>
-    <span class="home-title-container">
-        <span class="home-title">{{ site.title }}</span>
-        <span class="home-subtitle">{{ site.subtitle }}</span>
+    <span class="home-title flex col">
+        <span id="title">{{ site.title }}</span>
+        <span class="small-text" id="subtitle">{{ site.subtitle }}</span>
     </span>
 </span>
-<span class="navigation-elements-container">
-    <div class="hitbox {% if page.base_url == "/" %}active{% endif %}" onclick="navigate('/')">
+<span class="nav-elements flex center-items">
+    <div class="hitbox center-text center-items flex col{% if page.base_url == "/" %} active{% endif %}" onclick="navigate('/')">
         <span class="text">Home</span>
         <span class="dot"></span>
     </div>
-    <div class="hitbox {% if page.base_url == "/contact/" %}active{% endif %}" onclick="navigate('/contact/')">
+    <div class="hitbox center-text center-items flex col{% if page.base_url == "/contact/" %} active{% endif %}" onclick="navigate('/contact/')">
         <span class="text">Contact</span>
         <span class="dot"></span>
     </div>
-    <div class="hitbox {% if page.base_url == "/projects/" %}active{% endif %}" onclick="navigate('/projects/')">
+    <div class="hitbox center-text center-items flex col{% if page.base_url == "/projects/" %} active{% endif %}" onclick="navigate('/projects/')">
         <span class="text">Projects</span>
         <span class="dot"></span>
     </div>

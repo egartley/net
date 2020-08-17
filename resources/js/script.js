@@ -1,1 +1,1 @@
-function navigate(e){window.location=e}function getURLParameter(e){return decodeURIComponent((new RegExp("[?|&]"+e+"=([^&;]+?)(&|#|;|$)").exec(location.search)||[null,""])[1].replace(/\+/g,"%20"))||null}
+function navigate(e){window.location=e}

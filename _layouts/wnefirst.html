@@ -1,30 +1,31 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <!-- 2 SCOOPS, 2 GENDERS, 2 TERMS -->
     <title>{{ page.title }} - egartley.net</title>
     {% include minheader.html %}
 </head>
 <body>
-    <div class="root-container">
-        <div class="navigation-bar-container">
+    <div class="root flex col">
+        <div class="nav flex center-items">
             {% include navigationbar.html %}
         </div>
-        <div class="content-container">
-            <div class="page-container content-card">
-                <div class="page-content-container">
+        <div class="content-container flex">
+            <div class="page card">
+                <div class="page-content flex col">
                     <span class="page-title">{{ page.title }}</span>
-                    <span class="gradient-spacer"></span>
-                    <span class="page-meta">Updated: {{ page.last_updated }}</span>
+                    <span class="spacer"></span>
+                    <span class="small-text" id="meta"><span class="bold">Last updated:</span> {{ page.last_updated }}</span>
                     <div class="content">
                         {{ content }}
                     </div>
                 </div>
             </div>
-            <div class="sidebar-container content-card">
+            <div class="sidebar card">
                 {% include sidebar.html %}
             </div>
         </div>
-        <div class="footer-container">Last built on <span style="font-weight:bold">{{ "now" | date: "%B %d, %Y at %I:%M %p (GMT)" }}</span></div>
+        <div class="footer center-text">Last built on <span class="bold">{{ "now" | date: "%B %d, %Y at %I:%M %p (GMT)" }}</span></div>
     </div>
 </body>
 </html>
