@@ -7,14 +7,14 @@
 </head>
 <body>
     <div class="root flex col">
-        <div class="nav flex center-items">
+        <div class="nav flex center-items grad-flow">
             {% include navigationbar.html %}
         </div>
         <div class="content-container flex">
             <div class="page card">
                 <div class="page-content flex col">
                     <span class="page-title">{{ page.title }}</span>
-                    <span class="spacer"></span>
+                    <span class="spacer fill grad-flow"></span>
                     <span class="small-text" id="meta"><span class="bold">Last updated:</span> {{ page.last_updated }}</span>
                     <div class="content">
                         {{ content }}
@@ -25,7 +25,7 @@
                 {% include sidebar.html %}
             </div>
         </div>
-        <div class="footer center-text">Last built on <span class="bold">{{ "now" | date: "%B %d, %Y at %I:%M %p (GMT)" }}</span></div>
+        <div class="footer fill center-text">Last built on <span class="bold">{{ "now" | date: "%B %d, %Y at %I:%M %p (GMT)" }}</span></div>
     </div>
 </body>
 </html>
