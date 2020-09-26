@@ -44,7 +44,7 @@ a:active, a:hover { text-decoration: underline }
 .widget-social>div>div>div { padding: 14px 20px 14px 6px; display: inline-flex }
 .widget-social>div>div>div>img { width: 26px; height: 26px; margin-right: 10px }
 .widget-social>div>div>div>span#text { transition: color .3s; font-size: 16px }
-.widget-social>div>div>div:hover, .widget-social>div>div>div:hover>span#text { color: var(--accent-color); cursor: pointer }
+.widget-social>div>div>div:hover, .widget-social>div>div>div:hover>span#text { color: var(--accent-color) }
 @media screen and (max-width:1072px) {
 	.root { justify-content: initial; align-items: initial; align-content: initial; height: initial }
 	.footer { width: initial; font-size: 14px }
@@ -64,13 +64,13 @@ a:active, a:hover { text-decoration: underline }
 }
 @media (prefers-color-scheme:light) {
 	body { background-color: var(--root-background-color-light) }
-	body, .footer, .widget-social>div>div>div>span#text { color: var(--primary-text-color-light) }
+	body, .footer, .widget-social>div>div>div>span#text>a { color: var(--primary-text-color-light) }
 	.card { border-width: 1px; border-color: #d3d3d3; background-color: var(--secondary-background-color-light) }
 	.page-content>span#meta { color: var(--secondary-text-color-light) }
 }
 @media (prefers-color-scheme:dark) {
 	body { background-color: var(--root-background-color-dark) }
-	body, .widget-social>div>div>div>span#text { color: var(--primary-text-color-dark) }
+	body, .footer, .widget-social>div>div>div>span#text>a { color: var(--primary-text-color-dark) }
 	.card { background-color: var(--secondary-background-color-dark) }
 	.footer, .page-content>span#meta { color: var(--secondary-text-color-dark) }
 }
