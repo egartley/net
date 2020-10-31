@@ -3,7 +3,7 @@ permalink: /projects/exoplanets/
 layout: wnefirst
 title: Exoplanets
 base_url: /projects/exoplanets/
-last_updated: August 11, 2020 at 11:22 PM
+last_updated: October 31, 2020 at 4:54 PM
 ---
 
 <link href="/resources/css/exoplanets-style.css" rel="stylesheet" type="text/css">
@@ -16,18 +16,19 @@ last_updated: August 11, 2020 at 11:22 PM
         <span class="search-by">Search by:</span>
         <select name="exo-search-type" class="exo-search-type">
             <option value="pl_name">Name</option>
-            <option value="pl_hostname">Host Star</option>
-            <option value="pl_disc">Discovery Year</option>
+            <option value="hostname">Host Star</option>
+            <option value="disc_year">Discovery Year</option>
         </select>
     </div>
     <div class="list-container scroll-container list-container-empty">
         <span class="list-start">Results will be listed here</span>
         <span class="list-none" style="display:none">No results were found</span>
     </div>
+    <button id="more-results" style="margin-top:8px;display:none">More Results</button>
 </div>
 <div class="exo-container" id="details" style="display:none">
     <div class="exo-card">
-        <button class="go-back">Back to Results</button>
+        <button id="go-back" style="margin-top:24px">Back to Results</button>
     </div>
     <div class="exo-card main-card">
         <div class="main-card-text">
@@ -42,7 +43,7 @@ last_updated: August 11, 2020 at 11:22 PM
     <div class="exo-card details-card">
         <div class="all-data-header">
             <h2>Raw Data</h2>
-            <button class="all-data-toggle">Show</button>
+            <button id="all-data-toggle" style="margin-left:18px">Show</button>
         </div>
         <div class="all-data-container scroll-container" style="display:none">
             <div class="all-data-labels"></div>
