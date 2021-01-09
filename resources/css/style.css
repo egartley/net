@@ -15,7 +15,7 @@ a:active, a:hover { text-decoration: underline }
 .card { border-radius: 6px; border: 0 solid transparent }
 .spacer { height: 2px; margin-bottom: 12px }
 .content { line-height: 1.75; margin-top: 12px; margin-bottom: 52px; min-height: 550px }
-.footer { min-height: 36px; margin-bottom: 36px }
+.footer { min-height: 48px; margin-bottom: 36px }
 .sidebar { flex-grow: 2; padding: 26px 18px 18px; line-height: 1.5; max-width: 400px }
 .nav { width: 100%; min-height: 100px; margin-top: 36px; margin-bottom: 32px; border-radius: 6px; color: #fff; border: 0 solid transparent }
 .nav-elements { flex-grow: 1; margin-right: 24px; overflow-x: auto }
