@@ -1,8 +1,8 @@
 :root { --accent-color: #1E88E5; --root-background-color-dark: #212121; --root-background-color-light: #FFF; --secondary-background-color-dark: #121212; --secondary-background-color-light: #FAFAFA; --primary-text-color-dark: #F3F3F3; --primary-text-color-light: black; --secondary-text-color-dark: #595959; --secondary-text-color-light: darkgrey; --navigation-dot-size: 6px; --navigation-dot-margin: 12px }
-body, html { height: 100%; font-family: sans-serif }
+body, html { font-family: sans-serif }
 a { text-decoration: none; color: var(--accent-color) }
 a:active, a:hover { text-decoration: underline }
-.root { align-content: flex-start; align-items: flex-start; max-width: 1520px; height: 100%; margin: auto }
+.root { align-content: flex-start; align-items: flex-start; max-width: 1520px; margin: auto }
 .bold { font-weight: bold }
 .col { flex-direction: column }
 .flex { display: flex }
@@ -15,9 +15,8 @@ a:active, a:hover { text-decoration: underline }
 .card { border-radius: 6px; border: 0 solid transparent }
 .spacer { height: 2px; margin-bottom: 12px }
 .content { line-height: 1.75; margin-top: 12px; margin-bottom: 52px; min-height: 550px }
-.footer { min-height: 48px; margin-bottom: 36px }
-.sidebar { flex-grow: 2; padding: 26px 18px 18px; line-height: 1.5; max-width: 400px }
-.nav { width: 100%; min-height: 100px; margin-top: 36px; margin-bottom: 32px; border-radius: 6px; color: #fff; border: 0 solid transparent }
+.sidebar { flex-grow: 2; padding: 26px 18px 18px; line-height: 1.5; max-width: 400px; max-height: 720px }
+.nav { width: 100%; min-height: 100px; margin-top: 18px; margin-bottom: 32px; border-radius: 6px; color: #fff; border: 0 solid transparent }
 .nav-elements { flex-grow: 1; margin-right: 24px; overflow-x: auto }
 .nav-elements>.hitbox { padding: 8px }
 .nav-elements>.hitbox:not(.active)>span.text { text-decoration: underline; text-decoration-color: transparent; transition: text-decoration-color 375ms }
@@ -34,7 +33,7 @@ a:active, a:hover { text-decoration: underline }
 .home-button:hover { cursor: pointer }
 .home-title>span#title { font-size: 28px; margin-bottom: 8px }
 .home-title>span#subtitle { font-style: italic; color: #d3d3d3 }
-.content-container { width: 100%; justify-content: space-between; margin-bottom: 32px }
+.content-container { width: 100%; justify-content: space-between; margin-bottom: 12px }
 .page-content { margin: 32px 18px 18px }
 .page-title { font-size: 42px; margin-bottom: 12px }
 .sidebar>.spacer { margin-top: 36px; margin-bottom: 36px }
@@ -47,7 +46,6 @@ a:active, a:hover { text-decoration: underline }
 .widget-social>div>div>div:hover, .widget-social>div>div>div:hover>span#text { color: var(--accent-color) }
 @media screen and (max-width:1072px) {
 	.root { justify-content: initial; align-items: initial; align-content: initial; height: initial }
-	.footer { width: initial; font-size: 14px }
 	.nav { border-radius: 0; overflow-x: scroll; min-height: 72px; -webkit-overflow-scrolling: touch }
 	.nav, body { margin: 0 }
 	.nav>span.nav-elements>div.hitbox.active>span.dot, .home-title { display: none }
@@ -64,13 +62,13 @@ a:active, a:hover { text-decoration: underline }
 }
 @media (prefers-color-scheme:light) {
 	body { background-color: var(--root-background-color-light) }
-	body, .footer, .widget-social>div>div>div>span#text>a { color: var(--primary-text-color-light) }
+	body, .widget-social>div>div>div>span#text>a { color: var(--primary-text-color-light) }
 	.card { border-width: 1px; border-color: #d3d3d3; background-color: var(--secondary-background-color-light) }
 	.page-content>span#meta { color: var(--secondary-text-color-light) }
 }
 @media (prefers-color-scheme:dark) {
 	body { background-color: var(--root-background-color-dark) }
-	body, .footer, .widget-social>div>div>div>span#text>a { color: var(--primary-text-color-dark) }
+	body, .widget-social>div>div>div>span#text>a { color: var(--primary-text-color-dark) }
 	.card { background-color: var(--secondary-background-color-dark) }
 	.footer, .page-content>span#meta { color: var(--secondary-text-color-dark) }
 }

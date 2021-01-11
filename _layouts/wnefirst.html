@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <!-- 2 SCOOPS, 2 GENDERS, 2 TERMS -->
+    <!-- January 6th, 2021 -->
     <title>{{ page.title }} - egartley.net</title>
     {% include minheader.html %}
 </head>
@@ -15,7 +15,7 @@
                 <div class="page-content flex col">
                     <span class="page-title">{{ page.title }}</span>
                     <span class="spacer fill grad-flow"></span>
-                    <span class="small-text" id="meta"><span class="bold">Last updated:</span> {{ page.last_updated }}</span>
+                    <span class="small-text" id="meta"><span class="bold">Last updated:</span> {{ page.last_updated }} (EST)</span>
                     <div class="content">
                         {{ content }}
                     </div>
@@ -25,7 +25,6 @@
                 {% include sidebar.html %}
             </div>
         </div>
-        <div class="footer fill center-text">Last built on <span class="bold">{{ "now" | date: "%B %d, %Y at %I:%M %p (GMT)" }}</span></div>
     </div>
 </body>
 </html>
