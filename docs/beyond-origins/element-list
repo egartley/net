@@ -19,6 +19,8 @@ net.egartley.beyondorigins.ingame
 net.egartley.beyondorigins.ingame.buildings
 net.egartley.beyondorigins.ingame.items
 net.egartley.beyondorigins.ingame.maps.debug
+net.egartley.beyondorigins.ingame.maps.debug.cutscenes
 net.egartley.beyondorigins.ingame.maps.debug.sectors
 net.egartley.beyondorigins.ingame.maps.testbattle
 net.egartley.beyondorigins.ingame.maps.testbattle.sectors
+net.egartley.beyondorigins.ingame.quests
