@@ -3,23 +3,76 @@ permalink: /
 layout: wnefirst
 title: Home
 base_url: /
-last_updated: January 8, 2021 at 9:59 PM
+last_updated: February 13, 2021 at 9:56 PM
 ---
 
 <p>Computer Science student at <a rel="external noreferrer nofollow noopener" href="https://www1.wne.edu/academics/undergraduate/computer-science.cfm">Western New England University</a>, a private college in Springfield, Massachusetts.</p>
 
-<p>Dark mode can be enabled by changing the "appearance" or "theme" in your browser's settings. By default, it's disabled to remain consistent with the majority of other websites.</p>
+<p>Dark mode can be enabled by changing the "appearance" or "theme" in your browser's settings. By default, it's disabled to remain consistent with the majority of other websites. However, the website is meant to be viewed in dark mode.</p>
 
 <h2>Projects</h2>
-<p>These repositories, as well as a few others, can be found <a rel="external noreferrer nofollow noopener" href="https://github.com/egartley/">here</a> on GitHub.</p>
+<style type="text/css">
+	.pcard {
+		width: 250px;
+		height: 190px;
+		background-color: #282828;
+		padding-top: 4px;
+		cursor: pointer;
+		border-width: 1px;
+		border-color: black;
+		border-width: 2px
+	}
+	.pcard:not(:last-child) {
+		margin-right: 12px
+	}
+	.pcard > img {
+		max-width: 95%;
+		max-height: 95%;
+		transition: max-width 0.3s, max-height 0.3s
+	}
+	.pcard > img:hover {
+		max-width: 100%;
+		max-height: 100%
+	}
+	.pcard > span#title {
+		font-weight: bold
+	}
+	@media screen and (max-width:1072px) {
+		.pcard-container {
+			flex-direction: column
+		}
+		.pcard:not(:last-child) {
+			margin-bottom: 14px
+		}
+	}
+	@media (prefers-color-scheme:light) {
+		.pcard-container > .pcard {
+			background-color: #D9D9D9;
+			border-color: #BFBFBF
+		}
+	}
+</style>
+<div class="pcard-container flex">
+	<div class="pcard flex col center-items card">
+		<img src="https://raw.githubusercontent.com/egartley/media/master/screenshots/beyond-origins.png" onclick="navigate('https://egartley.net/projects/beyond-origins')">
+		<span id="title">Beyond Origins</span>
+	</div>
+	<div class="pcard flex col center-items card">
+		<img src="https://raw.githubusercontent.com/egartley/media/master/screenshots/tsp.png" onclick="navigate('https://github.com/egartley/tsp')">
+		<span id="title">Travelling Salesman</span>
+	</div>
+	<div class="pcard flex col center-items card">
+		<img style="margin-top:14px" src="https://raw.githubusercontent.com/egartley/media/master/screenshots/pegasus.png" onclick="navigate('https://github.com/egartley/pegasus')">
+		<span id="title">Pegasus</span>
+	</div>
+</div>
+<p>These projects, as well as a few others listed below, can be found <a rel="external noreferrer nofollow noopener" href="https://github.com/egartley/">here</a> on GitHub.</p>
 <p>
-	<a rel="external noreferrer nofollow noopener" href="https://github.com/egartley/beyond-origins">beyond-origins</a>: 2D game<br>
+	<a rel="external noreferrer nofollow noopener" href="https://github.com/egartley/archive">archive</a>: various things from 2013 to 2018<br>
 	<a rel="external noreferrer nofollow noopener" href="https://github.com/egartley/exoplanets">exoplanets</a>: visualizer and interface for confirmed exoplanets' data<br>
+	<a rel="external noreferrer nofollow noopener" href="https://github.com/egartley/jumper">jumper</a>: 2D platformer inspired by the popular 2010's mobile game "Doodle Jump"<br>
 	<a rel="external noreferrer nofollow noopener" href="https://github.com/egartley/misc-python">misc-python</a>: random scripts written in python, either fun or useful<br>
 	<a rel="external noreferrer nofollow noopener" href="https://github.com/egartley/net">net</a>: source for this website<br>
-	<a rel="external noreferrer nofollow noopener" href="https://github.com/egartley/pegasus">pegasus</a>: lightweight, simpler alternative to Wikipedia<br>
-	<a rel="external noreferrer nofollow noopener" href="https://github.com/egartley/site-manager">site-manager</a>: UWP application for this website (no longer being used)<br>
-	<a rel="external noreferrer nofollow noopener" href="https://github.com/egartley/tsp">tsp</a>: application of the "travelling salesman problem"
+	<a rel="external noreferrer nofollow noopener" href="https://github.com/egartley/school">school</a>: schoolwork for computer science & math classes<br>
+	<a rel="external noreferrer nofollow noopener" href="https://github.com/egartley/site-manager">site-manager</a>: UWP application for this website (no longer being used)
 </p>
-
-<p>Additional information about some of the projects shown above can be found <a rel="noreferrer noopener" href="/projects/?via=rev">here</a>.</p>
