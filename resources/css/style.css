@@ -40,7 +40,7 @@ a:active, a:hover { text-decoration: underline }
 .widget-title { font-size: 22px; margin-bottom: 18px }
 .widget-social>div { flex-flow: row nowrap; overflow-x: hidden }
 .widget-social>div>div { flex-flow: column nowrap }
-.widget-social>div>div>div { padding: 14px 20px 14px 6px; display: inline-flex }
+.widget-social>div>div>div { padding: 14px 34px 14px 6px; display: inline-flex }
 .widget-social>div>div>div>img { width: 26px; height: 26px; margin-right: 10px }
 .widget-social>div>div>div>span#text { transition: color .3s; font-size: 16px }
 .widget-social>div>div>div:hover, .widget-social>div>div>div:hover>span#text { color: var(--accent-color) }

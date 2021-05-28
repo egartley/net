@@ -3,11 +3,51 @@ permalink: /projects/beyond-origins/
 layout: wnefirst
 title: Beyond Origins
 base_url: /projects/
-last_updated: August 11, 2020 at 11:22 PM
+last_updated: May 28, 2021 at 12:39 PM
 ---
 
+<p>2D game written in Java. The intention is for this to be an RPG, with some puzzle elements. Right now, the focus is on creating mechanics and a framework for being able to properly implement a story and gameplay sometime in the future.</p>
 <p>Source code is available on GitHub: <a href="https://github.com/egartley/beyond-origins">https://github.com/egartley/beyond-origins</a>
 <br>The JavaDoc can be accessed <a href="/docs/beyond-origins/?via=intraprojectpage">here</a> as well.</p>
+<p>These are the features or game mechanics that have been implemented so far as of commit <a href="https://github.com/egartley/beyond-origins/commit/fd398016d82eeaf00bb2de16c7fcfeb0ec4a6ff4">fd39801</a>. A more technical outline may be added in the future, but the one below is meant for anyone to be able to understand.<br>
+<pre>- Core
+  - Entities, either animated or static (non-animated)
+    - Includes the player, other characters and objects
+  - Collision detection between entities
+    - The "side" in which the collision occured is calculated
+  - Maps, which are like levels or worlds
+    - These maps have different areas called sectors
+  - Management of keyboard and mouse input
+  - Debug mode, which displays technical information
+  - Ability to "wait" an amount of time before doing something
+  - Characters/NPCs can talk to the player
+    - Dialogue is shown in a box at the bottom of the screen
+    - The full text of the dialogue is automatically broken into lines
+    - If there is more than can be displayed, press space to advance
+  - User interface elements, such as the inventory panel or buttons
+    - Can be clicked and enabled/disabled
+  - Notification banners that show for a short period of time
+    - Slide in/out at the top of the screen
+    - Can have an icon, or small image, and text
+  - Basic saving and loading
+- Player
+  - Controlled with WASD keys (up, left, down, right)
+  - Can move between different maps and sectors (described above)
+  - Ability to attack other entities that are damageable
+  - Gain experience and level up
+- Inventory
+  - Accessed by pressing E
+  - Can hold different items
+  - These items can be re-arranged in slots
+  - They can also be dropped by dragging them out
+  - Dropped items can be picked up again
+  - Tooltips are shown upon hovering over the item
+- Quests
+  - Accessed by pressing E and clicking the quests tab
+  - Given to the player by talking to NPCs or other means
+  - A list of objectives, or tasks, to complete
+  - User interface to view active quests and their objectives</pre>
+</p>
 <p>A video showing what's currently implemented can be viewed at <a href="https://youtu.be/9yA8Gh5eoog" rel="noopener norefer">https://youtu.be/9yA8Gh5eoog</a>.<br>Screenshots of features shown in the demo video:</p>
 <style type="text/css">img{width:80%;max-width:1009px !important;height:80%;max-height:623px !important}</style>
 <img src="https://raw.githubusercontent.com/egartley/media/master/screenshots/beyond-origins.png">
