@@ -17,7 +17,7 @@ a:active, a:hover { text-decoration: underline }
 .page { flex-grow: 5; margin-right: 18px; max-width: 1050px }
 .spacer { height: 1px; margin-bottom: 12px; background: var(--accent-color); box-shadow: 0 0 8px 1px var(--accent-color); width:100% }
 .content { line-height: 1.75; margin-top: 12px; margin-bottom: 52px; min-height: 550px }
-.sidebar { flex-grow: 2; padding: 26px 18px 18px; line-height: 1.5; max-width: 400px; max-height: 780px }
+.sidebar { flex-grow: 2; padding: 26px 18px 18px; line-height: 1.5; max-width: 400px; max-height: 800px }
 .nav { width: 100%; min-height: 100px; margin-top: 18px; margin-bottom: 32px }
 .nav-elements { flex-grow: 1; margin-right: 24px }
 .nav-elements>.hitbox { padding: 12px 16px; background-color: var(--accent-color); border-style: solid; border-color: var(--accent-color-darker); border-width: 2px; border-radius: 12px; display: flex; align-items: center; justify-content: center; box-shadow: 0 0 10px 1px var(--accent-color) }
@@ -55,6 +55,7 @@ a:active, a:hover { text-decoration: underline }
 	.nav>span.nav-elements>div.hitbox.active { margin-top: 0 }
 	.home-container, .nav-elements>.hitbox:last-child { margin-right: 24px }
 	.home-button, .page { margin-right: 0 }
+	.home-button { margin-left: 18px }
 	.home-button>img { width: 52px; height: 52px }
 	.nav-elements>.hitbox:not(:last-child) { margin-right: 16px }
 	.content-container { flex-direction: column }
