@@ -1,5 +1,5 @@
 :root { --accent-color: #1363DF; --accent-color-darker: #1054BE; --root-background-color-light: #FFF;  --secondary-background-color-light: #FAFAFA; --secondary-background-color-light-darker: #D4D4D4; --primary-text-color-light: black; --secondary-text-color-light: darkgrey }
-body, html { font-family: "Montserrat", serif }
+body, html { font-family: "Roboto", serif }
 body { background-color: var(--root-background-color-light) }
 body, .widget-social>div>div>div>span#text>a { color: var(--primary-text-color-light) }
 .card { border-radius: 12px; border: 1px solid; border-color: var(--secondary-background-color-light-darker); background-color: var(--secondary-background-color-light); box-shadow: 0 0 10px 2px var(--secondary-background-color-light-darker); }
@@ -22,7 +22,7 @@ a:active, a:hover { text-decoration: underline }
 .nav-elements { flex-grow: 1; margin-right: 24px }
 .nav-elements>.hitbox { padding: 12px 16px; background-color: var(--accent-color); border-style: solid; border-color: var(--accent-color-darker); border-width: 2px; border-radius: 12px; display: flex; align-items: center; justify-content: center; box-shadow: 0 0 10px 1px var(--accent-color) }
 .nav-elements>.hitbox:hover { cursor: pointer }
-.nav-elements>.hitbox>span.text { font-size: 20px; color: white; font-weight: bold }
+.nav-elements>.hitbox>span.text { font-size: 20px; color: white }
 .nav-elements>.hitbox:not(:last-child) { margin-right: 32px }
 .home-container { margin-right: 64px }
 .home-button { margin-right: 18px }
