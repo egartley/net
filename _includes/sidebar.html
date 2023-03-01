@@ -17,36 +17,68 @@
 </div>
 <div class="spacer"></div>
 <div class="widget">
-    <div class="widget-content widget-newadded">
-        <div class="widget-title">Newly Updated</div>
-        <p>
-            <a href="/projects">https://egartley.net/projects</a><br>
-            <a href="/projects/jumper">https://egartley.net/projects/jumper</a><br>
-            <a href="/game-records">https://egartley.net/game-records</a>
-        </p>
-    </div>
-</div>
-<div class="spacer"></div>
-<div class="widget">
-    <div class="widget-content widget-netlify">
-        <div style="display:flex;align-items:center">
-            <img style="margin-right:12px;width:36px;height:36px" src="/resources/png/netlify.png"><span>Powered by <a href="https://netlify.com">Netlify</a></span>
+    <div class="widget-title">Release Radar</div>
+    <div class="widget-content widget-releaseradar">
+        <style type="text/css">
+            div.rrdiv {
+                margin-bottom: 12px;
+                margin-left: -12px;
+                flex-direction: row
+            }
+            div.rrdiv > img {
+                margin-left: 12px;
+                width: 72px;
+                height: 72px;
+                box-shadow: 0 0 4px #000
+            }
+            img#tok {
+                background: url(/resources/png/release-radar.png) -72px 0px
+            }
+            img#silksong {
+                background: url(/resources/png/release-radar.png) 0px 0px
+            }
+            img#ffxvi {
+                background: url(/resources/png/release-radar.png) -72px -72px
+            }
+            img#ds2 {
+                background: url(/resources/png/release-radar.png) -144px 0px
+            }
+            img#kh4 {
+                background: url(/resources/png/release-radar.png) 0px -72px
+            }
+            img#avatar {
+                background: url(/resources/png/release-radar.png) -144px -72px
+            }
+            img#sh2 {
+                background: url(/resources/png/release-radar.png) 0px -144px
+            }
+            img#ac6 {
+                background: url(/resources/png/release-radar.png) -72px -144px
+            }
+        </style>
+        <div class="flex rrdiv">
+            <img src="/resources/png/blank.png" id="tok">
+            <img src="/resources/png/blank.png" id="silksong">
+            <img src="/resources/png/blank.png" id="ffxvi">
+            <img src="/resources/png/blank.png" id="ds2">
         </div>
+        <div class="flex rrdiv">
+            <img src="/resources/png/blank.png" id="kh4">
+            <img src="/resources/png/blank.png" id="avatar">
+            <img src="/resources/png/blank.png" id="sh2">
+            <img src="/resources/png/blank.png" id="ac6">
+        </div>
+        <p><a href="/game-records">View all played games</a></p>
     </div>
 </div>
 <div class="spacer"></div>
-<div class="widget">
-    <div class="widget-title"></div>
-    <div class="widget-content widget-usa">
-        <img src="/resources/png/flag.png" style="width:100%;height:100%">
-    </div>
-</div>
 <div class="widget">
     <div class="widget-title"></div>
     <div class="widget-content widget-build">
         <span>
             Last built on <span class="bold">{{ "now" | date: "%B %d, %Y at %I:%M %p (GMT)" }}</span><br>
-            <a href="https://github.com/egartley/net">View Source Code</a>
+            Created with Jekyll, hosted by Netlify<br>
+            View source code on <a href="https://github.com/egartley/net">GitHub</a>
         </span>
     </div>
 </div>
