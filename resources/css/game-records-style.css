@@ -1,0 +1,16 @@
+div.gamecard-container { display: flex; flex-direction: row; flex-wrap: wrap; align-items: center }
+div.gamecard-outer>img { height: 64px; width: 64px; box-shadow: 0 0 4px #000 }
+span.gamecard-title { font-size: 16px; font-weight: 700; padding-top: 8px }
+span.gamecard-title>img { margin-left: 4px }
+span.gamecard-subtext { font-size: 12px; font-style: italic }
+div.gamecard { width: 180px; padding: 16px 16px 8px 16px; margin-right: 24px; margin-bottom: 24px; height: fit-content }
+div.gamecard-inner { justify-content: center; margin-left: 8px }
+div.gamecard, div.gamecard-inner { flex-direction: column }
+div.gamecard-outer, span.gamecard-rating { flex-direction: row }
+a.qn-link { margin-right: 10px; font-size: 18px }
+div.stat-container { display: flex; flex-direction: row }
+div.stat { margin-right: 28px }
+span.gamecard-rating>img { width: 16px; height: 16px }
+@media screen and (max-width:1072px) {
+	div.stat-container { flex-direction: column }
+}
