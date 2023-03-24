@@ -11,6 +11,8 @@ a.qn-link { margin-right: 10px; font-size: 18px }
 div.stat-container { display: flex; flex-direction: row }
 div.stat { margin-right: 28px }
 span.gamecard-rating>img { width: 16px; height: 16px }
+div.modal { display: none; justify-content: center; align-items: center; position: fixed; z-index: 1; left: 0; top: 0; width: 100%; height: 100%; overflow: auto; background-color: rgba(0, 0, 0, 0.8) }
+div.modal-content { padding: 4px 18px; width: 300px }
 @media screen and (max-width:1072px) {
 	div.stat-container { flex-direction: column }
 }
