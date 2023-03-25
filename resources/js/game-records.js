@@ -19,10 +19,11 @@ function getNote(gameid) {
 $(document).ready(function() {
     getNotesJSON();
     var modal = $("div.modal");
-    $("div.gamecard").click(function() {
+    // temp disable
+    /*$("div.gamecard").click(function() {
         modal.css("display", "flex");
         $("p#modal-text").html(getNote($(this).find("span#gameid").attr("gameid")))
-    });
+    });*/
     modal.click(function() {
         modal.css("display", "none")
     })
