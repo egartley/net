@@ -63,7 +63,7 @@ a:active, a:hover { text-decoration: underline }
 	.home-button>img { width: 52px; height: 52px }
 	.nav-elements>.hitbox:not(:last-child) { margin-right: 16px }
 	.content-container { flex-direction: column }
-	.card { border-radius: 0 }
+    .content-container>.card { border-width: 0; box-shadow: none; border-radius: 0 }
 	.page, .sidebar { max-width: 100% }
 	.content { min-height: 426px }
 	.page-title { font-size: 32px }
