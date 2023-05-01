@@ -50,7 +50,7 @@ a:active, a:hover { text-decoration: underline }
 .pcard>a>img { width: 95%; height: 80%; transition: width .25s, height .25s }
 .pcard>a>img:hover { width: 99%; height: 84% }
 .pcard>span#title { font-weight: 700; margin-top: -18px }
-.botw-font, div.widget-title, .home-title>span#title { font-family: "HyliaSerif" }
+.botw-font, span.page-title, div.widget-title, .home-title>span#title { font-family: "HyliaSerif" }
 @media screen and (max-width:1072px) {
 	.root { justify-content: initial; align-items: initial; align-content: initial; height: initial }
 	.nav { border-radius: 0; overflow-x: scroll; min-height: 72px; -webkit-overflow-scrolling: touch }
