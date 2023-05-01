@@ -1,0 +1,9 @@
+div.songcard { margin-bottom: 24px }
+div.songcard-scores > span { margin-right: 16px }
+span.songcard-title { font-weight: bold; font-size: 18px }
+span.songcard-series { color: var(--secondary-text-color-dark); font-size: 12px }
+span.songcard-beginner { color: #ffdd60 }
+span.songcard-expert { color: #2c94ff }
+span.songcard-ultimate { color: #ff5e00 }
+span.songcard-supreme { color: #8f02a9 }
+a.qn-link { margin-right: 10px; font-size: 18px }
