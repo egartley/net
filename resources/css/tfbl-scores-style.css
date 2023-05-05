@@ -1,9 +1,13 @@
 div.songcard { margin-bottom: 24px }
-div.songcard-scores > span { margin-right: 16px }
-span.songcard-title { font-weight: bold; font-size: 18px }
+div.songcard-scores > span { margin-right: 16px; font-size: 18px }
+span.songcard-title { font-weight: bold; font-size: 18px; align-items: center }
+span.songcard-title > span { margin-left: 8px; font-size: 11px; padding: 1px 6px; border-radius: 4px }
+span.songcard-title > span.songcard-ems { background-color: #0064AA }
+span.songcard-title > span.songcard-bms { background-color: #C40600 }
+span.songcard-title > span.songcard-fms { background-color: #49B204 }
 span.songcard-series { color: var(--secondary-text-color-dark); font-size: 12px }
-span.songcard-beginner { color: #ffdd60 }
-span.songcard-expert { color: #2c94ff }
-span.songcard-ultimate { color: #ff5e00 }
-span.songcard-supreme { color: #8f02a9 }
+span.songcard-beginner { color: #F4DC31 }
+span.songcard-expert { color: #23A6D0 }
+span.songcard-ultimate { color: #EF5401 }
+span.songcard-supreme { color: #9556FF }
 a.qn-link { margin-right: 10px; font-size: 18px }
