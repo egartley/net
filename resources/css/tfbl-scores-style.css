@@ -1,4 +1,6 @@
 div.songcard { margin-bottom: 24px }
+div.songcard:first-child { margin-top: 24px }
+div.songcard:nth-child(odd) { background-color: #1a1a1a }
 div.songcard-scores > span { margin-right: 16px; font-size: 18px }
 span.songcard-title { font-weight: bold; font-size: 18px; align-items: center }
 span.songcard-title > span { margin-left: 8px; font-size: 11px; padding: 1px 6px; border-radius: 4px }
@@ -10,4 +12,4 @@ span.songcard-beginner { color: #F4DC31 }
 span.songcard-expert { color: #23A6D0 }
 span.songcard-ultimate { color: #EF5401 }
 span.songcard-supreme { color: #9556FF }
-a.qn-link { margin-right: 10px; font-size: 18px }
+span.showhide { font-size: 1.5em; color: var(--link-color); margin-left: 12px; background-color: #1a1a1a; padding: 4px 8px; border-radius: 8px}
