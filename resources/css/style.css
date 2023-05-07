@@ -32,8 +32,7 @@ a:active, a:hover { text-decoration: underline }
 .home-button { margin-right: 18px }
 .home-button>img { width: 76px; height: 76px }
 .home-button:hover { cursor: pointer }
-.home-title>span#title { font-size: 28px; margin-bottom: 8px; text-transform: uppercase }
-.home-title>span#subtitle { font-style: italic }
+.home-title>span#title { font-size: 28px; text-transform: uppercase }
 .content-container { width: 100%; justify-content: space-between; margin-bottom: 12px }
 .page-content { margin: 18px }
 .page-title { font-size: 42px; margin-bottom: 12px }
