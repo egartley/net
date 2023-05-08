@@ -1,0 +1,12 @@
+div.songcard { margin-bottom: 24px }
+div.songcard:first-child { margin-top: 24px }
+div.songcard:nth-child(odd) { background-color: #1a1a1a }
+div.songcard-scores > span { margin-right: 16px; font-size: 18px }
+span.songcard-title { font-weight: bold; font-size: 18px; align-items: center }
+span.songcard-title > span { margin-left: 8px; font-size: 11px; padding: 1px 6px; border-radius: 4px }
+span.songcard-title > span.songcard-memory { background-color: #0064AA }
+span.songcard-title > span.songcard-boss { background-color: #C40600 }
+span.songcard-series { color: var(--secondary-text-color-dark); font-size: 12px }
+span.songcard-beginner { color: #F4DC31 }
+span.songcard-standard { color: #23A6D0 }
+span.songcard-proud { color: #EF5401 }
