@@ -1,10 +1,8 @@
 title: "egartley.net"
-subtitle: "Computer Science student at WNE"
 baseurl: ""
 url: "https://egartley.net"
 include: ["_pages", "docs"]
 exclude:
   - run.bat
-  - google0ba76d0f2cd1b895.html
   - robots.txt
   - README.md
