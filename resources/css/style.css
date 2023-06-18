@@ -3,7 +3,7 @@ body, html { font-family: Roboto, serif }
 body { background-image: url("/resources/png/totk-background.png"); background-color: var(--root-background-color-dark) }
 .widget-social>div>div>div>span#text>a, body { color: var(--primary-text-color-dark) }
 .card { border-radius: 12px; border: 2px solid; border-color: var(--accent-color); background-color: var(--secondary-background-color-dark); box-shadow: 0 0 4px 1px var(--accent-color-darker) }
-.page-content>span#meta { color: var(--secondary-text-color-dark) }
+.page-content>span#meta, .page-content>span#breadcrumbs { color: var(--secondary-text-color-dark) }
 a { text-decoration: none; color: var(--link-color) }
 a:active, a:hover { text-decoration: underline }
 .root { align-content: flex-start; align-items: flex-start; max-width: 1520px; margin: auto }
