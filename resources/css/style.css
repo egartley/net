@@ -73,7 +73,7 @@ a:hover { text-decoration: underline }
 .pcard>span#title { font-weight: 700; margin-top: -18px }
 
 @media screen and (max-width:1072px) {
-	.root { justify-content: initial; align-items: initial; align-content: initial; height: initial }
+	.root { justify-content: initial; align-items: initial; align-content: initial; height: initial; margin-top: 4px }
 	.nav { border-radius: 0; overflow-x: scroll; min-height: 72px; -webkit-overflow-scrolling: touch }
 	.nav,
 	body { margin: 0 }
