@@ -1,12 +1,29 @@
-:root { --accent-color: #1f5d50; --accent-color-darker: #18473d; --link-color: #49d59c; --totk-gold: #b99f65; --root-background-color-light: #fff; --root-background-color-dark: #0a0a0a; --secondary-background-color-light: #fafafa; --secondary-background-color-dark: #050505; --secondary-background-color-dark-darker: #030303; --secondary-background-color-light-darker: #d4d4d4; --primary-text-color-light: black; --primary-text-color-dark: whitesmoke; --secondary-text-color-light: darkgrey; --secondary-text-color-dark: grey }
-body, html { font-family: Roboto, serif }
-body { background-image: url("/resources/png/totk-background.png"); background-color: var(--root-background-color-dark) }
-.widget-social>div>div>div>span#text>a, body { color: var(--primary-text-color-dark) }
-.card { border-radius: 12px; border: 2px solid; border-color: var(--accent-color); background-color: var(--secondary-background-color-dark); box-shadow: 0 0 4px 1px var(--accent-color-darker) }
-.page-content>span#meta, .page-content>span#breadcrumbs { color: var(--secondary-text-color-dark) }
+:root {
+	--link-color: #9ec4ff;
+	--primary-text-color: whitesmoke;
+	--secondary-text-color: lightgrey
+}
+html {
+	min-height: -webkit-fill-available;
+	min-height: -moz-available;
+	min-height: fill-available;
+	background: linear-gradient(45deg, rgba(30,205,255,1) 15%, rgba(0,39,255,1) 50%, rgb(85, 0, 223) 85%)
+}
+body { color: var(--primary-text-color) }
+body,
+html { font-family: Poppins, serif }
+.page-content>span#meta,
+.page-content>span#breadcrumbs { color: var(--secondary-text-color) }
+.blur-container {
+	box-shadow: 0 0 1rem 0 rgba(0, 0, 0, .2);
+	border-radius: 16px;
+	background-color: rgba(0, 0, 0, .45);
+	backdrop-filter: blur(5px)
+}
 a { text-decoration: none; color: var(--link-color) }
-a:active, a:hover { text-decoration: underline }
-.root { align-content: flex-start; align-items: flex-start; max-width: 1520px; margin: auto }
+a:active,
+a:hover { text-decoration: underline }
+.root { margin: auto; margin-top: 16px; max-width: 1600px }
 .bold { font-weight: 700 }
 .col { flex-direction: column }
 .flex { display: flex }
@@ -14,68 +31,65 @@ a:active, a:hover { text-decoration: underline }
 .small-text { font-size: 12px }
 .center-text { text-align: center }
 .center-items { align-items: center }
-.page { flex-grow: 5; margin-right: 18px; max-width: 1050px }
-.spacer { height: 7px; margin-bottom: 18px; background-image: url("/resources/png/rune-letters.png") }
+.spacer { height: 7px; margin-bottom: 18px }
 .content { line-height: 1.75; margin-top: 12px; margin-bottom: 22px; min-height: 550px }
-.sidebar { flex-grow: 2; padding: 18px; line-height: 1.5; max-width: 400px; height: 100% }
-.nav { width: 100%; min-height: 100px; margin-top: 18px; margin-bottom: 32px }
-.nav-elements { flex-grow: 1; margin-right: 24px }
-.nav-elements>.hitbox { padding: 12px 16px; background-color: var(--accent-color); display: flex; align-items: center; justify-content: center; position: relative; transition-property: background-color; transition-duration: 1s }
-.nav-elements>.hitbox:hover { cursor: pointer; background-color: var(--link-color) }
-.nav-elements>.hitbox>span.text { font-size: 20px; color: var(--primary-text-color-dark) }
-.nav-elements>.hitbox>span.totk-gold-accent { position: absolute; bottom: 0; left: 0; height: 4px; width: 100%; background-color: var(--totk-gold) }
-.nav-elements>.hitbox>span.totk-border-top { position: absolute; top: 0; left: 0; height: 2px; width: 100%; background-color: var(--accent-color-darker) }
-.nav-elements>.hitbox>span.totk-border-left { position: absolute; top: 0; left: 0; height: calc(100% - 4px); width: 2px; background-color: var(--accent-color-darker) }
-.nav-elements>.hitbox>span.totk-border-right { position: absolute; top: 0; right: 0; height: calc(100% - 4px); width: 2px; background-color: var(--accent-color-darker) }
+.sidebar { padding: 18px; padding-right: 32px; line-height: 1.5; max-width: 400px; height: 100% }
+.nav { margin-bottom: 12px; justify-content: space-between }
+.nav-elements>.hitbox {
+	padding: 12px 16px;
+	color: var(--primary-text-color);
+	box-shadow: 0 0 1rem 0 transparent;
+	border-radius: 8px;
+	background-color: transparent;
+	backdrop-filter: blur(5px);
+	transition-property: background-color, box-shadow;
+	transition-duration: 0.5s
+}
+.nav-elements>.hitbox:hover { cursor: pointer; box-shadow: 0 0 1rem 0 rgba(0, 0, 0, .2); background-color: rgba(0, 0, 0, .45) }
+.nav-elements>.hitbox>span.text { font-size: 20px }
 .nav-elements>.hitbox:not(:last-child) { margin-right: 32px }
-.home-container { margin-right: 64px }
 .home-button { margin-right: 18px }
-.home-button>img { width: 76px; height: 76px }
+.home-button>img { width: 52px; height: 52px }
 .home-button:hover { cursor: pointer }
-.home-title>span#title { font-size: 28px; text-transform: uppercase }
-.content-container { width: 100%; justify-content: space-between; margin-bottom: 12px }
+.home-container>span.home-title { font-size: 26px; margin-top: -4px }
+.home-container>span.home-title:hover { cursor: pointer; text-decoration: underline }
+.content-container { justify-content: space-between }
 .page-content { margin: 18px }
 .page-title { font-size: 42px; margin-bottom: 12px }
-.sidebar>.spacer { margin-top: 36px; margin-bottom: 36px }
+.widget { margin: 36px 0 }
 .widget-title { font-size: 22px; margin-bottom: 18px }
 .widget-social>div { flex-flow: row nowrap; overflow-x: hidden }
 .widget-social>div>div { flex-flow: column nowrap }
 .widget-social>div>div>div { padding: 14px 34px 14px 6px; display: inline-flex }
 .widget-social>div>div>div>img { width: 26px; height: 26px; margin-right: 10px }
 .widget-social>div>div>div>span#text { transition: color .3s; font-size: 16px }
-.widget-social>div>div>div:hover, .widget-social>div>div>div:hover>span#text { color: var(--accent-color) }
+.widget-social>div>div>div:hover,
+.widget-social>div>div>div:hover>span#text { color: var(--link-color) }
+.widget-social>div>div>div>span#text>a { color: var(--primary-text-color) }
 .pcard { width: 250px; height: 170px; padding-top: 4px; margin-bottom: 18px }
 .pcard:not(:last-child) { margin-right: 12px }
 .pcard>a>img { width: 95%; height: 80%; transition: width .25s, height .25s }
 .pcard>a>img:hover { width: 99%; height: 84% }
 .pcard>span#title { font-weight: 700; margin-top: -18px }
-.botw-font, span.page-title, div.widget-title, .home-title>span#title { font-family: "HyliaSerif" }
+
 @media screen and (max-width:1072px) {
 	.root { justify-content: initial; align-items: initial; align-content: initial; height: initial }
 	.nav { border-radius: 0; overflow-x: scroll; min-height: 72px; -webkit-overflow-scrolling: touch }
-	.nav, body { margin: 0 }
-	.home-title, .nav>span.nav-elements>div.hitbox.active>span.dot { display: none }
+	.nav,
+	body { margin: 0 }
+	.home-title { display: none }
 	.nav>span.nav-elements>div.hitbox.active { margin-top: 0 }
-	.home-container, .nav-elements>.hitbox:last-child { margin-right: 24px }
-	.home-button, .page { margin-right: 0 }
+	.home-container,
+	.nav-elements>.hitbox:last-child { margin-right: 24px }
+	.home-button,
+	.page { margin-right: 0 }
 	.home-button { margin-left: 18px }
 	.home-button>img { width: 52px; height: 52px }
 	.nav-elements>.hitbox:not(:last-child) { margin-right: 16px }
 	.content-container { flex-direction: column }
-    .content-container>.card { border-width: 0; box-shadow: none; border-radius: 0 }
 	.page, .sidebar { max-width: 100% }
 	.content { min-height: 426px }
 	.page-title { font-size: 32px }
 	.pcard-container { flex-direction: column }
 	.pcard:not(:last-child) { margin-bottom: 14px }
-}
-@keyframes g {
-	0%, 100% { background-position: 0 50% }
-	50% { background-position: 100% 50% }
-}
-@font-face {
-    font-family: "HyliaSerif";
-    src: url("/resources/font/HyliaSerif.woff2") format("woff2"),
-        url("/resources/font/HyliaSerif.woff") format("woff"),
-        url("/resources/font/HyliaSerif.ttf") format("truetype")
 }
