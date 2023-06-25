@@ -23,7 +23,7 @@ html { font-family: Poppins, serif }
 a { text-decoration: none; color: var(--link-color) }
 a:active,
 a:hover { text-decoration: underline }
-.root { margin: 12px 22px }
+.root { margin: auto; margin-top: 16px; max-width: 1600px }
 .bold { font-weight: 700 }
 .col { flex-direction: column }
 .flex { display: flex }
