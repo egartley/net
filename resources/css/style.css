@@ -1,25 +1,17 @@
 :root {
-	--link-color: #9ec4ff;
+	--link-color: #3493ff;
 	--primary-text-color: whitesmoke;
 	--secondary-text-color: lightgrey
 }
 html {
-	min-height: -webkit-fill-available;
-	min-height: -moz-available;
-	min-height: fill-available;
-	background: linear-gradient(45deg, rgba(30,205,255,1) 15%, rgba(0,39,255,1) 50%, rgb(85, 0, 223) 85%)
+	background-color: #1e1e1e
 }
 body { color: var(--primary-text-color) }
 body,
 html { font-family: Poppins, serif }
 .page-content>span#meta,
 .page-content>span#breadcrumbs { color: var(--secondary-text-color) }
-.blur-container {
-	box-shadow: 0 0 1rem 0 rgba(0, 0, 0, .2);
-	border-radius: 16px;
-	background-color: rgba(0, 0, 0, .45);
-	backdrop-filter: blur(5px)
-}
+.page-content>span#meta { margin-top: 8px }
 a { text-decoration: none; color: var(--link-color) }
 a:active,
 a:hover { text-decoration: underline }
@@ -31,10 +23,20 @@ a:hover { text-decoration: underline }
 .small-text { font-size: 12px }
 .center-text { text-align: center }
 .center-items { align-items: center }
-.spacer { height: 7px; margin-bottom: 18px }
-.content { line-height: 1.75; margin-top: 12px; margin-bottom: 22px; min-height: 550px }
+.spacer {
+	display: block;
+	height: 2px;
+	background: linear-gradient(90deg, rgb(0, 119, 255) 15%, rgb(0, 39, 255) 50%, rgb(85, 0, 223) 85%)
+}
+.content { line-height: 1.75; margin-bottom: 22px; min-height: 550px }
 .sidebar { padding: 18px; padding-right: 32px; line-height: 1.5; max-width: 400px; height: 100% }
-.nav { margin-bottom: 12px; justify-content: space-between }
+.nav {
+	margin-bottom: 18px;
+	justify-content: space-between;
+	background: linear-gradient(90deg, rgb(0, 119, 255) 15%, rgb(0, 39, 255) 50%, rgb(85, 0, 223) 85%);
+	padding: 12px;
+	border-radius: 16px
+}
 .nav-elements>.hitbox {
 	padding: 12px 16px;
 	color: var(--primary-text-color);
@@ -48,15 +50,24 @@ a:hover { text-decoration: underline }
 .nav-elements>.hitbox:hover { cursor: pointer; box-shadow: 0 0 1rem 0 rgba(0, 0, 0, .2); background-color: rgba(0, 0, 0, .45) }
 .nav-elements>.hitbox>span.text { font-size: 20px }
 .nav-elements>.hitbox:not(:last-child) { margin-right: 32px }
-.home-button { margin-right: 18px }
+.home-button { margin-right: 18px; height: 52px }
 .home-button>img { width: 52px; height: 52px }
 .home-button:hover { cursor: pointer }
-.home-container>span.home-title { font-size: 26px; margin-top: -4px }
+.home-container>span.home-title { font-size: 26px }
 .home-container>span.home-title:hover { cursor: pointer; text-decoration: underline }
-.content-container { justify-content: space-between }
-.page-content { margin: 18px }
-.page-title { font-size: 42px; margin-bottom: 12px }
+.page-content,
+.sidebar {
+	justify-content: space-between;
+	box-shadow: 0 0 1rem 0 rgba(0, 0, 0, .2);
+	border-radius: 16px;
+	background-color: rgba(0, 0, 0, .45);
+	backdrop-filter: blur(5px)
+}
+.page-content { padding: 18px; width: -moz-available; width: -webkit-fill-available; margin-right: 18px }
+.page-title { font-size: 42px }
 .widget { margin: 36px 0 }
+.widget:first-child { margin-top: 0 }
+.widget:last-child { margin-bottom: 8px }
 .widget-title { font-size: 22px; margin-bottom: 18px }
 .widget-social>div { flex-flow: row nowrap; overflow-x: hidden }
 .widget-social>div>div { flex-flow: column nowrap }

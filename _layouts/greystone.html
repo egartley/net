@@ -9,15 +9,14 @@
             <div class="nav flex center-items">
                 {% include navigation.html %}
             </div>
-            <div class="content-container flex blur-container">
-                <div>
-                    <div class="page-content flex col">
-                        <span class="page-title">{{ page.title }}</span>
-                        <span class="small-text" id="meta"><span class="bold">Last updated:</span> {{ page.last_updated }} (EDT)</span>
-                        {% include breadcrumbs.html %}
-                        <div class="content">
-                            {{ content }}
-                        </div>
+            <div class="content-container flex">
+                <div class="page-content flex col">
+                    <span class="page-title">{{ page.title }}</span>
+                    <span class="spacer"></span>
+                    <span class="small-text" id="meta"><span class="bold">Last updated:</span> {{ page.last_updated }} (EDT)</span>
+                    {% include breadcrumbs.html %}
+                    <div class="content">
+                        {{ content }}
                     </div>
                 </div>
                 <div class="sidebar">
