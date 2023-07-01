@@ -84,23 +84,22 @@ a:hover { text-decoration: underline }
 .pcard>span#title { font-weight: 700; margin-top: -18px }
 
 @media screen and (max-width:1072px) {
-	.root { justify-content: initial; align-items: initial; align-content: initial; height: initial; margin-top: 4px }
-	.nav { border-radius: 0; overflow-x: scroll; min-height: 72px; -webkit-overflow-scrolling: touch }
-	.nav,
-	body { margin: 0 }
+	.root { justify-content: initial; align-items: initial; align-content: initial; height: initial; margin-top: 0 }
+	.nav { border-radius: 0; overflow-x: scroll; -webkit-overflow-scrolling: touch; padding: 6px }
+	.nav, body { margin: 0 }
 	.home-title { display: none }
-	.nav>span.nav-elements>div.hitbox.active { margin-top: 0 }
-	.home-container,
 	.nav-elements>.hitbox:last-child { margin-right: 24px }
-	.home-button,
-	.page { margin-right: 0 }
-	.home-button { margin-left: 18px }
-	.home-button>img { width: 52px; height: 52px }
+	.home-container { margin-right: 12px }
+	.home-button { margin-right: 0; margin-left: 18px; height: 46px }
+	.home-button>img { width: 46px; height: 46px }
 	.nav-elements>.hitbox:not(:last-child) { margin-right: 16px }
 	.content-container { flex-direction: column }
-	.page, .sidebar { max-width: 100% }
+	.page-content, .sidebar { max-width: 100%; border-radius: 0 }
 	.content { min-height: 426px }
+	.page-content { margin-right: 0 }
 	.page-title { font-size: 32px }
+	.sidebar { padding-right: 18px }
+	.widget:last-child { margin-bottom: 36px }
 	.pcard-container { flex-direction: column }
 	.pcard:not(:last-child) { margin-bottom: 14px }
 }
