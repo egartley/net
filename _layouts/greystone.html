@@ -1,16 +1,15 @@
 <!DOCTYPE html>
-<html>
-<head>
-    <title>{{ page.title }} - egartley.net</title>
-    {% include minheader.html %}
-</head>
-<body>
-    <div class="root flex col">
-        <div class="nav flex center-items">
-            {% include navigationbar.html %}
-        </div>
-        <div class="content-container flex">
-            <div class="page card">
+<html lang="en">
+    <head>
+        <title>{{ page.title }} - egartley.net</title>
+        {% include header.html %}
+    </head>
+    <body>
+        <div class="root flex col">
+            <div class="nav flex center-items">
+                {% include navigation.html %}
+            </div>
+            <div class="content-container flex">
                 <div class="page-content flex col">
                     <span class="page-title">{{ page.title }}</span>
                     <span class="spacer"></span>
@@ -20,11 +19,10 @@
                         {{ content }}
                     </div>
                 </div>
-            </div>
-            <div class="sidebar card">
-                {% include sidebar.html %}
+                <div class="sidebar">
+                    {% include sidebar.html %}
+                </div>
             </div>
         </div>
-    </div>
-</body>
+    </body>
 </html>
