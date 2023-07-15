@@ -1,4 +1,4 @@
-div.gamecard-container { display: flex; flex-direction: row; flex-wrap: wrap; align-items: center }
+div.gamecard-container { display: flex; flex-direction: row; flex-wrap: wrap; align-items: center; font-family: sans-serif }
 div.gamecard-outer>img { height: 64px; width: 64px; box-shadow: 0 0 4px #000 }
 span.gamecard-title { font-size: 16px; font-weight: 700; padding-top: 8px }
 span.gamecard-title>img { margin-left: 4px }
