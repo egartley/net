@@ -3,7 +3,8 @@ div.gamecard-outer>img { height: 64px; width: 64px; box-shadow: 0 0 4px #000 }
 span.gamecard-title { font-size: 16px; font-weight: 700; padding-top: 8px }
 span.gamecard-title>img { margin-left: 4px }
 span.gamecard-subtext { font-size: 12px; font-style: italic }
-div.gamecard { width: 180px; padding: 16px 16px 8px 16px; margin-right: 24px; margin-bottom: 24px; height: fit-content }
+div.gamecard { width: 180px; padding: 8px 16px; margin-right: 24px; margin-bottom: 24px; transition: background-color 0.25s; border-radius: 6px }
+div.gamecard:hover { background-color: #1e1e1e; cursor: pointer }
 div.gamecard-inner { justify-content: center; margin-left: 8px }
 div.gamecard, div.gamecard-inner { flex-direction: column }
 div.gamecard-outer, span.gamecard-rating { flex-direction: row }
