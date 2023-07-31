@@ -45,7 +45,7 @@ function loaddetails(allgames) {
     if (iconid.length < 6) {
         iconid = "0".repeat(6 - iconid.length) + iconid
     }
-    $("div#details-container > img").prop("src", "/resources/png/xshQS5ZxxjzMEsQ5/" + iconid + ".png")
+    $("div#details-container img.details-icon").prop("src", "/resources/png/xshQS5ZxxjzMEsQ5/" + iconid + ".png")
 
     // get game
     var game = null

@@ -3,8 +3,17 @@ div#details-container {
     font-size: 14px
 }
 
+div#details-container > div#icon-container {
+    margin-right: 24px;
+    width: 200px;
+    height: 200px;
+    align-items: center
+}
+
 div#details-container img.details-icon {
-    margin-right: 12px;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
     box-shadow: 0 0 4px #000
 }
 
@@ -15,4 +24,8 @@ span#title {
 span#title img {
     margin-left: 8px;
     padding-bottom: 2px
+}
+
+div#notes-container {
+    margin-top: 36px
 }
