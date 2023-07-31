@@ -32,7 +32,7 @@ function csvdone(data) {
 function loaddetails(allgames) {
     var loading = $("p#loading")
     var details = $("div#details-container")
-    // set icon
+    // validate id
     var id = -1;
     if (/^\d+$/.test(params.id)) {
         id = params.id
@@ -41,11 +41,6 @@ function loaddetails(allgames) {
         loading.html("Malformed ID")
         return
     }
-    var iconid = id
-    if (iconid.length < 6) {
-        iconid = "0".repeat(6 - iconid.length) + iconid
-    }
-    $("div#details-container img.details-icon").prop("src", "/resources/png/xshQS5ZxxjzMEsQ5/" + iconid + ".png")
 
     // get game
     var game = null
@@ -60,7 +55,14 @@ function loaddetails(allgames) {
         return
     }
 
-    // output details
+    // set icon
+    var iconid = id
+    if (iconid.length < 6) {
+        iconid = "0".repeat(6 - iconid.length) + iconid
+    }
+    $("div#details-container img.details-icon").prop("src", "/resources/png/xshQS5ZxxjzMEsQ5/" + iconid + ".png")
+
+    // set details
     var title = $("span#title")
     title.html(game.title)
     if (game.dlc == 1) {
