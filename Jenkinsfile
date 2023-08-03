@@ -36,12 +36,12 @@ pipeline {
             steps {
                 // upload _site directory to server with ssh
                 script {
-                    def path = "public_html"
+                    deploypath = "public_html"
                     if (params.DEPLOYLOCATION == "test") {
-                        path = path + "/test"
+                        deploypath += "/test"
                     }
-                    sh 'sudo rsync -rP -e "${RSYNC_SSH}" ${EXCLUDES} _site/ ${SSH_CONNECTION}:${path}'
                 }
+                sh "sudo rsync -rP -e \"${RSYNC_SSH}\" ${EXCLUDES} _site/ ${SSH_CONNECTION}:${deploypath}"
             }
         }
     }
