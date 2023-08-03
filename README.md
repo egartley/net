@@ -21,6 +21,8 @@ Alternatively, run `bundle exec jekyll serve` to view the site locally on port 4
 
 ## Deploy
 
-A Jenkins job is run to build from the master branch and copy the "_site" directory to the domain. It's triggered manually now, but a continous deployment solution will be implemented in the future. The server used is not online 24/7, but it would need to be for proper CD.
+A Jenkins pipeline (see [Jenkinsfile](https://github.com/egartley/net/blob/master/Jenkinsfile)) is run to build from the master branch and copy the "_site" directory to the website. It's triggered manually for now, but a continous deployment solution will be implemented in the future. The server used is not online 24/7, but it would need to be for proper CD.
 
 Prior to building, all URLs starting with "/resources" are replaced with "resources.egartley.net" so that the subdomain is properly utilized. They're kept as "/resources" in the files so that a local build uses local resources rather than the live versions.
+
+After building with Jeykll, the contents with of the "_site" directory are uploaded to the website with an SSH connection using rsync.
