@@ -4,7 +4,7 @@ pipeline {
         RSYNC_SSH = credentials('NETRSYNCSSH')
         SSH_CONNECTION = credentials('NETSSHCONNECTION')
         // directories to exclude from uploading (either too big or managed manually)
-        EXCLUDES = "--exclude /resources/json/aXoUztUmqZpBb8pz --exclude /resources/png/xshQS5ZxxjzMEsQ5 --exclude /resources/webp/xshQS5ZxxjzMEsQ5"
+        EXCLUDES = "--exclude Jenkinsfile --exclude /resources/json/aXoUztUmqZpBb8pz --exclude /resources/png/xshQS5ZxxjzMEsQ5 --exclude /resources/webp/xshQS5ZxxjzMEsQ5"
     }
     parameters {
         choice(name: 'DEPLOYLOCATION', choices: ['test', 'prod'], description: 'Whether to deploy to test or production location')
