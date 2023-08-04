@@ -32,15 +32,9 @@ function csvdone(data) {
 function loaddetails(allgames) {
     var loading = $("p#loading")
     var details = $("div#details-container")
-    // validate id
-    var id = -1;
-    if (/^\d+$/.test(params.id)) {
-        id = params.id
-    }
-    if (id == -1) {
-        loading.html("Malformed ID")
-        return
-    }
+    
+    // url id was validated before, safe to use directly
+    var id = params.id
 
     // get game
     var game = null
@@ -98,10 +92,45 @@ function loaddetails(allgames) {
     // toggle visibility
     loading.hide()
     details.show()
-    $("div#notes-container").show()
+
+    // notes
+    $.ajax({
+        url: 'https://raw.githubusercontent.com/egartley/records/master/games/notes.json',
+        dataType: 'text',
+    }).done(checknotes)
+}
+
+function checknotes(data) {
+    var notescontainer = $("div#notes-container")
+    var notesdata = null
+    try {
+        notesdata = JSON.parse(data)
+    } catch (e) {
+        notescontainer.show()
+        notescontainer.html("There was an issue while parsing the JSON from <a href=\"https://raw.githubusercontent.com/egartley/records/master/games/notes.json\">https://raw.githubusercontent.com/egartley/records/master/games/notes.json</a>")
+        return
+    }
+    // params.id can be used safely since this function won't be
+    // called if its malformed
+    if (notesdata[params.id] !== undefined) {
+        notescontainer.show()
+        // regex generated with bing chat ai, slightly modified
+        var sanitized = notesdata[params.id].replace(/[^a-zA-Z0-9.,?!'"\/\- ]/g, '');
+        notescontainer.html("<h2>Notes\n</h2>\n<p>" + sanitized + "</p>\n")
+    }
 }
 
 $(document).ready(function() {
+    // validate id before doing anything else
+    var id = -1;
+    if (/^\d+$/.test(params.id)) {
+        id = params.id
+    }
+    if (id == -1) {
+        $("p#loading").html("Malformed ID")
+        return
+    }
+    // get data csv
     $.ajax({
         url: 'https://raw.githubusercontent.com/egartley/records/master/games/games.csv',
         dataType: 'text',
