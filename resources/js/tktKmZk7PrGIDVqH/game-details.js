@@ -54,19 +54,19 @@ function loaddetails(allgames) {
     if (iconid.length < 6) {
         iconid = "0".repeat(6 - iconid.length) + iconid
     }
-    $("div#details-container img.details-icon").prop("src", "/resources/webp/xshQS5ZxxjzMEsQ5/" + iconid + ".webp")
+    $("div#details-container img.details-icon").prop("src", "/resources/png/xshQS5ZxxjzMEsQ5/" + iconid + ".png")
 
     // set details
     var title = $("span#title")
     title.html(game.title)
     if (game.dlc == 1) {
-        title.html(title.html() + "<img id=\"dlc\" alt=\"dlc\" src=\"/resources/webp/wT9F00t1BuDE9wRx/dlc.webp\">")
+        title.html(title.html() + "<img id=\"dlc\" alt=\"dlc\" src=\"/resources/png/wT9F00t1BuDE9wRx/dlc.png\">")
     }
     if (game.hundo == 1) {
-        title.html(title.html() + "<img id=\"100\" alt=\"100\" src=\"/resources/webp/wT9F00t1BuDE9wRx/100.webp\">")
+        title.html(title.html() + "<img id=\"100\" alt=\"100\" src=\"/resources/png/wT9F00t1BuDE9wRx/100.png\">")
     }
     if (game.plat == 1) {
-        title.html(title.html() + "<img id=\"platinum\" alt=\"platinum\" src=\"/resources/webp/wT9F00t1BuDE9wRx/plat.webp\">")
+        title.html(title.html() + "<img id=\"platinum\" alt=\"platinum\" src=\"/resources/png/wT9F00t1BuDE9wRx/plat.png\">")
     }
     $("span#year").html(game.year)
     $("span#company").html(game.company)
