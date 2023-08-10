@@ -19,17 +19,21 @@ pipeline {
         }
         stage("Build") {
             steps {
-                // replace all "/resources" with "https://resources.egartley.net"
+                // replace all "/resources/" with "https://resources.egartley.net/"
+                // then replace all "/png" and ".png" with "/webp" and ".webp"
                 script {
                     def matches = ["*.html", "*.css", "*.js"]
                     for (int i = 0; i < matches.size(); ++i) {
-                        sh "find . -type f -name \"${matches[i]}\" -print0 | xargs -0 sed -i 's/\\/resources\\//https:\\/\\/resources.egartley.net\\//g'"
+                        def resloc = "s/\\/resources\\//https:\\/\\/resources.egartley.net\\//g"
+                        if (params.DEPLOYLOCATION == "test") {
+                            resloc = "s/\\/resources\\//https:\\/\\/test.egartley.net\\/resources\\//g"
+                        }
+                        sh "find . -type f -name '${matches[i]}' -print0 | xargs -0 sed -i '${resloc}'"
+                        sh "find . -type f -name '${matches[i]}' -print0 | xargs -0 sed -i 's/\\/png/\\/webp/g'"
+                        sh "find . -type f -name '${matches[i]}' -print0 | xargs -0 sed -i 's/.png/.webp/g'"
                     }
                 }
-                // remove all existing webps
-                sh "rm -r resources/webp"
                 sh "mkdir resources/webp"
-                // compress pngs into webp
                 script {
                     // mirror subdirectories of png into webp
                     def subdirs = sh(returnStdout: true, script: 'ls -d resources/png/*').trim().split("\n")
@@ -47,7 +51,6 @@ pipeline {
                         }
                     }
                 }
-                // actually build with jekyll
                 sh """bundle install
                 bundle exec jekyll build"""
             }
