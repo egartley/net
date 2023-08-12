@@ -29,3 +29,13 @@ span#title img {
 div#notes-container {
     margin-top: 36px
 }
+
+@media screen and (max-width:1072px) {
+    div#details-container {
+        flex-direction: column
+    }
+    div#details-container > div#icon-container {
+        margin-right: 0;
+        margin-bottom: 24px
+    }
+}
