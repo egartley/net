@@ -1,5 +1,4 @@
 a.qn-link { margin-right: 10px; font-size: 18px }
-table { width: 100% }
 tr:nth-child(even) { background-color: #1a1a1a }
 th:not(:first-child) { text-align: left }
-td { padding-top: 12px; padding-bottom: 12px }
+td, th { padding: 8px 12px }
