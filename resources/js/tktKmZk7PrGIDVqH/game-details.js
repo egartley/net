@@ -60,13 +60,13 @@ function loaddetails(allgames) {
     var title = $("span#title")
     title.html(game.title)
     if (game.dlc == 1) {
-        title.html(title.html() + "<img id=\"dlc\" alt=\"dlc\" src=\"/resources/png/wT9F00t1BuDE9wRx/dlc.png\">")
+        title.html(title.html() + "<span class=\"dlc\">DLC</span>")
     }
     if (game.hundo == 1) {
-        title.html(title.html() + "<img id=\"100\" alt=\"100\" src=\"/resources/png/wT9F00t1BuDE9wRx/100.png\">")
+        title.html(title.html() + "<span class=\"hundo\">100%</span>")
     }
     if (game.plat == 1) {
-        title.html(title.html() + "<img id=\"platinum\" alt=\"platinum\" src=\"/resources/png/wT9F00t1BuDE9wRx/plat.png\">")
+        title.html(title.html() + "<img alt=\"platinum\" src=\"/resources/png/wT9F00t1BuDE9wRx/plat.png\">")
     }
     $("span#year").html(game.year)
     $("span#company").html(game.company)
