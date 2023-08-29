@@ -327,8 +327,8 @@ function buildGameList() {
             year: Number(subtexts.eq(0).html()),
             rating: getRating(gamecard.find("span.gamecard-rating").eq(0)),
             iconid: gamecard.find("img").eq(0).attr("id").substring(1),
-            hundo: gamecard.html().indexOf("img id=\"100\"") !== -1,
-            plat: gamecard.html().indexOf("img id=\"plat\"") !== -1,
+            hundo: gamecard.html().indexOf("class=\"hundo\"") !== -1,
+            plat: gamecard.html().indexOf("img alt=\"plat\"") !== -1,
             playthroughs: getPlaythroughs(playtext),
             html: gamecard.html()
         }

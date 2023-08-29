@@ -1,9 +1,12 @@
 div.gamecard-container { display: flex; flex-direction: row; flex-wrap: wrap; align-items: center }
 div.gamecard-outer>img { height: 64px; width: 64px }
-span.gamecard-title { font-size: 16px; font-weight: 700; padding-top: 8px }
-span.gamecard-title>img { margin-left: 4px }
+span.gamecard-title { font-size: 16px; font-weight: 700; padding-top: 8px; align-items: center }
+span.gamecard-icons { display: inline-flex; align-items: center }
+span.gamecard-icons > span { margin-right: 6px; font-size: 11px; padding: 0 3px; border-radius: 4px }
+span.gamecard-icons > span.hundo { background-color: #367CE2 }
+span.gamecard-icons > span.dlc { background-color: #5D27D5 }
 span.gamecard-subtext { font-size: 12px; font-style: italic }
-span.gamecard-playtext { font-size: 12px }
+span.gamecard-playtext { font-size: 12px; margin-top: 6px }
 div.gamecard { width: 180px; padding: 8px 16px; margin-right: 24px; margin-bottom: 24px; transition: background-color 0.25s; border-radius: 6px }
 div.gamecard:hover { background-color: #1e1e1e; cursor: pointer }
 div.gamecard-inner { justify-content: center; margin-left: 8px }
@@ -15,6 +18,8 @@ div.stat { margin-right: 28px }
 span.gamecard-rating>img { width: 16px; height: 16px }
 select#sortby { margin-bottom: 32px }
 @media screen and (max-width:1072px) {
+	div.gamecard-container { flex-direction: column; align-items: initial }
+	div.gamecard { width: 100%; margin-bottom: 36px; margin-right: 0; padding: 0 }
 	div.stat-container { flex-direction: column }
 	div.stat { margin-bottom: 32px }
 }
