@@ -1,6 +1,8 @@
 # net
 Source code for [egartley.net](https://egartley.net/?via=gh)
 
+![release)](https://img.shields.io/github/v/release/egartley/net)
+
 ## Requirements
 
 - Windows or Linux
