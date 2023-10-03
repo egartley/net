@@ -1,5 +1,5 @@
 :root {
-	--link-color: #3493ff;
+	--link-color: #ff9900;
 	--primary-text-color: whitesmoke;
 	--secondary-text-color: lightgrey
 }
@@ -21,7 +21,7 @@ a:active, a:hover { text-decoration: underline }
 .center-items { align-items: center }
 .spacer {
 	display: block; height: 2px;
-	background: linear-gradient(90deg, rgb(0, 119, 255) 15%, rgb(0, 39, 255) 50%, rgb(85, 0, 223) 85%)
+	background: linear-gradient(90deg, rgb(255, 187, 85) 15%, rgb(255, 153, 0) 50%, rgb(210, 126, 0) 85%)
 }
 
 .nav { margin-bottom: 18px; justify-content: space-between; border-radius: 16px }
@@ -43,7 +43,7 @@ a:active, a:hover { text-decoration: underline }
 	box-shadow: 0 0 1rem 0 rgba(0, 0, 0, .2);
 	border-style: solid;
 	border-width: 1px;
-	border-color: #323232;
+	border-color: #804d00;
 	border-radius: 16px;
 	background-color: rgba(0, 0, 0, .45)
 }
