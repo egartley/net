@@ -1,5 +1,5 @@
-# net
-Source code for [egartley.net](https://egartley.net/?via=gh)
+# egartley.net
+Source code and files for [https://egartley.net](https://egartley.net/?via=gh)
 
 ![release)](https://img.shields.io/github/v/release/egartley/net)
 
@@ -12,19 +12,17 @@ Source code for [egartley.net](https://egartley.net/?via=gh)
 
 ## Building
 
-Navigate to the base directory, then run:  
+From the base directory, install the requried gems and build with Jekyll:  
 
 `bundle install`  
 `bundle exec jekyll build`  
 
-This will make the "_site" directory, where the files can be accessed directly or copied to an Apache installation.
+This will make the "_site" directory, where the files can be accessed directly or moved to a server.
 
 Alternatively, run `bundle exec jekyll serve` to view the site locally on port 4000.
 
-## Deployment with Jenkins
+## Deployment
 
-A Jenkins pipeline (see [Jenkinsfile](https://github.com/egartley/net/blob/master/Jenkinsfile)) is run to build from the master branch and copy the "_site" directory to the website. It's triggered manually for now, but a continous deployment solution will be implemented in the future.
+A Jenkins pipeline (see [Jenkinsfile](https://github.com/egartley/net/blob/master/Jenkinsfile)) is run to build from the master branch and upload the "_site" directory to the website. It's triggered manually at the moment. CD will be implemented in the future.
 
-Prior to building, all references to local PNG files are replaced with their respective URL after being compressed to WEBP. These are kept as PNG in the source since local builds will use local files instead of the live versions. The pipeline assumes that the WEBP binaries are located at `~/webp/bin` when run as the jenkins user.
-
-After building, the contents with of the "_site" directory are uploaded to the website with an SSH connection using rsync.
+Prior to building, all the PNG files are compressed to WEBP, then their URLs are changed accordingly. These are kept as PNG in the source since local builds will use local files instead of the live versions. The pipeline assumes that the WEBP binaries are located at `~/webp/bin` when run as the default jenkins user.
