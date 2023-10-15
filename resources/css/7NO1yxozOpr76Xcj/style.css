@@ -9,7 +9,7 @@ body, html { font-family: Poppins, sans-serif }
 .page>span#meta, .page>span#breadcrumbs { color: var(--secondary-text-color) }
 .page>span#meta { margin-top: 8px }
 a { text-decoration: none; color: var(--link-color) }
-a:active, a:hover { text-decoration: underline }
+a:not(.hitbox):active, a:not(.hitbox):hover { text-decoration: underline }
 .root { margin: auto; margin-top: 16px; max-width: 1600px }
 
 .bold { font-weight: 700 }
