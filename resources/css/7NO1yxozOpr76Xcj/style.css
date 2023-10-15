@@ -52,7 +52,7 @@ a:not(.hitbox):active, a:not(.hitbox):hover { text-decoration: underline }
 .content { line-height: 1.75; margin-bottom: 22px; min-height: 550px; font-family: sans-serif }
 
 .sidebar { padding: 18px; padding-right: 32px; line-height: 1.5; max-width: 400px; height: 100% }
-.widget { margin: 36px 0 }
+.widget { margin: 24px 0 }
 .widget:first-child { margin-top: 0 }
 .widget:last-child { margin-bottom: 8px }
 .widget-title { font-size: 22px; margin-bottom: 18px }
