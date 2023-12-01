@@ -1,1 +1,0 @@
-function navigate(e){window.location=e}
