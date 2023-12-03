@@ -35,8 +35,8 @@ a:not(.hitbox):active, a:not(.hitbox):hover { text-decoration: underline }
 .home-button { margin-right: 18px; height: 52px }
 .home-button>img { width: 52px; height: 52px }
 .home-button:hover { cursor: pointer }
-.home-container>span.home-title { font-size: 26px }
-.home-container>span.home-title:hover { cursor: pointer; text-decoration: underline }
+.home-container>.home-title { font-size: 26px; color: var(--primary-text-color) }
+.home-container>.home-title:hover { cursor: pointer; text-decoration: underline }
 
 .page, .sidebar { 
 	justify-content: space-between;
