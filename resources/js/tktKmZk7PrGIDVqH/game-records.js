@@ -310,7 +310,7 @@ function detailsClick(e) {
     if (!/^\d+$/.test(idattr)) {
         alert("Malformed game ID")
     } else {
-        navigate("/records/games/details/?id=" + idattr)
+        window.location.href = "/records/games/details/?id=" + idattr
     }
 }
 
