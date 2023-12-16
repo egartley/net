@@ -42,14 +42,17 @@ pipeline {
                         sh "mkdir ${newpath}"
                     }
                     // create all webps
+                    def fullcommand = ""
                     def files = findFiles(glob: 'resources/png/**')
                     files.each { f ->
                         def newpath = f.path.replace("/png", "/webp")
                         newpath = newpath.replace(".png", ".webp")
                         if (!f.directory) {
-                            sh "~/webp/bin/cwebp -quiet -q 90 ${f.path} -o ${newpath}"
+                            fullcommand = fullcommand + "~/webp/bin/cwebp -quiet -q 90 ${f.path} -o ${newpath} ; "
                         }
                     }
+                    // run all webp commands in one sh call to reduce build time
+                    sh fullcommand.substring(0, fullcommand.length() - 3)
                 }
                 sh """bundle install
                 bundle exec jekyll build"""
