@@ -67,7 +67,7 @@ pipeline {
                         deploypath += "/test"
                     }
                 }
-                sh "sudo rsync -rP -e \"${RSYNC_SSH}\" ${EXCLUDES} _site/ ${SSH_CONNECTION}:${deploypath}"
+                sh "rsync -rP -e \"${RSYNC_SSH}\" ${EXCLUDES} _site/ ${SSH_CONNECTION}:${deploypath}"
             }
         }
     }
