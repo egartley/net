@@ -1,0 +1,12 @@
+<span class="small-text" id="breadcrumbs">
+  <% crumbs = current_page.url.sub('/index.html', '').split('/') %>
+  <% crumbs.each_with_index do |crumb, index| %>
+    <% if index > 0 %>
+      <% if index == crumbs.size - 1 %>
+        > <%= current_page.data.title.gsub('.html', '') %>
+      <% else %>
+        > <a href="<%= crumbs[0..index].join('/') + '/' %>"><%= crumb.gsub('.html', '') %></a>
+      <% end %>
+    <% end %>
+  <% end %>
+</span>

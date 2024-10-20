@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title><%= current_page.data.title %> - egartley.net</title>
+    <%= partial "header" %>
+</head>
+<body>
+    <div class="root flex col">
+        <div class="nav flex center-items">
+            <%= partial "navigation" %>
+        </div>
+        <div class="content-container flex">
+            <div class="page flex col">
+                <span class="page-title"><%= current_page.data.title %></span>
+                <span class="spacer"></span>
+                <span class="small-text" id="meta"><span class="bold">Last updated:</span> <%= current_page.data.last_updated %> (EDT)</span>
+                <%= partial "breadcrumbs" %>
+                <div class="content">
+                    <%= yield %>
+                </div>
+            </div>
+            <div class="sidebar">
+                <%= partial "sidebar" %>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

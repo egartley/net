@@ -1,8 +1,0 @@
-title: "egartley.net"
-url: "https://egartley.net"
-timezone: "America/New_York"
-include: ["_pages"]
-exclude:
-  - run.bat
-  - robots.txt
-  - README.md
