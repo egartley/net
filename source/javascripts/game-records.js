@@ -85,7 +85,7 @@ function getFilterHTML(val) {
             '<option value="ps45">PlayStation 4 and 5</option>' +
             '<option value="ps12">PlayStation 1 and 2</option>' +
             '<option value="switch">Nintendo Switch</option>' +
-            '<option value="nonswitch">Nintendo Wii, DS and 3DS</option>' +
+            '<option value="nonswitch">Other Nintendo Consoles</option>' +
             '<option value="allelse">PC and Other</option>',
         "rating": '<option selected="selected" value="5star">5 stars</option>' + 
             '<option value="45star">4.5 stars</option>' +
@@ -93,7 +93,7 @@ function getFilterHTML(val) {
             '<option value="35star">3.5 stars</option>' +
             '<option value="3star">3 stars</option>' +
             '<option value="25stars">2.5 stars or below</option>',
-        'year': '<option selected="selected" value="20s">Recent (2020-2023)</option>' + 
+        'year': '<option selected="selected" value="20s">Recent (2020-Present)</option>' + 
             '<option value="teens2">2016-2019</option>' +
             '<option value="teens1">2013-2015</option>' +
             '<option value="tens">2010-2012</option>' +
