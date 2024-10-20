@@ -3,7 +3,7 @@ pipeline {
     environment {
         RSYNC_SSH = credentials('NETRSYNCSSH')
         SSH_CONNECTION = credentials('NETSSHCONNECTION')
-        EXCLUDES = "--exclude Jenkinsfile --exclude /resources/json/aXoUztUmqZpBb8pz --exclude /resources/png"
+        EXCLUDES = "--exclude Jenkinsfile --exclude /source/images/*/*.png --exclude README.md --exclude LICENSE"
     }
     parameters {
         choice(name: 'DEPLOYLOCATION', choices: ['test', 'prod'], description: 'Whether to deploy to test or production location')
@@ -19,55 +19,45 @@ pipeline {
         }
         stage("Build") {
             steps {
-                // replace all "/resources/" with "https://resources.egartley.net/"
-                // then replace all "/png" and ".png" with "/webp" and ".webp"
+                // replace all "/png" and ".png" with "/webp" and ".webp"
                 script {
-                    def matches = ["*.html", "*.css", "*.js"]
+                    def matches = ["*.erb", "*.css", "*.js"]
                     for (int i = 0; i < matches.size(); ++i) {
-                        def resloc = "s/\\/resources\\//https:\\/\\/resources.egartley.net\\//g"
+                        def resloc = "s/\\/images\\//https:\\/\\/egartley.net\\/images\\//g"
                         if (params.DEPLOYLOCATION == "test") {
-                            resloc = "s/\\/resources\\//https:\\/\\/test.egartley.net\\/resources\\//g"
+                            resloc = "s/\\/images\\//https:\\/\\/test.egartley.net\\/images\\//g"
                         }
                         sh "find . -type f -name '${matches[i]}' -print0 | xargs -0 sed -i '${resloc}'"
                         sh "find . -type f -name '${matches[i]}' -print0 | xargs -0 sed -i 's/\\/png/\\/webp/g'"
                         sh "find . -type f -name '${matches[i]}' -print0 | xargs -0 sed -i 's/.png/.webp/g'"
                     }
                 }
-                sh "mkdir resources/webp"
                 script {
-                    // mirror subdirectories of png into webp
-                    def subdirs = sh(returnStdout: true, script: 'ls -d resources/png/*').trim().split("\n")
-                    subdirs.each { sf ->
-                        def newpath = sf.replace("/png", "/webp")
-                        sh "mkdir ${newpath}"
-                    }
-                    // create all webps
                     def fullcommand = ""
-                    def files = findFiles(glob: 'resources/png/**')
+                    def files = findFiles(glob: 'source/images/**')
                     files.each { f ->
-                        def newpath = f.path.replace("/png", "/webp")
-                        newpath = newpath.replace(".png", ".webp")
-                        if (!f.directory) {
+                        def newpath = f.path.replace(".png", ".webp")
+                        if (!f.directory && f.path.endsWith(".png")) {
                             fullcommand = fullcommand + "~/webp/bin/cwebp -quiet -q 90 ${f.path} -o ${newpath} ; "
+                            fullcommand = fullcommand + "rm ${f.path} ; "
                         }
                     }
-                    // run all webp commands in one sh call to reduce build time
                     sh fullcommand.substring(0, fullcommand.length() - 3)
                 }
                 sh """bundle install
-                bundle exec jekyll build"""
+                bundle exec middleman build"""
             }
         }
         stage("Deploy") {
             steps {
-                // upload _site directory to server with ssh
+                // upload build directory to server with ssh
                 script {
                     deploypath = "public_html"
                     if (params.DEPLOYLOCATION == "test") {
                         deploypath += "/test"
                     }
                 }
-                sh "rsync -rP -e \"${RSYNC_SSH}\" ${EXCLUDES} _site/ ${SSH_CONNECTION}:${deploypath}"
+                sh "rsync -rP -e \"${RSYNC_SSH}\" ${EXCLUDES} build/ ${SSH_CONNECTION}:${deploypath}"
             }
         }
     }
