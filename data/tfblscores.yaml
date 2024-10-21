@@ -1,0 +1,3224 @@
+- Basic: '9836735'
+  Expert: '9793296'
+  ID: '1'
+  Series: Final Fantasy
+  Supreme: '-'
+  Title: Opening Theme
+  Type: EMS
+  Ultimate: '9754518'
+- Basic: '9981203'
+  Expert: '9903509'
+  ID: '2'
+  Series: Final Fantasy
+  Supreme: '-'
+  Title: Main Theme
+  Type: FMS
+  Ultimate: '9534589'
+- Basic: '9786667'
+  Expert: '9812865'
+  ID: '3'
+  Series: Final Fantasy
+  Supreme: '-'
+  Title: Castle Cornelia
+  Type: FMS
+  Ultimate: '9308353'
+- Basic: '9869688'
+  Expert: '9689405'
+  ID: '4'
+  Series: Final Fantasy
+  Supreme: '-'
+  Title: Battle
+  Type: BMS
+  Ultimate: '9460033'
+- Basic: '9919414'
+  Expert: '9938326'
+  ID: '5'
+  Series: Final Fantasy
+  Supreme: '-'
+  Title: Opening Theme
+  Type: FMS
+  Ultimate: '9490209'
+- Basic: '9927273'
+  Expert: '9821656'
+  ID: '6'
+  Series: Final Fantasy
+  Supreme: '-'
+  Title: Matoya's Cave
+  Type: FMS
+  Ultimate: '9581891'
+- Basic: '9855814'
+  Expert: '9831897'
+  ID: '7'
+  Series: Final Fantasy
+  Supreme: '0'
+  Title: Miniboss Battle
+  Type: BMS
+  Ultimate: '8900982'
+- Basic: '9858824'
+  Expert: '9917254'
+  ID: '8'
+  Series: Final Fantasy
+  Supreme: '0'
+  Title: Mt. Gulg
+  Type: FMS
+  Ultimate: '9397247'
+- Basic: '9825000'
+  Expert: '9712617'
+  ID: '9'
+  Series: Final Fantasy
+  Supreme: '-'
+  Title: Airship
+  Type: FMS
+  Ultimate: '9858639'
+- Basic: '9820144'
+  Expert: '9748780'
+  ID: '10'
+  Series: Final Fantasy
+  Supreme: '-'
+  Title: Sunken Shrine
+  Type: FMS
+  Ultimate: '9549709'
+- Basic: '9720745'
+  Expert: '9725515'
+  ID: '11'
+  Series: Final Fantasy
+  Supreme: '0'
+  Title: Final Battle
+  Type: BMS
+  Ultimate: '8772958'
+- Basic: '9943548'
+  Expert: '9731579'
+  ID: '12'
+  Series: Final Fantasy II
+  Supreme: '-'
+  Title: The Rebel Army
+  Type: EMS
+  Ultimate: '8731056'
+- Basic: '9982188'
+  Expert: '9856760'
+  ID: '13'
+  Series: Final Fantasy II
+  Supreme: '0'
+  Title: Battle Theme 1
+  Type: BMS
+  Ultimate: '9199142'
+- Basic: '9774510'
+  Expert: '9733205'
+  ID: '14'
+  Series: Final Fantasy II
+  Supreme: '-'
+  Title: The Rebel Army
+  Type: BMS
+  Ultimate: '9317114'
+- Basic: '9688372'
+  Expert: '9963068'
+  ID: '15'
+  Series: Final Fantasy II
+  Supreme: '-'
+  Title: Town
+  Type: FMS
+  Ultimate: '9788785'
+- Basic: '9983193'
+  Expert: '9769602'
+  ID: '16'
+  Series: Final Fantasy II
+  Supreme: '-'
+  Title: Main Theme
+  Type: FMS
+  Ultimate: '9881306'
+- Basic: '9971888'
+  Expert: '9817284'
+  ID: '17'
+  Series: Final Fantasy II
+  Supreme: '-'
+  Title: Dungeon
+  Type: FMS
+  Ultimate: '8853582'
+- Basic: '9749077'
+  Expert: '9897826'
+  ID: '18'
+  Series: Final Fantasy II
+  Supreme: '-'
+  Title: The Imperial Army
+  Type: FMS
+  Ultimate: '9523940'
+- Basic: '9852792'
+  Expert: '9709375'
+  ID: '19'
+  Series: Final Fantasy II
+  Supreme: '-'
+  Title: Chocobo Theme
+  Type: FMS
+  Ultimate: '8876956'
+- Basic: '9849650'
+  Expert: '9811111'
+  ID: '20'
+  Series: Final Fantasy II
+  Supreme: '0'
+  Title: Tower of  the Magi
+  Type: FMS
+  Ultimate: '9662483'
+- Basic: '9764172'
+  Expert: '9926287'
+  ID: '21'
+  Series: Final Fantasy II
+  Supreme: '0'
+  Title: Battle Theme A
+  Type: BMS
+  Ultimate: '8625964'
+- Basic: '9890110'
+  Expert: '9823472'
+  ID: '22'
+  Series: Final Fantasy II
+  Supreme: '0'
+  Title: Battle Theme 2
+  Type: BMS
+  Ultimate: '8698658'
+- Basic: '9921569'
+  Expert: '9901695'
+  ID: '23'
+  Series: Final Fantasy II
+  Supreme: '-'
+  Title: Finale
+  Type: FMS
+  Ultimate: '9806350'
+- Basic: '9764463'
+  Expert: '9797654'
+  ID: '24'
+  Series: Final Fantasy III
+  Supreme: '-'
+  Title: Elia, the Maiden of Water
+  Type: EMS
+  Ultimate: '9761446'
+- Basic: '9799180'
+  Expert: '9767123'
+  ID: '25'
+  Series: Final Fantasy III
+  Supreme: '-'
+  Title: Crystal Cave
+  Type: FMS
+  Ultimate: '9832645'
+- Basic: '9895141'
+  Expert: '9946554'
+  ID: '26'
+  Series: Final Fantasy III
+  Supreme: '0'
+  Title: Battle 1
+  Type: BMS
+  Ultimate: '9257743'
+- Basic: '9907692'
+  Expert: '9865510'
+  ID: '27'
+  Series: Final Fantasy III
+  Supreme: '0'
+  Title: Eternal Wind
+  Type: FMS
+  Ultimate: '9601425'
+- Basic: '9918033'
+  Expert: '9897030'
+  ID: '28'
+  Series: Final Fantasy III
+  Supreme: '-'
+  Title: The Boundless Ocean
+  Type: FMS
+  Ultimate: '9704811'
+- Basic: '9788462'
+  Expert: '9874608'
+  ID: '29'
+  Series: Final Fantasy III
+  Supreme: '-'
+  Title: Elia, the Maiden of Water
+  Type: FMS
+  Ultimate: '9928571'
+- Basic: '9790262'
+  Expert: '9973684'
+  ID: '30'
+  Series: Final Fantasy III
+  Supreme: '-'
+  Title: Salonia
+  Type: FMS
+  Ultimate: '9300137'
+- Basic: '9689420'
+  Expert: '9914657'
+  ID: '31'
+  Series: Final Fantasy III
+  Supreme: '-'
+  Title: Let Me Know the Truth
+  Type: FMS
+  Ultimate: '9157978'
+- Basic: '9938511'
+  Expert: '9939130'
+  ID: '32'
+  Series: Final Fantasy III
+  Supreme: '0'
+  Title: The Invincible
+  Type: FMS
+  Ultimate: '9003364'
+- Basic: '9925197'
+  Expert: '9832134'
+  ID: '33'
+  Series: Final Fantasy III
+  Supreme: '-'
+  Title: Forbidden Land
+  Type: FMS
+  Ultimate: '8642013'
+- Basic: '9936508'
+  Expert: '9804035'
+  ID: '34'
+  Series: Final Fantasy III
+  Supreme: '0'
+  Title: The Crystal Tower
+  Type: FMS
+  Ultimate: '9642966'
+- Basic: '9806452'
+  Expert: '9836420'
+  ID: '35'
+  Series: Final Fantasy III
+  Supreme: '0'
+  Title: Battle 2
+  Type: BMS
+  Ultimate: '8822130'
+- Basic: '9927374'
+  Expert: '9735974'
+  ID: '36'
+  Series: Final Fantasy III
+  Supreme: '-'
+  Title: The Dark Crystals
+  Type: FMS
+  Ultimate: '8837942'
+- Basic: '9859857'
+  Expert: '9841195'
+  ID: '37'
+  Series: Final Fantasy III
+  Supreme: '0'
+  Title: This is the Last Battle
+  Type: BMS
+  Ultimate: '9659445'
+- Basic: '9713147'
+  Expert: '9915789'
+  ID: '38'
+  Series: Final Fantasy IV
+  Supreme: '-'
+  Title: Theme of Love
+  Type: EMS
+  Ultimate: '9454396'
+- Basic: '9845570'
+  Expert: '9931638'
+  ID: '39'
+  Series: Final Fantasy IV
+  Supreme: '-'
+  Title: The Red Wings
+  Type: FMS
+  Ultimate: '9443951'
+- Basic: '9862974'
+  Expert: '9949597'
+  ID: '40'
+  Series: Final Fantasy IV
+  Supreme: '-'
+  Title: Theme of Love
+  Type: FMS
+  Ultimate: '9167560'
+- Basic: '9839695'
+  Expert: '9813648'
+  ID: '41'
+  Series: Final Fantasy IV
+  Supreme: '-'
+  Title: Main Theme of Final Fantasy IV
+  Type: FMS
+  Ultimate: '9797006'
+- Basic: '9883978'
+  Expert: '9861436'
+  ID: '42'
+  Series: Final Fantasy IV
+  Supreme: '0'
+  Title: Battle 1
+  Type: BMS
+  Ultimate: '8943876'
+- Basic: '9868852'
+  Expert: '9967914'
+  ID: '43'
+  Series: Final Fantasy IV
+  Supreme: '-'
+  Title: The Airship
+  Type: FMS
+  Ultimate: '9084727'
+- Basic: '9817797'
+  Expert: '9893182'
+  ID: '44'
+  Series: Final Fantasy IV
+  Supreme: '-'
+  Title: Troian Beauty
+  Type: FMS
+  Ultimate: '9866432'
+- Basic: '9882698'
+  Expert: '9906716'
+  ID: '45'
+  Series: Final Fantasy IV
+  Supreme: '-'
+  Title: Tower of Zot
+  Type: FMS
+  Ultimate: '9307052'
+- Basic: '9911032'
+  Expert: '9911591'
+  ID: '46'
+  Series: Final Fantasy IV
+  Supreme: '-'
+  Title: Within the Giant
+  Type: FMS
+  Ultimate: '9601744'
+- Basic: '9952381'
+  Expert: '9883152'
+  ID: '47'
+  Series: Final Fantasy IV
+  Supreme: '0'
+  Title: Battle 2
+  Type: BMS
+  Ultimate: '8552407'
+- Basic: '9772222'
+  Expert: '9727273'
+  ID: '48'
+  Series: Final Fantasy IV
+  Supreme: '0'
+  Title: Battle with the Four Fiends
+  Type: BMS
+  Ultimate: '8603961'
+- Basic: '9986900'
+  Expert: '9958084'
+  ID: '49'
+  Series: Final Fantasy IV
+  Supreme: '0'
+  Title: Lunar Whale
+  Type: FMS
+  Ultimate: '9917411'
+- Basic: '9947170'
+  Expert: '9944444'
+  ID: '50'
+  Series: Final Fantasy IV
+  Supreme: '-'
+  Title: Another Moon
+  Type: FMS
+  Ultimate: '9820368'
+- Basic: '9843648'
+  Expert: '9831597'
+  ID: '51'
+  Series: Final Fantasy IV
+  Supreme: '0'
+  Title: The Final Battle
+  Type: BMS
+  Ultimate: '9333748'
+- Basic: '9844720'
+  Expert: '9914343'
+  ID: '52'
+  Series: Final Fantasy V
+  Supreme: '-'
+  Title: Home, sweet Home
+  Type: EMS
+  Ultimate: '9918874'
+- Basic: '9925743'
+  Expert: '9849829'
+  ID: '53'
+  Series: Final Fantasy V
+  Supreme: '-'
+  Title: Main Theme of Final Fantasy V
+  Type: BMS
+  Ultimate: '9395451'
+- Basic: '9982456'
+  Expert: '9967603'
+  ID: '54'
+  Series: Final Fantasy V
+  Supreme: '0'
+  Title: Four Hearts
+  Type: FMS
+  Ultimate: '9795276'
+- Basic: '9711957'
+  Expert: '9927476'
+  ID: '55'
+  Series: Final Fantasy V
+  Supreme: '0'
+  Title: Battle 1
+  Type: BMS
+  Ultimate: '8675664'
+- Basic: '9972125'
+  Expert: '9803971'
+  ID: '56'
+  Series: Final Fantasy V
+  Supreme: '0'
+  Title: Harvest
+  Type: FMS
+  Ultimate: '9351807'
+- Basic: '9981413'
+  Expert: '9931624'
+  ID: '57'
+  Series: Final Fantasy V
+  Supreme: '-'
+  Title: To the North Mountain
+  Type: FMS
+  Ultimate: '9693906'
+- Basic: '9857955'
+  Expert: '9844007'
+  ID: '58'
+  Series: Final Fantasy V
+  Supreme: '-'
+  Title: Library of the Ancients
+  Type: FMS
+  Ultimate: '9494076'
+- Basic: '9948925'
+  Expert: '9846801'
+  ID: '59'
+  Series: Final Fantasy V
+  Supreme: '0'
+  Title: Mambo de Chocobo
+  Type: FMS
+  Ultimate: '9583439'
+- Basic: '9885714'
+  Expert: '9886940'
+  ID: '60'
+  Series: Final Fantasy V
+  Supreme: '-'
+  Title: Home, sweet Home
+  Type: FMS
+  Ultimate: '9600117'
+- Basic: '9726073'
+  Expert: '9880567'
+  ID: '61'
+  Series: Final Fantasy V
+  Supreme: '-'
+  Title: The Airship
+  Type: FMS
+  Ultimate: '9707317'
+- Basic: '9815584'
+  Expert: '9897397'
+  ID: '62'
+  Series: Final Fantasy V
+  Supreme: '0'
+  Title: Battle 2
+  Type: BMS
+  Ultimate: '8936170'
+- Basic: '9864935'
+  Expert: '9781587'
+  ID: '63'
+  Series: Final Fantasy V
+  Supreme: '-'
+  Title: The Dawn Warriors
+  Type: BMS
+  Ultimate: '9167999'
+- Basic: '9830303'
+  Expert: '9948718'
+  ID: '64'
+  Series: Final Fantasy V
+  Supreme: '0'
+  Title: Battle at the Big Bridge
+  Type: BMS
+  Ultimate: '9305502'
+- Basic: '9895706'
+  Expert: '9802444'
+  ID: '65'
+  Series: Final Fantasy V
+  Supreme: '-'
+  Title: A New World
+  Type: FMS
+  Ultimate: '9530090'
+- Basic: '9921687'
+  Expert: '9945076'
+  ID: '66'
+  Series: Final Fantasy V
+  Supreme: '-'
+  Title: In Search of Light
+  Type: FMS
+  Ultimate: '9022050'
+- Basic: '9802000'
+  Expert: '9802632'
+  ID: '67'
+  Series: Final Fantasy V
+  Supreme: '0'
+  Title: The Decisive Battle
+  Type: BMS
+  Ultimate: '8856276'
+- Basic: '9984756'
+  Expert: '9907986'
+  ID: '68'
+  Series: Final Fantasy V
+  Supreme: '0'
+  Title: The Final Battle
+  Type: BMS
+  Ultimate: '9132944'
+- Basic: '9666667'
+  Expert: '9895623'
+  ID: '69'
+  Series: Final Fantasy VI
+  Supreme: '-'
+  Title: Celes's Theme
+  Type: EMS
+  Ultimate: '9846361'
+- Basic: '9786517'
+  Expert: '9858672'
+  ID: '70'
+  Series: Final Fantasy VI
+  Supreme: '-'
+  Title: Terra's Theme
+  Type: FMS
+  Ultimate: '9720113'
+- Basic: '9775457'
+  Expert: '9838258'
+  ID: '71'
+  Series: Final Fantasy VI
+  Supreme: '0'
+  Title: Battle
+  Type: BMS
+  Ultimate: '8763244'
+- Basic: '9858382'
+  Expert: '9908184'
+  ID: '72'
+  Series: Final Fantasy VI
+  Supreme: '-'
+  Title: Locke's Theme
+  Type: BMS
+  Ultimate: '9614980'
+- Basic: '9859060'
+  Expert: '9895928'
+  ID: '73'
+  Series: Final Fantasy VI
+  Supreme: '0'
+  Title: Edgar & Sabin's Theme
+  Type: FMS
+  Ultimate: '9525909'
+- Basic: '9734328'
+  Expert: '9704673'
+  ID: '74'
+  Series: Final Fantasy VI
+  Supreme: '0'
+  Title: Protect the Espers!
+  Type: BMS
+  Ultimate: '9335352'
+- Basic: '9709970'
+  Expert: '9860941'
+  ID: '75'
+  Series: Final Fantasy VI
+  Supreme: '0'
+  Title: Grand Finale
+  Type: BMS
+  Ultimate: '9123532'
+- Basic: '9770992'
+  Expert: '9790287'
+  ID: '76'
+  Series: Final Fantasy VI
+  Supreme: '0'
+  Title: The Airship Blackjack
+  Type: FMS
+  Ultimate: '8929630'
+- Basic: '9883582'
+  Expert: '9729647'
+  ID: '77'
+  Series: Final Fantasy VI
+  Supreme: '0'
+  Title: The Decisive Battle
+  Type: BMS
+  Ultimate: '9148544'
+- Basic: '9850446'
+  Expert: '9843273'
+  ID: '78'
+  Series: Final Fantasy VI
+  Supreme: '0'
+  Title: Battle to the Death
+  Type: BMS
+  Ultimate: '9298373'
+- Basic: '9725753'
+  Expert: '9923913'
+  ID: '79'
+  Series: Final Fantasy VI
+  Supreme: '-'
+  Title: Celes's Theme
+  Type: FMS
+  Ultimate: '9885915'
+- Basic: '9963855'
+  Expert: '9972900'
+  ID: '80'
+  Series: Final Fantasy VI
+  Supreme: '-'
+  Title: Searching for Friends
+  Type: FMS
+  Ultimate: '9759342'
+- Basic: '9798762'
+  Expert: '9847561'
+  ID: '81'
+  Series: Final Fantasy VI
+  Supreme: '-'
+  Title: Kefka's Tower
+  Type: FMS
+  Ultimate: '9496273'
+- Basic: '9771429'
+  Expert: '9899621'
+  ID: '82'
+  Series: Final Fantasy VI
+  Supreme: '0'
+  Title: Dancing Mad
+  Type: BMS
+  Ultimate: '9070544'
+- Basic: '9673152'
+  Expert: '9738710'
+  ID: '83'
+  Series: Final Fantasy VII
+  Supreme: '-'
+  Title: Aerith's Theme
+  Type: EMS
+  Ultimate: '9544365'
+- Basic: '9761194'
+  Expert: '9911458'
+  ID: '84'
+  Series: Final Fantasy VII
+  Supreme: '0'
+  Title: Opening - Bombing Mission
+  Type: BMS
+  Ultimate: '8719511'
+- Basic: '9920792'
+  Expert: '9903268'
+  ID: '85'
+  Series: Final Fantasy VII
+  Supreme: '0'
+  Title: Let the Battles Begin!
+  Type: BMS
+  Ultimate: '9390319'
+- Basic: '9916667'
+  Expert: '9938854'
+  ID: '86'
+  Series: Final Fantasy VII
+  Supreme: '0'
+  Title: Fight On!
+  Type: BMS
+  Ultimate: '9032222'
+- Basic: '9792000'
+  Expert: '9697472'
+  ID: '87'
+  Series: Final Fantasy VII
+  Supreme: '0'
+  Title: The Chase
+  Type: FMS
+  Ultimate: '9355201'
+- Basic: '9902834'
+  Expert: '9756831'
+  ID: '88'
+  Series: Final Fantasy VII
+  Supreme: '-'
+  Title: Main Theme of Final Fantasy VII
+  Type: FMS
+  Ultimate: '9019229'
+- Basic: '9782738'
+  Expert: '9880071'
+  ID: '89'
+  Series: Final Fantasy VII
+  Supreme: '-'
+  Title: Rufus's Welcoming Ceremony
+  Type: FMS
+  Ultimate: '9324353'
+- Basic: '9894904'
+  Expert: '9731855'
+  ID: '90'
+  Series: Final Fantasy VII
+  Supreme: '0'
+  Title: Gold Saucer
+  Type: FMS
+  Ultimate: '8973005'
+- Basic: '9966245'
+  Expert: '9948780'
+  ID: '91'
+  Series: Final Fantasy VII
+  Supreme: '-'
+  Title: Cosmo Canyon
+  Type: FMS
+  Ultimate: '9590530'
+- Basic: '9891892'
+  Expert: '9738636'
+  ID: '92'
+  Series: Final Fantasy VII
+  Supreme: '-'
+  Title: Aerith's Theme
+  Type: BMS
+  Ultimate: '8948742'
+- Basic: '9815436'
+  Expert: '9870159'
+  ID: '93'
+  Series: Final Fantasy VII
+  Supreme: '-'
+  Title: The Highwind Takes to the Skies
+  Type: FMS
+  Ultimate: '9212054'
+- Basic: '9916667'
+  Expert: '9841096'
+  ID: '94'
+  Series: Final Fantasy VII
+  Supreme: '-'
+  Title: Judgment Day
+  Type: FMS
+  Ultimate: '9160891'
+- Basic: '9821656'
+  Expert: '9767068'
+  ID: '95'
+  Series: Final Fantasy VII
+  Supreme: '0'
+  Title: JENOVA
+  Type: BMS
+  Ultimate: '9449485'
+- Basic: '9726496'
+  Expert: '9827199'
+  ID: '96'
+  Series: Final Fantasy VII
+  Supreme: '0'
+  Title: Birth of a God
+  Type: BMS
+  Ultimate: '8712736'
+- Basic: '9862004'
+  Expert: '9720571'
+  ID: '97'
+  Series: Final Fantasy VII
+  Supreme: '0'
+  Title: One-Winged Angel
+  Type: BMS
+  Ultimate: '8912112'
+- Basic: '9843537'
+  Expert: '9760542'
+  ID: '98'
+  Series: Final Fantasy VII Advent Children
+  Supreme: '-'
+  Title: 'Advent: One-Winged Angel'
+  Type: EMS
+  Ultimate: '9508274'
+- Basic: '9931765'
+  Expert: '9849182'
+  ID: '99'
+  Series: Final Fantasy VII Advent Children
+  Supreme: '-'
+  Title: Beyond the Wasteland
+  Type: BMS
+  Ultimate: '9017363'
+- Basic: '9892308'
+  Expert: '9867824'
+  ID: '100'
+  Series: Final Fantasy VII Advent Children
+  Supreme: '-'
+  Title: Those Who Fight (Piano Version)
+  Type: BMS
+  Ultimate: '8982088'
+- Basic: '9937269'
+  Expert: '9787879'
+  ID: '101'
+  Series: Final Fantasy VII Advent Children
+  Supreme: '-'
+  Title: Aerith's Theme (Piano Version)
+  Type: FMS
+  Ultimate: '9859843'
+- Basic: '9738739'
+  Expert: '9739166'
+  ID: '102'
+  Series: Final Fantasy VII Advent Children
+  Supreme: '-'
+  Title: Battle in the Forgotten City
+  Type: BMS
+  Ultimate: '9350474'
+- Basic: '9851931'
+  Expert: '9875691'
+  ID: '103'
+  Series: Final Fantasy VII Advent Children
+  Supreme: '0'
+  Title: Divinity II
+  Type: BMS
+  Ultimate: '9136855'
+- Basic: '9893528'
+  Expert: '9936726'
+  ID: '104'
+  Series: Final Fantasy VII Advent Children
+  Supreme: '-'
+  Title: J-E-N-O-V-A (AC Version)
+  Type: BMS
+  Ultimate: '8855442'
+- Basic: '9732824'
+  Expert: '9878221'
+  ID: '105'
+  Series: Final Fantasy VII Advent Children
+  Supreme: '0'
+  Title: 'Advent: One-Winged Angel'
+  Type: BMS
+  Ultimate: '9324204'
+- Basic: '9756892'
+  Expert: '9857391'
+  ID: '106'
+  Series: Final Fantasy VII Advent Children
+  Supreme: '-'
+  Title: Cloud Smiles
+  Type: FMS
+  Ultimate: '9497068'
+- Basic: '9925581'
+  Expert: '9799572'
+  ID: '107'
+  Series: 'Last Order: Final Fantasy VII'
+  Supreme: '-'
+  Title: Last Order
+  Type: BMS
+  Ultimate: '9566190'
+- Basic: '9766038'
+  Expert: '9831776'
+  ID: '108'
+  Series: Crisis Core -Final Fantasy VII-
+  Supreme: '-'
+  Title: CRISIS CORE Theme - Succession
+  Type: EMS
+  Ultimate: '9447584'
+- Basic: '9898592'
+  Expert: '9833978'
+  ID: '109'
+  Series: Crisis Core -Final Fantasy VII-
+  Supreme: '0'
+  Title: Encounter
+  Type: BMS
+  Ultimate: '9142568'
+- Basic: '9895833'
+  Expert: '9991837'
+  ID: '110'
+  Series: Crisis Core -Final Fantasy VII-
+  Supreme: '-'
+  Title: Timely Ambush (from FFVII 'Let the Battles Begin!')
+  Type: FMS
+  Ultimate: '9065406'
+- Basic: '9855172'
+  Expert: '9851220'
+  ID: '111'
+  Series: Crisis Core -Final Fantasy VII-
+  Supreme: '-'
+  Title: A Flower Blooming in the Slums (from FFVII 'Aerith's Theme')
+  Type: FMS
+  Ultimate: '9404009'
+- Basic: '9774194'
+  Expert: '9679402'
+  ID: '112'
+  Series: Crisis Core -Final Fantasy VII-
+  Supreme: '0'
+  Title: The SOLDIER Way
+  Type: BMS
+  Ultimate: '9387946'
+- Basic: '9705128'
+  Expert: '9784200'
+  ID: '113'
+  Series: Crisis Core -Final Fantasy VII-
+  Supreme: '-'
+  Title: The Price of Freedom
+  Type: BMS
+  Ultimate: '9285292'
+- Basic: '9820253'
+  Expert: '9882353'
+  ID: '114'
+  Series: Final Fantasy VII Remake
+  Supreme: '-'
+  Title: Hollow
+  Type: EMS
+  Ultimate: '9825312'
+- Basic: '9800745'
+  Expert: '9880978'
+  ID: '115'
+  Series: Final Fantasy VII Remake
+  Supreme: '-'
+  Title: Bombing Mission
+  Type: BMS
+  Ultimate: '9152143'
+- Basic: '9939024'
+  Expert: '9795147'
+  ID: '116'
+  Series: Final Fantasy VII Remake
+  Supreme: '-'
+  Title: Tifa's Theme - Seventh Heaven
+  Type: FMS
+  Ultimate: '9682861'
+- Basic: '9757219'
+  Expert: '9838446'
+  ID: '117'
+  Series: Final Fantasy VII Remake
+  Supreme: '-'
+  Title: Main Theme of FFVII - Sector 7 Undercity
+  Type: FMS
+  Ultimate: '8785648'
+- Basic: '9803478'
+  Expert: '9743383'
+  ID: '118'
+  Series: Final Fantasy VII Remake
+  Supreme: '-'
+  Title: Let the Battles Begin! - A Merc's Job
+  Type: BMS
+  Ultimate: '9014235'
+- Basic: '9745178'
+  Expert: '9895574'
+  ID: '119'
+  Series: Final Fantasy VII Remake
+  Supreme: '0'
+  Title: The Airbuster
+  Type: BMS
+  Ultimate: '9111886'
+- Basic: '9910628'
+  Expert: '9705785'
+  ID: '120'
+  Series: Final Fantasy VII Remake
+  Supreme: '0'
+  Title: Collasped Expressway
+  Type: FMS
+  Ultimate: '9446073'
+- Basic: '9887202'
+  Expert: '9862620'
+  ID: '121'
+  Series: Final Fantasy VII Remake
+  Supreme: '0'
+  Title: High Five
+  Type: BMS
+  Ultimate: '9077882'
+- Basic: '9957295'
+  Expert: '9889081'
+  ID: '122'
+  Series: Final Fantasy VII Remake
+  Supreme: '0'
+  Title: J-E-N-O-V-A - Quickening
+  Type: BMS
+  Ultimate: '9908595'
+- Basic: '9723473'
+  Expert: '9946429'
+  ID: '123'
+  Series: Final Fantasy VII Remake
+  Supreme: '0'
+  Title: Midgar Expressway
+  Type: FMS
+  Ultimate: '9684524'
+- Basic: '9876872'
+  Expert: '9891101'
+  ID: '124'
+  Series: Final Fantasy VII Remake
+  Supreme: '0'
+  Title: One-Winged Angel - Rebirth
+  Type: BMS
+  Ultimate: '9942412'
+- Basic: '9830097'
+  Expert: '9667674'
+  ID: '125'
+  Series: Final Fantasy VIII
+  Supreme: '-'
+  Title: Waltz for the Moon
+  Type: EMS
+  Ultimate: '9197700'
+- Basic: '9781076'
+  Expert: '9816777'
+  ID: '126'
+  Series: Final Fantasy VIII
+  Supreme: '-'
+  Title: Liberi Fatali
+  Type: BMS
+  Ultimate: '9014726'
+- Basic: '9844828'
+  Expert: '9702624'
+  ID: '127'
+  Series: Final Fantasy VIII
+  Supreme: '-'
+  Title: Balamb GARDEN
+  Type: FMS
+  Ultimate: '9877522'
+- Basic: '9848592'
+  Expert: '9890160'
+  ID: '128'
+  Series: Final Fantasy VIII
+  Supreme: '-'
+  Title: Blue Fields
+  Type: FMS
+  Ultimate: '9864379'
+- Basic: '9850900'
+  Expert: '9906736'
+  ID: '129'
+  Series: Final Fantasy VIII
+  Supreme: '0'
+  Title: Don't Be Afraid
+  Type: BMS
+  Ultimate: '9557674'
+- Basic: '9950355'
+  Expert: '9878935'
+  ID: '130'
+  Series: Final Fantasy VIII
+  Supreme: '-'
+  Title: Find Your Way
+  Type: FMS
+  Ultimate: '9963585'
+- Basic: '9788770'
+  Expert: '9962003'
+  ID: '131'
+  Series: Final Fantasy VIII
+  Supreme: '0'
+  Title: Force Your Way
+  Type: BMS
+  Ultimate: '8693803'
+- Basic: '9913043'
+  Expert: '9777989'
+  ID: '132'
+  Series: Final Fantasy VIII
+  Supreme: '0'
+  Title: Shuffle or Boogie
+  Type: BMS
+  Ultimate: '9005121'
+- Basic: '9891738'
+  Expert: '9843034'
+  ID: '133'
+  Series: Final Fantasy VIII
+  Supreme: '-'
+  Title: Waltz for the Moon
+  Type: FMS
+  Ultimate: '9688320'
+- Basic: '9940217'
+  Expert: '9818331'
+  ID: '134'
+  Series: Final Fantasy VIII
+  Supreme: '0'
+  Title: The Man with the Machine Gun
+  Type: BMS
+  Ultimate: '8655746'
+- Basic: '9931298'
+  Expert: '9895028'
+  ID: '135'
+  Series: Final Fantasy VIII
+  Supreme: '-'
+  Title: Fisherman's Horizon
+  Type: FMS
+  Ultimate: '9911548'
+- Basic: '9845395'
+  Expert: '9860590'
+  ID: '136'
+  Series: Final Fantasy VIII
+  Supreme: '-'
+  Title: Love Grows
+  Type: FMS
+  Ultimate: '9942623'
+- Basic: '9900875'
+  Expert: '9887833'
+  ID: '137'
+  Series: Final Fantasy VIII
+  Supreme: '-'
+  Title: Ride On
+  Type: FMS
+  Ultimate: '9591283'
+- Basic: '9909968'
+  Expert: '9782101'
+  ID: '138'
+  Series: Final Fantasy VIII
+  Supreme: '-'
+  Title: The Oath
+  Type: FMS
+  Ultimate: '9869737'
+- Basic: '9986877'
+  Expert: '9771429'
+  ID: '139'
+  Series: Final Fantasy VIII
+  Supreme: '0'
+  Title: The Castle
+  Type: FMS
+  Ultimate: '9728271'
+- Basic: '9861915'
+  Expert: '9712766'
+  ID: '140'
+  Series: Final Fantasy VIII
+  Supreme: '0'
+  Title: Premonition
+  Type: BMS
+  Ultimate: '9298668'
+- Basic: '9790393'
+  Expert: '9796129'
+  ID: '141'
+  Series: Final Fantasy VIII
+  Supreme: '0'
+  Title: Maybe I'm a Lion
+  Type: BMS
+  Ultimate: '8700959'
+- Basic: '9860262'
+  Expert: '9822892'
+  ID: '142'
+  Series: Final Fantasy VIII
+  Supreme: '0'
+  Title: The Extreme
+  Type: BMS
+  Ultimate: '9243045'
+- Basic: '9734082'
+  Expert: '9812010'
+  ID: '143'
+  Series: Final Fantasy VIII
+  Supreme: '-'
+  Title: Ending Theme
+  Type: FMS
+  Ultimate: '9293364'
+- Basic: '9617857'
+  Expert: '9700599'
+  ID: '144'
+  Series: Final Fantasy IX
+  Supreme: '-'
+  Title: Behind the Door
+  Type: EMS
+  Ultimate: '9513357'
+- Basic: '9888545'
+  Expert: '9889113'
+  ID: '145'
+  Series: Final Fantasy IX
+  Supreme: '-'
+  Title: A Place to Call Home
+  Type: FMS
+  Ultimate: '9356457'
+- Basic: '9945205'
+  Expert: '9891892'
+  ID: '146'
+  Series: Final Fantasy IX
+  Supreme: '-'
+  Title: Vivi's Theme
+  Type: FMS
+  Ultimate: '9803791'
+- Basic: '9929504'
+  Expert: '9833333'
+  ID: '147'
+  Series: Final Fantasy IX
+  Supreme: '-'
+  Title: Swords of Fury
+  Type: BMS
+  Ultimate: '9280211'
+- Basic: '9929766'
+  Expert: '9815678'
+  ID: '148'
+  Series: Final Fantasy IX
+  Supreme: '0'
+  Title: Vamo'alla flamenco
+  Type: BMS
+  Ultimate: '9031535'
+- Basic: '9891667'
+  Expert: '9766506'
+  ID: '149'
+  Series: Final Fantasy IX
+  Supreme: '0'
+  Title: Battle 1
+  Type: BMS
+  Ultimate: '9456469'
+- Basic: '9936567'
+  Expert: '9867769'
+  ID: '150'
+  Series: Final Fantasy IX
+  Supreme: '-'
+  Title: Over the Hill
+  Type: FMS
+  Ultimate: '9816600'
+- Basic: '9848684'
+  Expert: '9934959'
+  ID: '151'
+  Series: Final Fantasy IX
+  Supreme: '0'
+  Title: Festival of the Hunt
+  Type: BMS
+  Ultimate: '8837177'
+- Basic: '9899123'
+  Expert: '9889356'
+  ID: '152'
+  Series: Final Fantasy IX
+  Supreme: '-'
+  Title: Dark City Treno
+  Type: FMS
+  Ultimate: '9804543'
+- Basic: '9845697'
+  Expert: '9801858'
+  ID: '153'
+  Series: Final Fantasy IX
+  Supreme: '-'
+  Title: Roses of May
+  Type: FMS
+  Ultimate: '9842437'
+- Basic: '9723404'
+  Expert: '9755869'
+  ID: '154'
+  Series: Final Fantasy IX
+  Supreme: '-'
+  Title: Iifa, the Ancient Tree of Life
+  Type: FMS
+  Ultimate: '9023110'
+- Basic: '9870614'
+  Expert: '9868687'
+  ID: '155'
+  Series: Final Fantasy IX
+  Supreme: '-'
+  Title: Something to Protect
+  Type: BMS
+  Ultimate: '9494310'
+- Basic: '9875332'
+  Expert: '9905028'
+  ID: '156'
+  Series: Final Fantasy IX
+  Supreme: '0'
+  Title: Aboard the Hilda Garde
+  Type: FMS
+  Ultimate: '9715182'
+- Basic: '9849624'
+  Expert: '9919771'
+  ID: '157'
+  Series: Final Fantasy IX
+  Supreme: '-'
+  Title: Ipsen's Castle
+  Type: FMS
+  Ultimate: '9644094'
+- Basic: '9796491'
+  Expert: '9925764'
+  ID: '158'
+  Series: Final Fantasy IX
+  Supreme: '-'
+  Title: Not Alone
+  Type: FMS
+  Ultimate: '9811209'
+- Basic: '9954436'
+  Expert: '9839897'
+  ID: '159'
+  Series: Final Fantasy IX
+  Supreme: '-'
+  Title: Battle 2
+  Type: BMS
+  Ultimate: '8570465'
+- Basic: '9865702'
+  Expert: '9876338'
+  ID: '160'
+  Series: Final Fantasy IX
+  Supreme: '-'
+  Title: The Darkness of Eternity
+  Type: BMS
+  Ultimate: '8820129'
+- Basic: '9740816'
+  Expert: '9890957'
+  ID: '161'
+  Series: Final Fantasy IX
+  Supreme: '0'
+  Title: The Final Battle
+  Type: BMS
+  Ultimate: '9312919'
+- Basic: '9906475'
+  Expert: '9707260'
+  ID: '162'
+  Series: Final Fantasy IX
+  Supreme: '0'
+  Title: Behind the Door
+  Type: FMS
+  Ultimate: '9770459'
+- Basic: '9801347'
+  Expert: '9780886'
+  ID: '163'
+  Series: Final Fantasy X
+  Supreme: '-'
+  Title: SUTEKI DA NE (Isn't It Wonderful?)
+  Type: EMS
+  Ultimate: '9503937'
+- Basic: '9835694'
+  Expert: '9919614'
+  ID: '164'
+  Series: Final Fantasy X
+  Supreme: '0'
+  Title: Battle Theme
+  Type: BMS
+  Ultimate: '9454076'
+- Basic: '9813725'
+  Expert: '9975983'
+  ID: '165'
+  Series: Final Fantasy X
+  Supreme: '-'
+  Title: Spira Unplugged
+  Type: FMS
+  Ultimate: '9688885'
+- Basic: '9786765'
+  Expert: '9788043'
+  ID: '166'
+  Series: Final Fantasy X
+  Supreme: '-'
+  Title: Blitz Off!
+  Type: BMS
+  Ultimate: '9899240'
+- Basic: '9937705'
+  Expert: '9909910'
+  ID: '167'
+  Series: Final Fantasy X
+  Supreme: '-'
+  Title: Movement In Green
+  Type: FMS
+  Ultimate: '9645880'
+- Basic: '9913978'
+  Expert: '9703777'
+  ID: '168'
+  Series: Final Fantasy X
+  Supreme: '-'
+  Title: Mi'ihen Highroad
+  Type: FMS
+  Ultimate: '9637298'
+- Basic: '9974441'
+  Expert: '9896825'
+  ID: '169'
+  Series: Final Fantasy X
+  Supreme: '0'
+  Title: Thunder Plains
+  Type: FMS
+  Ultimate: '9699310'
+- Basic: '9890020'
+  Expert: '9888514'
+  ID: '170'
+  Series: Final Fantasy X
+  Supreme: '-'
+  Title: Launch
+  Type: FMS
+  Ultimate: '9360088'
+- Basic: '9843478'
+  Expert: '9949928'
+  ID: '171'
+  Series: Final Fantasy X
+  Supreme: '-'
+  Title: Assault
+  Type: BMS
+  Ultimate: '8672051'
+- Basic: '9885033'
+  Expert: '9911079'
+  ID: '172'
+  Series: Final Fantasy X
+  Supreme: '-'
+  Title: Via Purifico
+  Type: FMS
+  Ultimate: '8302603'
+- Basic: '9907186'
+  Expert: '9869159'
+  ID: '173'
+  Series: Final Fantasy X
+  Supreme: '-'
+  Title: SUTEKI DA NE (Isn't It Wonderful?)
+  Type: FMS
+  Ultimate: '9940187'
+- Basic: '9901099'
+  Expert: '9946188'
+  ID: '174'
+  Series: Final Fantasy X
+  Supreme: '-'
+  Title: Servants of the Mountain
+  Type: FMS
+  Ultimate: '9914740'
+- Basic: '9770609'
+  Expert: '9926290'
+  ID: '175'
+  Series: Final Fantasy X
+  Supreme: '-'
+  Title: A Fleeting Dream
+  Type: FMS
+  Ultimate: '9437289'
+- Basic: '9861660'
+  Expert: '9868633'
+  ID: '176'
+  Series: Final Fantasy X
+  Supreme: '-'
+  Title: Challenge
+  Type: BMS
+  Ultimate: '9758833'
+- Basic: '9734918'
+  Expert: '9708531'
+  ID: '177'
+  Series: Final Fantasy X
+  Supreme: '0'
+  Title: Fight with Seymour
+  Type: BMS
+  Ultimate: '9483987'
+- Basic: '9734737'
+  Expert: '9787566'
+  ID: '178'
+  Series: Final Fantasy X
+  Supreme: '0'
+  Title: Otherworld
+  Type: BMS
+  Ultimate: '8653711'
+- Basic: '9972112'
+  Expert: '9932707'
+  ID: '179'
+  Series: Final Fantasy X
+  Supreme: '0'
+  Title: A Contest of Aeons
+  Type: BMS
+  Ultimate: '9340868'
+- Basic: '9885986'
+  Expert: '9892857'
+  ID: '180'
+  Series: Final Fantasy X
+  Supreme: '0'
+  Title: Final Battle
+  Type: BMS
+  Ultimate: '8818082'
+- Basic: '9927835'
+  Expert: '9747253'
+  ID: '181'
+  Series: Final Fantasy X-2
+  Supreme: '-'
+  Title: 1000 Words (FFX-2 Mix)
+  Type: EMS
+  Ultimate: '9346211'
+- Basic: '9726190'
+  Expert: '9878939'
+  ID: '182'
+  Series: Final Fantasy X-2
+  Supreme: '-'
+  Title: YuRiPa, Fight! No. 1
+  Type: BMS
+  Ultimate: '9459014'
+- Basic: '9958005'
+  Expert: '9845045'
+  ID: '183'
+  Series: Final Fantasy X-2
+  Supreme: '-'
+  Title: We're the Gullwings!
+  Type: FMS
+  Ultimate: '9442690'
+- Basic: '9842412'
+  Expert: '9841410'
+  ID: '184'
+  Series: Final Fantasy X-2
+  Supreme: '-'
+  Title: '"Let me blow you a kiss."'
+  Type: BMS
+  Ultimate: '8868403'
+- Basic: '9669811'
+  Expert: '9880315'
+  ID: '185'
+  Series: Final Fantasy X-2
+  Supreme: '-'
+  Title: The Bevelle Underground
+  Type: FMS
+  Ultimate: '9173073'
+- Basic: '9947598'
+  Expert: '9829971'
+  ID: '186'
+  Series: Final Fantasy X-2
+  Supreme: '-'
+  Title: The Farplane Abyss
+  Type: FMS
+  Ultimate: '9720935'
+- Basic: '9779582'
+  Expert: '9690442'
+  ID: '187'
+  Series: Final Fantasy X-2
+  Supreme: '-'
+  Title: Their Resting Place
+  Type: BMS
+  Ultimate: '7909343'
+- Basic: '9720472'
+  Expert: '9845946'
+  ID: '188'
+  Series: Final Fantasy XI
+  Supreme: '-'
+  Title: '"FFXI Opening Theme"'
+  Type: EMS
+  Ultimate: '9563559'
+- Basic: '9850847'
+  Expert: '9960784'
+  ID: '189'
+  Series: Final Fantasy XI
+  Supreme: '-'
+  Title: '"FFXI Opening Theme"'
+  Type: BMS
+  Ultimate: '8666288'
+- Basic: '9843750'
+  Expert: '9853960'
+  ID: '190'
+  Series: Final Fantasy XI
+  Supreme: '-'
+  Title: Vana'diel March
+  Type: FMS
+  Ultimate: '9824225'
+- Basic: '9922118'
+  Expert: '9823266'
+  ID: '191'
+  Series: Final Fantasy XI
+  Supreme: '-'
+  Title: Ronfaure
+  Type: FMS
+  Ultimate: '9660189'
+- Basic: '9832845'
+  Expert: '9865209'
+  ID: '192'
+  Series: Final Fantasy XI
+  Supreme: '-'
+  Title: Battle Theme
+  Type: BMS
+  Ultimate: '9104555'
+- Basic: '9888571'
+  Expert: '9891089'
+  ID: '193'
+  Series: Final Fantasy XI
+  Supreme: '-'
+  Title: Gustaberg
+  Type: FMS
+  Ultimate: '9858025'
+- Basic: '9926752'
+  Expert: '9783898'
+  ID: '194'
+  Series: Final Fantasy XI
+  Supreme: '-'
+  Title: Heavens Tower
+  Type: FMS
+  Ultimate: '9971681'
+- Basic: '9905229'
+  Expert: '9847222'
+  ID: '195'
+  Series: Final Fantasy XI
+  Supreme: '-'
+  Title: Sarutabaruta
+  Type: FMS
+  Ultimate: '9490545'
+- Basic: '9869919'
+  Expert: '9779188'
+  ID: '196'
+  Series: Final Fantasy XI
+  Supreme: '-'
+  Title: Voyager
+  Type: FMS
+  Ultimate: '9569718'
+- Basic: '9865385'
+  Expert: '9913758'
+  ID: '197'
+  Series: Final Fantasy XI
+  Supreme: '-'
+  Title: Selbina
+  Type: FMS
+  Ultimate: '8868701'
+- Basic: '9868657'
+  Expert: '9875214'
+  ID: '198'
+  Series: Final Fantasy XI
+  Supreme: '-'
+  Title: Recollection
+  Type: FMS
+  Ultimate: '9902503'
+- Basic: '9773973'
+  Expert: '9886293'
+  ID: '199'
+  Series: Final Fantasy XI
+  Supreme: '0'
+  Title: Awakening
+  Type: BMS
+  Ultimate: '8713599'
+- Basic: '9734536'
+  Expert: '9823529'
+  ID: '200'
+  Series: Final Fantasy XI
+  Supreme: '-'
+  Title: 'Tought Battle #2'
+  Type: BMS
+  Ultimate: '8046668'
+- Basic: '9916399'
+  Expert: '9944206'
+  ID: '201'
+  Series: Final Fantasy XI
+  Supreme: '-'
+  Title: The Sanctuary of Zi'Tah
+  Type: FMS
+  Ultimate: '9957880'
+- Basic: '9813505'
+  Expert: '9818018'
+  ID: '202'
+  Series: Final Fantasy XI
+  Supreme: '0'
+  Title: Fighters of the Crystal
+  Type: BMS
+  Ultimate: '9185462'
+- Basic: '9948087'
+  Expert: '9806189'
+  ID: '203'
+  Series: Final Fantasy XI
+  Supreme: '-'
+  Title: A New Horizon - Tavnazian Archipelago
+  Type: FMS
+  Ultimate: '9749149'
+- Basic: '9780928'
+  Expert: '9940514'
+  ID: '204'
+  Series: Final Fantasy XI
+  Supreme: '-'
+  Title: Iron Colossus
+  Type: BMS
+  Ultimate: '9308720'
+- Basic: '9878419'
+  Expert: '9927119'
+  ID: '205'
+  Series: Final Fantasy XI
+  Supreme: '0'
+  Title: Ragnarok
+  Type: BMS
+  Ultimate: '9604605'
+- Basic: '9932817'
+  Expert: '9909556'
+  ID: '206'
+  Series: Final Fantasy XI
+  Supreme: '-'
+  Title: Melodies Errant
+  Type: BMS
+  Ultimate: '8468299'
+- Basic: '9798598'
+  Expert: '9868421'
+  ID: '207'
+  Series: Final Fantasy XI
+  Supreme: '0'
+  Title: Shinryu
+  Type: BMS
+  Ultimate: '9191648'
+- Basic: '9740947'
+  Expert: '9853955'
+  ID: '208'
+  Series: Final Fantasy XII
+  Supreme: '-'
+  Title: The Archadian Empire - original - from FINAL FANTASY XII
+  Type: EMS
+  Ultimate: '9535977'
+- Basic: '9964824'
+  Expert: '9734504'
+  ID: '209'
+  Series: Final Fantasy XII
+  Supreme: '-'
+  Title: FINAL FANTASY (FFXII Version)
+  Type: BMS
+  Ultimate: '9651672'
+- Basic: '9894569'
+  Expert: '9830040'
+  ID: '210'
+  Series: Final Fantasy XII
+  Supreme: '-'
+  Title: Streets of Rabanastre
+  Type: FMS
+  Ultimate: '9516837'
+- Basic: '9951389'
+  Expert: '9967078'
+  ID: '211'
+  Series: Final Fantasy XII
+  Supreme: '0'
+  Title: The Dalmasca Estersand
+  Type: FMS
+  Ultimate: '9619911'
+- Basic: '9879747'
+  Expert: '9944206'
+  ID: '212'
+  Series: Final Fantasy XII
+  Supreme: '-'
+  Title: Heart of a Child
+  Type: FMS
+  Ultimate: '9145217'
+- Basic: '9764901'
+  Expert: '9704620'
+  ID: '213'
+  Series: Final Fantasy XII
+  Supreme: '-'
+  Title: Giza Plains (from FINAL FANTASY XII Original Soundtrack)
+  Type: FMS
+  Ultimate: '9713690'
+- Basic: '9719512'
+  Expert: '9828244'
+  ID: '214'
+  Series: Final Fantasy XII
+  Supreme: '-'
+  Title: The Archadian Empire - original - from FINAL FANTASY XII
+  Type: FMS
+  Ultimate: '9000428'
+- Basic: '9805556'
+  Expert: '9877462'
+  ID: '215'
+  Series: Final Fantasy XII
+  Supreme: '0'
+  Title: Phon Coast
+  Type: FMS
+  Ultimate: '9527913'
+- Basic: '9960133'
+  Expert: '9781885'
+  ID: '216'
+  Series: Final Fantasy XII
+  Supreme: '-'
+  Title: The Mosphoran Highwaste
+  Type: FMS
+  Ultimate: '9740788'
+- Basic: '9923567'
+  Expert: '9836522'
+  ID: '217'
+  Series: Final Fantasy XII
+  Supreme: '-'
+  Title: Boss Battle
+  Type: BMS
+  Ultimate: '9784587'
+- Basic: '9843915'
+  Expert: '9800000'
+  ID: '218'
+  Series: Final Fantasy XII
+  Supreme: '0'
+  Title: Flash of Steel
+  Type: BMS
+  Ultimate: '9713584'
+- Basic: '9816054'
+  Expert: '9886562'
+  ID: '219'
+  Series: Final Fantasy XII
+  Supreme: '-'
+  Title: Battle with an Esper
+  Type: BMS
+  Ultimate: '9836049'
+- Basic: '9919786'
+  Expert: '9796407'
+  ID: '220'
+  Series: Final Fantasy XII
+  Supreme: '-'
+  Title: Life and Death
+  Type: BMS
+  Ultimate: '9336707'
+- Basic: '9876712'
+  Expert: '9790869'
+  ID: '221'
+  Series: Final Fantasy XII
+  Supreme: '0'
+  Title: Struggle for Freedom
+  Type: BMS
+  Ultimate: '9526042'
+- Basic: '9917695'
+  Expert: '9722772'
+  ID: '222'
+  Series: Final Fantasy XII
+  Supreme: '-'
+  Title: Ending Movie (from FINAL FANTASY XII Original Soundtrack)
+  Type: BMS
+  Ultimate: '9550174'
+- Basic: '9860825'
+  Expert: '9843254'
+  ID: '223'
+  Series: Final Fantasy XIII
+  Supreme: '-'
+  Title: Defiers of Fate
+  Type: EMS
+  Ultimate: '9718224'
+- Basic: '9930233'
+  Expert: '9901387'
+  ID: '224'
+  Series: Final Fantasy XIII
+  Supreme: '0'
+  Title: Defiers of Fate
+  Type: BMS
+  Ultimate: '9584478'
+- Basic: '9689573'
+  Expert: '9887290'
+  ID: '225'
+  Series: Final Fantasy XIII
+  Supreme: '-'
+  Title: Saber's Edge
+  Type: BMS
+  Ultimate: '9230763'
+- Basic: '9664694'
+  Expert: '9875643'
+  ID: '226'
+  Series: Final Fantasy XIII
+  Supreme: '0'
+  Title: Blinded by Light
+  Type: BMS
+  Ultimate: '9441683'
+- Basic: '9956954'
+  Expert: '9801902'
+  ID: '227'
+  Series: Final Fantasy XIII
+  Supreme: '-'
+  Title: March of the Dreadnoughts
+  Type: FMS
+  Ultimate: '8691577'
+- Basic: '9906137'
+  Expert: '9841689'
+  ID: '228'
+  Series: Final Fantasy XIII
+  Supreme: '-'
+  Title: The Gapra Whitewood
+  Type: FMS
+  Ultimate: '9818598'
+- Basic: '9938849'
+  Expert: '9877358'
+  ID: '229'
+  Series: Final Fantasy XIII
+  Supreme: '0'
+  Title: The Sunleth Waterscape
+  Type: FMS
+  Ultimate: '9401854'
+- Basic: '9862222'
+  Expert: '9821637'
+  ID: '230'
+  Series: Final Fantasy XIII
+  Supreme: '-'
+  Title: The Archylte Steppe
+  Type: FMS
+  Ultimate: '9723270'
+- Basic: '9868526'
+  Expert: '9731207'
+  ID: '231'
+  Series: Final Fantasy XIII
+  Supreme: '-'
+  Title: Desperate Struggle
+  Type: BMS
+  Ultimate: '8801292'
+- Basic: '9674576'
+  Expert: '9811558'
+  ID: '232'
+  Series: Final Fantasy XIII
+  Supreme: '-'
+  Title: Will to Fight
+  Type: BMS
+  Ultimate: '9532764'
+- Basic: '9674658'
+  Expert: '9888350'
+  ID: '233'
+  Series: Final Fantasy XIII
+  Supreme: '-'
+  Title: Dust to Dust
+  Type: FMS
+  Ultimate: '9654448'
+- Basic: '9755418'
+  Expert: '9880859'
+  ID: '234'
+  Series: Final Fantasy XIII
+  Supreme: '-'
+  Title: Eden Under Siege
+  Type: BMS
+  Ultimate: '8802636'
+- Basic: '9862319'
+  Expert: '9780924'
+  ID: '235'
+  Series: Final Fantasy XIII
+  Supreme: '0'
+  Title: Fighting Fate
+  Type: BMS
+  Ultimate: '9600052'
+- Basic: '9819005'
+  Expert: '9901472'
+  ID: '236'
+  Series: Final Fantasy XIII
+  Supreme: '0'
+  Title: Nascent Requiem
+  Type: BMS
+  Ultimate: '8927165'
+- Basic: '9809917'
+  Expert: '9876827'
+  ID: '237'
+  Series: Final Fantasy XIII-2
+  Supreme: '-'
+  Title: Warrior Goddess
+  Type: EMS
+  Ultimate: '9666000'
+- Basic: '9850000'
+  Expert: '9811410'
+  ID: '238'
+  Series: Final Fantasy XIII-2
+  Supreme: '0'
+  Title: Etro's Champion
+  Type: BMS
+  Ultimate: '9587137'
+- Basic: '9674677'
+  Expert: '9864275'
+  ID: '239'
+  Series: Final Fantasy XIII-2
+  Supreme: '0'
+  Title: Paradigm Shift
+  Type: BMS
+  Ultimate: '9477871'
+- Basic: '9875000'
+  Expert: '9875256'
+  ID: '240'
+  Series: Final Fantasy XIII-2
+  Supreme: '-'
+  Title: Historia Crux
+  Type: FMS
+  Ultimate: '9560380'
+- Basic: '9938667'
+  Expert: '9738129'
+  ID: '241'
+  Series: Final Fantasy XIII-2
+  Supreme: '-'
+  Title: The Last Hunter
+  Type: BMS
+  Ultimate: '9042318'
+- Basic: '9851240'
+  Expert: '9845263'
+  ID: '242'
+  Series: Final Fantasy XIII-2
+  Supreme: '-'
+  Title: Full Speed Ahead
+  Type: BMS
+  Ultimate: '8992013'
+- Basic: '9890526'
+  Expert: '9804954'
+  ID: '243'
+  Series: Final Fantasy XIII-2
+  Supreme: '-'
+  Title: Eclipse
+  Type: FMS
+  Ultimate: '9296877'
+- Basic: '9893720'
+  Expert: '9938650'
+  ID: '244'
+  Series: Final Fantasy XIII-2
+  Supreme: '-'
+  Title: Plains of Eternity
+  Type: FMS
+  Ultimate: '9931868'
+- Basic: '9935484'
+  Expert: '9809816'
+  ID: '245'
+  Series: Final Fantasy XIII-2
+  Supreme: '-'
+  Title: Groovy Chocobo
+  Type: FMS
+  Ultimate: '9646974'
+- Basic: '9865672'
+  Expert: '9759259'
+  ID: '246'
+  Series: Final Fantasy XIII-2
+  Supreme: '0'
+  Title: Crazy Chocobo
+  Type: FMS
+  Ultimate: '9385328'
+- Basic: '9873786'
+  Expert: '9915332'
+  ID: '247'
+  Series: Final Fantasy XIII-2
+  Supreme: '-'
+  Title: Noel's Theme - Final Journey -
+  Type: FMS
+  Ultimate: '9791916'
+- Basic: '9895833'
+  Expert: '9908108'
+  ID: '248'
+  Series: Final Fantasy XIII-2
+  Supreme: '0'
+  Title: Heart of Chaos
+  Type: BMS
+  Ultimate: '9215538'
+- Basic: '9764706'
+  Expert: '9693950'
+  ID: '249'
+  Series: 'Lightning Returns: Final Fantasy XIII'
+  Supreme: '-'
+  Title: The Savior - LIGHTNING RETURNS:FINAL FANTASY XIII -
+  Type: EMS
+  Ultimate: '9650137'
+- Basic: '9905371'
+  Expert: '9869822'
+  ID: '250'
+  Series: 'Lightning Returns: Final Fantasy XIII'
+  Supreme: '0'
+  Title: LIGHTNING RETURNS - LIGHTNING RETURNS:FINAL FANTASY XIII -
+  Type: BMS
+  Ultimate: '8850342'
+- Basic: '9882857'
+  Expert: '9830078'
+  ID: '251'
+  Series: 'Lightning Returns: Final Fantasy XIII'
+  Supreme: '0'
+  Title: Crimson Blitz
+  Type: BMS
+  Ultimate: '9468724'
+- Basic: '9888172'
+  Expert: '9840990'
+  ID: '252'
+  Series: 'Lightning Returns: Final Fantasy XIII'
+  Supreme: '-'
+  Title: The Glittering City of Yusnaan
+  Type: FMS
+  Ultimate: '9429401'
+- Basic: '9901961'
+  Expert: '9785515'
+  ID: '253'
+  Series: 'Lightning Returns: Final Fantasy XIII'
+  Supreme: '-'
+  Title: The Dead Dunes
+  Type: FMS
+  Ultimate: '9370948'
+- Basic: '9877034'
+  Expert: '9729219'
+  ID: '254'
+  Series: 'Lightning Returns: Final Fantasy XIII'
+  Supreme: '0'
+  Title: The Savior - LIGHTNING RETURNS:FINAL FANTASY XIII -
+  Type: BMS
+  Ultimate: '8938949'
+- Basic: '9795402'
+  Expert: '9773869'
+  ID: '255'
+  Series: 'Lightning Returns: Final Fantasy XIII'
+  Supreme: '-'
+  Title: Chaos
+  Type: BMS
+  Ultimate: '9579589'
+- Basic: '9716418'
+  Expert: '9867089'
+  ID: '256'
+  Series: Final Fantasy XIV
+  Supreme: '-'
+  Title: Answers
+  Type: EMS
+  Ultimate: '9504736'
+- Basic: '9969231'
+  Expert: '9950998'
+  ID: '257'
+  Series: Final Fantasy XIV
+  Supreme: '-'
+  Title: On Westerly Winds
+  Type: FMS
+  Ultimate: '9169752'
+- Basic: '9956863'
+  Expert: '9947991'
+  ID: '258'
+  Series: Final Fantasy XIV
+  Supreme: '-'
+  Title: Serenity
+  Type: FMS
+  Ultimate: '9872449'
+- Basic: '9955357'
+  Expert: '9821862'
+  ID: '259'
+  Series: Final Fantasy XIV
+  Supreme: '-'
+  Title: To the Sun
+  Type: FMS
+  Ultimate: '9568657'
+- Basic: '9742729'
+  Expert: '9803358'
+  ID: '260'
+  Series: Final Fantasy XIV
+  Supreme: '-'
+  Title: The Land Breathes
+  Type: BMS
+  Ultimate: '9693203'
+- Basic: '9932075'
+  Expert: '9831797'
+  ID: '261'
+  Series: Final Fantasy XIV
+  Supreme: '-'
+  Title: Hard to Miss
+  Type: BMS
+  Ultimate: '9611223'
+- Basic: '9933002'
+  Expert: '9767742'
+  ID: '262'
+  Series: Final Fantasy XIV
+  Supreme: '0'
+  Title: Torn from the Heavens
+  Type: BMS
+  Ultimate: '9118299'
+- Basic: '9861893'
+  Expert: '9953488'
+  ID: '263'
+  Series: Final Fantasy XIV
+  Supreme: '-'
+  Title: Nemesis
+  Type: BMS
+  Ultimate: '8551681'
+- Basic: '9733173'
+  Expert: '9776097'
+  ID: '264'
+  Series: Final Fantasy XIV
+  Supreme: '-'
+  Title: Primal Judgment
+  Type: BMS
+  Ultimate: '8944572'
+- Basic: '9793165'
+  Expert: '9728890'
+  ID: '265'
+  Series: Final Fantasy XIV
+  Supreme: '0'
+  Title: Under the Weight
+  Type: BMS
+  Ultimate: '8688843'
+- Basic: '9940341'
+  Expert: '9881048'
+  ID: '266'
+  Series: Final Fantasy XIV
+  Supreme: '0'
+  Title: Engage
+  Type: FMS
+  Ultimate: '9391543'
+- Basic: '9940334'
+  Expert: '9887075'
+  ID: '267'
+  Series: Final Fantasy XIV
+  Supreme: '0'
+  Title: Fallen Angel
+  Type: BMS
+  Ultimate: '9226128'
+- Basic: '9958661'
+  Expert: '9929455'
+  ID: '268'
+  Series: Final Fantasy XIV
+  Supreme: '-'
+  Title: Good King Moggle Mog XII
+  Type: BMS
+  Ultimate: '8934469'
+- Basic: '9894988'
+  Expert: '9930990'
+  ID: '269'
+  Series: Final Fantasy XIV
+  Supreme: '0'
+  Title: Ultima
+  Type: BMS
+  Ultimate: '8806463'
+- Basic: '9938190'
+  Expert: '9830838'
+  ID: '270'
+  Series: Final Fantasy XIV
+  Supreme: '0'
+  Title: Through the Maelstrom
+  Type: BMS
+  Ultimate: '8953151'
+- Basic: '9720000'
+  Expert: '9724444'
+  ID: '271'
+  Series: Final Fantasy XIV
+  Supreme: '-'
+  Title: A Light in the Storm
+  Type: FMS
+  Ultimate: '9611761'
+- Basic: '9808824'
+  Expert: '9832803'
+  ID: '272'
+  Series: Final Fantasy XIV
+  Supreme: '0'
+  Title: Oblivion
+  Type: BMS
+  Ultimate: '9609859'
+- Basic: '9850318'
+  Expert: '9772222'
+  ID: '273'
+  Series: Final Fantasy XIV
+  Supreme: '0'
+  Title: Omnious Prognisticks
+  Type: BMS
+  Ultimate: '9180524'
+- Basic: '9922872'
+  Expert: '9687908'
+  ID: '274'
+  Series: Final Fantasy XIV
+  Supreme: '0'
+  Title: Ink Long Dry
+  Type: FMS
+  Ultimate: '8550103'
+- Basic: '9775281'
+  Expert: '9834270'
+  ID: '275'
+  Series: Final Fantasy XIV
+  Supreme: '0'
+  Title: Heroes
+  Type: BMS
+  Ultimate: '8701198'
+- Basic: '9881288'
+  Expert: '9888601'
+  ID: '276'
+  Series: Final Fantasy XIV
+  Supreme: '0'
+  Title: Locus
+  Type: BMS
+  Ultimate: '8340983'
+- Basic: '9859023'
+  Expert: '9797460'
+  ID: '277'
+  Series: Final Fantasy XIV
+  Supreme: '0'
+  Title: Metal - Brute Justice Mode
+  Type: BMS
+  Ultimate: '8740419'
+- Basic: '9735346'
+  Expert: '9802846'
+  ID: '278'
+  Series: Final Fantasy XIV
+  Supreme: '0'
+  Title: Exponential Entropy
+  Type: BMS
+  Ultimate: '9148834'
+- Basic: '9818681'
+  Expert: '9837591'
+  ID: '279'
+  Series: Final Fantasy XIV
+  Supreme: '0'
+  Title: Moebius
+  Type: BMS
+  Ultimate: '9879656'
+- Basic: '9979532'
+  Expert: '9890173'
+  ID: '280'
+  Series: Final Fantasy XIV
+  Supreme: '0'
+  Title: Rise
+  Type: BMS
+  Ultimate: '9449227'
+- Basic: '9890785'
+  Expert: '9841313'
+  ID: '281'
+  Series: Final Fantasy XIV
+  Supreme: '-'
+  Title: Triumph
+  Type: BMS
+  Ultimate: '9005654'
+- Basic: '9818182'
+  Expert: '9767733'
+  ID: '282'
+  Series: Final Fantasy XIV
+  Supreme: '0'
+  Title: The Worm's Tail
+  Type: BMS
+  Ultimate: '8849735'
+- Basic: '9944118'
+  Expert: '9892308'
+  ID: '283'
+  Series: Final Fantasy XIV
+  Supreme: '0'
+  Title: Wayward Daughter
+  Type: BMS
+  Ultimate: '9094207'
+- Basic: '9871795'
+  Expert: '9688150'
+  ID: '284'
+  Series: Final Fantasy XIV
+  Supreme: '-'
+  Title: Sunrise
+  Type: BMS
+  Ultimate: '9168152'
+- Basic: '9841608'
+  Expert: '9839161'
+  ID: '285'
+  Series: Final Fantasy XIV
+  Supreme: '0'
+  Title: What Angel Wakes Me
+  Type: BMS
+  Ultimate: '9807649'
+- Basic: '9821629'
+  Expert: '9740814'
+  ID: '286'
+  Series: Final Fantasy XIV
+  Supreme: '0'
+  Title: Who Brings Shadow
+  Type: BMS
+  Ultimate: '9421970'
+- Basic: '9797292'
+  Expert: '9885897'
+  ID: '287'
+  Series: Final Fantasy XIV
+  Supreme: '0'
+  Title: A Long Fall
+  Type: BMS
+  Ultimate: '9270575'
+- Basic: '9949511'
+  Expert: '9908293'
+  ID: '288'
+  Series: Final Fantasy XIV
+  Supreme: '-'
+  Title: Promises to Keep
+  Type: BMS
+  Ultimate: '8959162'
+- Basic: '9819149'
+  Expert: '9727862'
+  ID: '289'
+  Series: Final Fantasy XV
+  Supreme: '-'
+  Title: APOCALYPSIS NOCTIS
+  Type: EMS
+  Ultimate: '8842106'
+- Basic: '9909091'
+  Expert: '9758197'
+  ID: '290'
+  Series: Final Fantasy XV
+  Supreme: '-'
+  Title: Stand Your Ground
+  Type: BMS
+  Ultimate: '9192191'
+- Basic: '9804627'
+  Expert: '9929374'
+  ID: '291'
+  Series: Final Fantasy XV
+  Supreme: '0'
+  Title: Veiled in Black
+  Type: BMS
+  Ultimate: '9511812'
+- Basic: '9763780'
+  Expert: '9812092'
+  ID: '292'
+  Series: Final Fantasy XV
+  Supreme: '0'
+  Title: Valse di Fantastica
+  Type: FMS
+  Ultimate: '9010809'
+- Basic: '9808017'
+  Expert: '9924890'
+  ID: '293'
+  Series: Final Fantasy XV
+  Supreme: '-'
+  Title: The Fight Is On!
+  Type: BMS
+  Ultimate: '9841220'
+- Basic: '9902808'
+  Expert: '9822932'
+  ID: '294'
+  Series: Final Fantasy XV
+  Supreme: '0'
+  Title: APOCALYPSIS NOCTIS (Uncovered Trailer)
+  Type: BMS
+  Ultimate: '8975409'
+- Basic: '9821023'
+  Expert: '9785714'
+  ID: '295'
+  Series: Final Fantasy XV
+  Supreme: '0'
+  Title: Flying R
+  Type: FMS
+  Ultimate: '9754533'
+- Basic: '9724409'
+  Expert: '9914676'
+  ID: '296'
+  Series: Final Fantasy XV
+  Supreme: '0'
+  Title: Invidia
+  Type: BMS
+  Ultimate: '9673455'
+- Basic: '9932615'
+  Expert: '9838762'
+  ID: '297'
+  Series: Final Fantasy XV
+  Supreme: '0'
+  Title: OMNIS LACRIMA
+  Type: BMS
+  Ultimate: '9471463'
+- Basic: '9917614'
+  Expert: '9911111'
+  ID: '298'
+  Series: Final Fantasy XV
+  Supreme: '0'
+  Title: Up for the Challenge
+  Type: BMS
+  Ultimate: '9457124'
+- Basic: '9893204'
+  Expert: '9944882'
+  ID: '299'
+  Series: Final Fantasy XV
+  Supreme: '-'
+  Title: Somnus
+  Type: FMS
+  Ultimate: '8922760'
+- Basic: '9886994'
+  Expert: '9901813'
+  ID: '300'
+  Series: Final Fantasy XV
+  Supreme: '0'
+  Title: Hellfire
+  Type: BMS
+  Ultimate: '9765608'
+- Basic: '9785092'
+  Expert: '9701075'
+  ID: '301'
+  Series: Final Fantasy XV
+  Supreme: '0'
+  Title: Magna Insomnia
+  Type: BMS
+  Ultimate: '9290217'
+- Basic: '9822878'
+  Expert: '9757647'
+  ID: '302'
+  Series: Final Fantasy XV
+  Supreme: '-'
+  Title: Main Theme from FINAL FANTASY
+  Type: FMS
+  Ultimate: '9782385'
+- Basic: '9875691'
+  Expert: '9724951'
+  ID: '303'
+  Series: Final Fantasy XV
+  Supreme: '-'
+  Title: NOCTIS
+  Type: FMS
+  Ultimate: '9418217'
+- Basic: '9917857'
+  Expert: '9880734'
+  ID: '304'
+  Series: Final Fantasy XV
+  Supreme: '-'
+  Title: Shield of the King - Theme of EPISODE GLADIOLUS
+  Type: FMS
+  Ultimate: '9557297'
+- Basic: '9905263'
+  Expert: '9895879'
+  ID: '305'
+  Series: Final Fantasy XV
+  Supreme: '-'
+  Title: EPISODE IGNIS - The Main Theme
+  Type: FMS
+  Ultimate: '9433592'
+- Basic: '9740047'
+  Expert: '9876173'
+  ID: '306'
+  Series: Final Fantasy XV
+  Supreme: '-'
+  Title: Home Sweet Home - Theme of EPISODE PROMPTO
+  Type: FMS
+  Ultimate: '9783871'
+- Basic: '9932181'
+  Expert: '9882960'
+  ID: '307'
+  Series: Final Fantasy XV
+  Supreme: '0'
+  Title: The Dance of Silver and Crimson
+  Type: BMS
+  Ultimate: '8879256'
+- Basic: '9880150'
+  Expert: '9831683'
+  ID: '308'
+  Series: Final Fantasy Mystic Quest
+  Supreme: '0'
+  Title: Hill of Destiny
+  Type: BMS
+  Ultimate: '8953240'
+- Basic: '9686887'
+  Expert: '9808290'
+  ID: '309'
+  Series: Final Fantasy Mystic Quest
+  Supreme: '-'
+  Title: Battle 1
+  Type: BMS
+  Ultimate: '9689422'
+- Basic: '9782090'
+  Expert: '9886578'
+  ID: '310'
+  Series: Final Fantasy Mystic Quest
+  Supreme: '0'
+  Title: Battle 2
+  Type: BMS
+  Ultimate: '9484257'
+- Basic: '9875758'
+  Expert: '9915385'
+  ID: '311'
+  Series: Final Fantasy Mystic Quest
+  Supreme: '0'
+  Title: Doom Castle
+  Type: FMS
+  Ultimate: '8948659'
+- Basic: '9827411'
+  Expert: '9712171'
+  ID: '312'
+  Series: Final Fantasy Mystic Quest
+  Supreme: '0'
+  Title: Battle 3
+  Type: BMS
+  Ultimate: '8717265'
+- Basic: '9887500'
+  Expert: '9671498'
+  ID: '313'
+  Series: Final Fantasy Tactics
+  Supreme: '-'
+  Title: Opening
+  Type: EMS
+  Ultimate: '9023278'
+- Basic: '9726519'
+  Expert: '9853462'
+  ID: '314'
+  Series: Final Fantasy Tactics
+  Supreme: '-'
+  Title: Prologue
+  Type: FMS
+  Ultimate: '9856280'
+- Basic: '9918489'
+  Expert: '9828446'
+  ID: '315'
+  Series: Final Fantasy Tactics
+  Supreme: '0'
+  Title: Trisection
+  Type: BMS
+  Ultimate: '9640812'
+- Basic: '9947507'
+  Expert: '9823727'
+  ID: '316'
+  Series: Final Fantasy Tactics
+  Supreme: '0'
+  Title: Apoplexy
+  Type: BMS
+  Ultimate: '8838711'
+- Basic: '9875635'
+  Expert: '9881864'
+  ID: '317'
+  Series: Final Fantasy Tactics
+  Supreme: '-'
+  Title: Antipyretic
+  Type: BMS
+  Ultimate: '8763123'
+- Basic: '9873479'
+  Expert: '9832781'
+  ID: '318'
+  Series: Final Fantasy Tactics
+  Supreme: '0'
+  Title: Precipitous Combat
+  Type: BMS
+  Ultimate: '8821225'
+- Basic: '9886305'
+  Expert: '9689655'
+  ID: '319'
+  Series: Final Fantasy Tactics
+  Supreme: '-'
+  Title: Ovelia's Theme
+  Type: FMS
+  Ultimate: '9228709'
+- Basic: '9841849'
+  Expert: '9894481'
+  ID: '320'
+  Series: Final Fantasy Tactics
+  Supreme: '0'
+  Title: Ultima's Transformation
+  Type: BMS
+  Ultimate: '9020177'
+- Basic: '9911392'
+  Expert: '9798995'
+  ID: '321'
+  Series: Final Fantasy Crystal Chronicles Remastered Edition
+  Supreme: '-'
+  Title: Moonless Starry Night
+  Type: EMS
+  Ultimate: '9260621'
+- Basic: '9906250'
+  Expert: '9910913'
+  ID: '322'
+  Series: Final Fantasy Crystal Chronicles Remastered Edition
+  Supreme: '-'
+  Title: Today Comes To Be Tomorrow
+  Type: FMS
+  Ultimate: '9859012'
+- Basic: '9747126'
+  Expert: '9847007'
+  ID: '323'
+  Series: Final Fantasy Crystal Chronicles Remastered Edition
+  Supreme: '-'
+  Title: Promised Grace
+  Type: FMS
+  Ultimate: '8728730'
+- Basic: '9893519'
+  Expert: '9944954'
+  ID: '324'
+  Series: Final Fantasy Crystal Chronicles Remastered Edition
+  Supreme: '0'
+  Title: Monster Ronde
+  Type: BMS
+  Ultimate: '9300115'
+- Basic: '9769231'
+  Expert: '9874439'
+  ID: '325'
+  Series: Final Fantasy Crystal Chronicles Remastered Edition
+  Supreme: '0'
+  Title: Across the Divide
+  Type: FMS
+  Ultimate: '8804521'
+- Basic: '9933078'
+  Expert: '9926905'
+  ID: '326'
+  Series: Final Fantasy Crystal Chronicles Remastered Edition
+  Supreme: '0'
+  Title: Woebegone Creature
+  Type: BMS
+  Ultimate: '9810585'
+- Basic: '9883721'
+  Expert: '9920471'
+  ID: '327'
+  Series: Final Fantasy Crystal Chronicles Remastered Edition
+  Supreme: '-'
+  Title: United, Heaven-Sent
+  Type: BMS
+  Ultimate: '8791698'
+- Basic: '9796578'
+  Expert: '9881310'
+  ID: '328'
+  Series: 'Final Fantasy Crystal Chronicles: The Crystal Bearers'
+  Supreme: '0'
+  Title: This Is the End for You!
+  Type: BMS
+  Ultimate: '9627914'
+- Basic: '9849711'
+  Expert: '9868946'
+  ID: '329'
+  Series: Dissidia Final Fantasy
+  Supreme: '-'
+  Title: DISSIDIA FINAL FANTASY [FINAL TRAILER]
+  Type: BMS
+  Ultimate: '9588585'
+- Basic: '9928144'
+  Expert: '9795045'
+  ID: '330'
+  Series: Dissidia Final Fantasy
+  Supreme: '-'
+  Title: Keeping the Peace from DISSIDIA FINAL FANTASY
+  Type: FMS
+  Ultimate: '9855457'
+- Basic: '9905444'
+  Expert: '9736031'
+  ID: '331'
+  Series: Dissidia Final Fantasy
+  Supreme: '-'
+  Title: The Decisive Battle - arrange - from FFVI
+  Type: BMS
+  Ultimate: '9212257'
+- Basic: '9892754'
+  Expert: '9705082'
+  ID: '332'
+  Series: Dissidia Final Fantasy
+  Supreme: '-'
+  Title: Battle 1 - arrange - from FFIX
+  Type: BMS
+  Ultimate: '9150276'
+- Basic: '9818942'
+  Expert: '9749269'
+  ID: '333'
+  Series: Dissidia Final Fantasy
+  Supreme: '-'
+  Title: The Troops' Advance
+  Type: BMS
+  Ultimate: '9192344'
+- Basic: '9844622'
+  Expert: '9890026'
+  ID: '334'
+  Series: Dissidia Final Fantasy
+  Supreme: '-'
+  Title: DISSIDIA - ending - from DISSIDIA FINAL FANTASY
+  Type: BMS
+  Ultimate: '9330732'
+- Basic: '9887097'
+  Expert: '9871345'
+  ID: '335'
+  Series: Dissidia 012[duodecim] Final Fantasy
+  Supreme: '-'
+  Title: Lux Concordiae
+  Type: EMS
+  Ultimate: '9797170'
+- Basic: '9841346'
+  Expert: '9861862'
+  ID: '336'
+  Series: Dissidia 012[duodecim] Final Fantasy
+  Supreme: '-'
+  Title: DISSIDIA 012[duodecim] FINAL FANTASY [FINAL TRAILER]
+  Type: BMS
+  Ultimate: '8639029'
+- Basic: '9730061'
+  Expert: '9858427'
+  ID: '337'
+  Series: Dissidia 012[duodecim] Final Fantasy
+  Supreme: '-'
+  Title: Canto Mortis -An Undocumented Battle-
+  Type: FMS
+  Ultimate: '9833819'
+- Basic: '9970650'
+  Expert: '9912711'
+  ID: '338'
+  Series: Dissidia 012[duodecim] Final Fantasy
+  Supreme: '-'
+  Title: Gate to the Rift
+  Type: FMS
+  Ultimate: '9078163'
+- Basic: '9815249'
+  Expert: '9939516'
+  ID: '339'
+  Series: Dissidia 012[duodecim] Final Fantasy
+  Supreme: '-'
+  Title: Cantata Mortis
+  Type: BMS
+  Ultimate: '9301344'
+- Basic: '9821340'
+  Expert: '9850559'
+  ID: '340'
+  Series: Dissidia Final Fantasy -Arcade-
+  Supreme: '0'
+  Title: '"The Rebel Army" from FINAL FANTASY II (Arrangement)'
+  Type: BMS
+  Ultimate: '8809076'
+- Basic: '9827964'
+  Expert: '9764238'
+  ID: '341'
+  Series: Dissidia Final Fantasy -Arcade-
+  Supreme: '-'
+  Title: '"Eternal Wind" from FINAL FANTASY III (DFF Arrangement)'
+  Type: BMS
+  Ultimate: '8767100'
+- Basic: '9857550'
+  Expert: '9791988'
+  ID: '342'
+  Series: Dissidia Final Fantasy -Arcade-
+  Supreme: '0'
+  Title: '"Dancing Mad" from FINAL FANTASY VI (Arrangement)'
+  Type: BMS
+  Ultimate: '9292380'
+- Basic: '9822171'
+  Expert: '9932773'
+  ID: '343'
+  Series: Dissidia Final Fantasy -Arcade-
+  Supreme: '-'
+  Title: '"Ominous Prognisticks" from FINAL FANTASY XIV (Arrangement)'
+  Type: BMS
+  Ultimate: '8738732'
+- Basic: '9689956'
+  Expert: '9799479'
+  ID: '344'
+  Series: Dissidia Final Fantasy -Arcade-
+  Supreme: '0'
+  Title: '"Antipyretic" from FINAL FANTASY TACTICS (Arrangement)'
+  Type: BMS
+  Ultimate: '9543072'
+- Basic: '9779279'
+  Expert: '9691221'
+  ID: '345'
+  Series: Dissidia Final Fantasy -Arcade-
+  Supreme: '-'
+  Title: '"The Beginning of the End" from FINAL FANTASY TYPE-0 (Arrangement)'
+  Type: BMS
+  Ultimate: '9698749'
+- Basic: '9838415'
+  Expert: '9736626'
+  ID: '346'
+  Series: Dissidia Final Fantasy -Arcade-
+  Supreme: '-'
+  Title: Massive Explosion (Short ver.)
+  Type: BMS
+  Ultimate: '8973479'
+- Basic: '9943452'
+  Expert: '9858491'
+  ID: '347'
+  Series: Dissidia Final Fantasy -Arcade-
+  Supreme: '0'
+  Title: God in Fire - arrange - from DISSIDIA FINAL FANTASY
+  Type: BMS
+  Ultimate: '9776871'
+- Basic: '9746556'
+  Expert: '9828452'
+  ID: '348'
+  Series: Dissidia Final Fantasy Opera Omnia
+  Supreme: '-'
+  Title: Spark from DISSIDIA FINAL FANTASY OPERA OMNIA
+  Type: BMS
+  Ultimate: '9613269'
+- Basic: '9917683'
+  Expert: '9803279'
+  ID: '349'
+  Series: Dissidia Final Fantasy NT
+  Supreme: '0'
+  Title: Dare to Defy
+  Type: BMS
+  Ultimate: '9784874'
+- Basic: '9663599'
+  Expert: '9694853'
+  ID: '350'
+  Series: Final Fantasy Type-0
+  Supreme: '-'
+  Title: We Have Come
+  Type: EMS
+  Ultimate: '9660963'
+- Basic: '9816327'
+  Expert: '9915110'
+  ID: '351'
+  Series: Final Fantasy Type-0
+  Supreme: '0'
+  Title: We Have Come
+  Type: BMS
+  Ultimate: '9704865'
+- Basic: '9903448'
+  Expert: '9865214'
+  ID: '352'
+  Series: Final Fantasy Type-0
+  Supreme: '-'
+  Title: 'War: Warrior Worth a Thousand'
+  Type: BMS
+  Ultimate: '9336291'
+- Basic: '9870968'
+  Expert: '9884097'
+  ID: '353'
+  Series: Final Fantasy Type-0
+  Supreme: '-'
+  Title: The Earth Under Our Feet
+  Type: FMS
+  Ultimate: '9788809'
+- Basic: '9936073'
+  Expert: '9900482'
+  ID: '354'
+  Series: Final Fantasy Type-0
+  Supreme: '0'
+  Title: 'War: The White Weapon'
+  Type: BMS
+  Ultimate: '8993647'
+- Basic: '9781818'
+  Expert: '9853186'
+  ID: '355'
+  Series: Final Fantasy Type-0
+  Supreme: '-'
+  Title: Soar
+  Type: FMS
+  Ultimate: '9672465'
+- Basic: '9740920'
+  Expert: '9814754'
+  ID: '356'
+  Series: Final Fantasy Type-0
+  Supreme: '-'
+  Title: Tempus Finis
+  Type: FMS
+  Ultimate: '9304474'
+- Basic: '9822976'
+  Expert: '9757493'
+  ID: '357'
+  Series: Final Fantasy Type-0
+  Supreme: '-'
+  Title: Vermilion Fire
+  Type: BMS
+  Ultimate: '9174539'
+- Basic: '9871886'
+  Expert: '9960688'
+  ID: '358'
+  Series: Theatrhythm Final Fantasy
+  Supreme: '-'
+  Title: The Chaos Shrine - TFF Menu Arrangement - From FF
+  Type: BMS
+  Ultimate: '8737240'
+- Basic: '9796552'
+  Expert: '9793011'
+  ID: '359'
+  Series: Theatrhythm Final Fantasy
+  Supreme: '0'
+  Title: Return of the Warrior - TFF Menu Arrangement - From FFIII
+  Type: FMS
+  Ultimate: '8752449'
+- Basic: '9916388'
+  Expert: '9694391'
+  ID: '360'
+  Series: Theatrhythm Final Fantasy
+  Supreme: '0'
+  Title: Battle at the Big Bridge - TFF Menu Arrangement - From FFV
+  Type: BMS
+  Ultimate: '9056867'
+- Basic: '9681953'
+  Expert: '9710465'
+  ID: '361'
+  Series: Theatrhythm Final Fantasy Curtain Call
+  Supreme: '-'
+  Title: THEATRHYTHM FINAL FANTASY CURTAIN CALL Special Arrangement Medley
+  Type: EMS
+  Ultimate: '9597447'
+- Basic: '9842444'
+  Expert: '9679654'
+  ID: '362'
+  Series: Theatrhythm Final Fantasy Curtain Call
+  Supreme: '-'
+  Title: Choose Your Combatants - TFFCC Menu Arrangement - From FFT
+  Type: BMS
+  Ultimate: '9595950'
+- Basic: '9894168'
+  Expert: '9909155'
+  ID: '363'
+  Series: Theatrhythm Final Fantasy Curtain Call
+  Supreme: '-'
+  Title: THEATRHYTHM FINAL FANTASY CURTAIN CALL Special Arrangement Medley
+  Type: BMS
+  Ultimate: '8965277'
+- Basic: '9899614'
+  Expert: '9736243'
+  ID: '364'
+  Series: Theatrhythm Final Fantasy All-star Carnival
+  Supreme: '0'
+  Title: Perlude - TFFAC Menu Arrangement - From FF
+  Type: FMS
+  Ultimate: '9417239'
+- Basic: '9940199'
+  Expert: '9749693'
+  ID: '365'
+  Series: Theatrhythm Final Fantasy All-star Carnival
+  Supreme: '0'
+  Title: Matoya's Cave - TFFAC Arrangement - From FF
+  Type: FMS
+  Ultimate: '8689492'
+- Basic: '9706619'
+  Expert: '9776230'
+  ID: '366'
+  Series: Theatrhythm Final Fantasy All-star Carnival
+  Supreme: '0'
+  Title: The Red Wings - TFFAC Arrangement - From FFIV
+  Type: FMS
+  Ultimate: '8841404'
+- Basic: '9825919'
+  Expert: '9929851'
+  ID: '367'
+  Series: Theatrhythm Final Fantasy All-star Carnival
+  Supreme: '0'
+  Title: Main Theme of Final Fantasy V - TFFAC Arrangement - From FFV
+  Type: BMS
+  Ultimate: '9241521'
+- Basic: '9776967'
+  Expert: '9722530'
+  ID: '368'
+  Series: Theatrhythm Final Fantasy All-star Carnival
+  Supreme: '0'
+  Title: Battle at the Big Bridge - TFFAC Arrangement - From FFV
+  Type: BMS
+  Ultimate: '6977198'
+- Basic: '9835490'
+  Expert: '9842986'
+  ID: '369'
+  Series: Theatrhythm Final Fantasy All-star Carnival
+  Supreme: '0'
+  Title: Locke's Theme - TFFAC Arrangement - From FFVI
+  Type: BMS
+  Ultimate: '8940675'
+- Basic: '9941278'
+  Expert: '9802661'
+  ID: '370'
+  Series: Theatrhythm Final Fantasy All-star Carnival
+  Supreme: '0'
+  Title: J-E-N-O-V-A - TFFAC Arrangement - From VII
+  Type: BMS
+  Ultimate: '8124844'
+- Basic: '9878327'
+  Expert: '9905882'
+  ID: '371'
+  Series: Theatrhythm Final Fantasy All-star Carnival
+  Supreme: '0'
+  Title: Fight with Seymour - TFFAC Arrangement - From FFX
+  Type: BMS
+  Ultimate: '8825862'
+- Basic: '9888060'
+  Expert: '9752861'
+  ID: '372'
+  Series: Theatrhythm Final Fantasy All-star Carnival
+  Supreme: '0'
+  Title: TFFCC Special Arrangement Medley - TFFAC Arrangement - From TFFCC
+  Type: BMS
+  Ultimate: '8126025'
+- Basic: '9769255'
+  Expert: '9819672'
+  ID: '373'
+  Series: Theatrhythm Final Bar Line
+  Supreme: '0'
+  Title: FFVII Special Arrangement Medley - TFBL Arrangement - From FFVII
+  Type: BMS
+  Ultimate: '8769934'
+- Basic: '9686232'
+  Expert: '9786871'
+  ID: '374'
+  Series: Theatrhythm Final Bar Line
+  Supreme: '0'
+  Title: THEATRHYTHM FINAL BAR LINE Special Battle Arrangement Medley
+  Type: BMS
+  Ultimate: '8128577'
+- Basic: '9823353'
+  Expert: '9844211'
+  ID: '375'
+  Series: Final Fantasy Record Keeper
+  Supreme: '0'
+  Title: Chaos Shrine FFRK Ver. arrangement from FFI
+  Type: BMS
+  Ultimate: '9687672'
+- Basic: '9932886'
+  Expert: '9865801'
+  ID: '376'
+  Series: Final Fantasy Record Keeper
+  Supreme: '0'
+  Title: Battle at the Big Bridge~Ver.2~ FFRK Ver. arrange
+  Type: BMS
+  Ultimate: '9084780'
+- Basic: '9907598'
+  Expert: '9692308'
+  ID: '377'
+  Series: Final Fantasy Record Keeper
+  Supreme: '0'
+  Title: The Decisive Battle FFRK Ver. arrange from FFVI
+  Type: BMS
+  Ultimate: '8916145'
+- Basic: '9759465'
+  Expert: '9857778'
+  ID: '378'
+  Series: Final Fantasy Record Keeper
+  Supreme: '0'
+  Title: The Chase FFRK Ver. arrange from FFVII
+  Type: BMS
+  Ultimate: '8701731'
+- Basic: '9885965'
+  Expert: '9833333'
+  ID: '379'
+  Series: Final Fantasy Record Keeper
+  Supreme: '-'
+  Title: The Man with the Machine Gun FFRK Ver. arrange from FFVIII
+  Type: BMS
+  Ultimate: '8540166'
+- Basic: '9852941'
+  Expert: '9895254'
+  ID: '380'
+  Series: Final Fantasy Record Keeper
+  Supreme: '0'
+  Title: Blinded by Light FFRK Ver. arrange from FFXIII
+  Type: BMS
+  Ultimate: '9762864'
+- Basic: '9981132'
+  Expert: '9882813'
+  ID: '381'
+  Series: Final Fantasy Record Keeper
+  Supreme: '0'
+  Title: Stand Your Ground FFRK Ver. arrange from FFXV
+  Type: BMS
+  Ultimate: '9814126'
+- Basic: '9802575'
+  Expert: '9745295'
+  ID: '382'
+  Series: Final Fantasy Record Keeper
+  Supreme: '-'
+  Title: UTAKATA FFRK Ver. arrange from FFType-0
+  Type: BMS
+  Ultimate: '9181473'
+- Basic: '9833819'
+  Expert: '9904031'
+  ID: '383'
+  Series: Mobius Final Fantasy
+  Supreme: '0'
+  Title: Warrior of Light - Mobius Final Fantasy
+  Type: BMS
+  Ultimate: '9279878'
+- Basic: '9772487'
+  Expert: '9834495'
+  ID: '384'
+  Series: Mobius Final Fantasy
+  Supreme: '0'
+  Title: Dancing Edge
+  Type: BMS
+  Ultimate: '9155324'
+- Basic: '9759791'
+  Expert: '9886441'
+  ID: '385'
+  Series: Mobius Final Fantasy
+  Supreme: '-'
+  Title: Magic Madness
+  Type: BMS
+  Ultimate: '9010786'
+- Basic: '9926290'
+  Expert: '9933673'
+  ID: '386'
+  Series: Mobius Final Fantasy
+  Supreme: '0'
+  Title: Bloodthirst
+  Type: BMS
+  Ultimate: '8696067'
+- Basic: '9900285'
+  Expert: '9950758'
+  ID: '387'
+  Series: Mobius Final Fantasy
+  Supreme: '-'
+  Title: Femme Fatale
+  Type: BMS
+  Ultimate: '9116750'
+- Basic: '9855792'
+  Expert: '9769262'
+  ID: '388'
+  Series: 'Final Fantasy: The 4 Heroes of Light'
+  Supreme: '-'
+  Title: The 4 Heroes of Light
+  Type: FMS
+  Ultimate: '9488184'
+- Basic: '9802778'
+  Expert: '9848443'
+  ID: '389'
+  Series: 'Final Fantasy: The 4 Heroes of Light'
+  Supreme: '0'
+  Title: Fiend Encounter
+  Type: BMS
+  Ultimate: '9290274'
+- Basic: '9949761'
+  Expert: '9831111'
+  ID: '390'
+  Series: World of Final Fantasy
+  Supreme: '-'
+  Title: World of Battle
+  Type: BMS
+  Ultimate: '9153069'
+- Basic: '9934037'
+  Expert: '9778455'
+  ID: '391'
+  Series: Stranger of Paradise Final Fantasy Origin
+  Supreme: '-'
+  Title: Jack's Theme
+  Type: BMS
+  Ultimate: '9486328'
+- Basic: '9841244'
+  Expert: '9900110'
+  ID: '392'
+  Series: Stranger of Paradise Final Fantasy Origin
+  Supreme: '0'
+  Title: 'Battle: Chaos Advent'
+  Type: BMS
+  Ultimate: '9827526'
+- Basic: '9917808'
+  Expert: '9933333'
+  ID: '393'
+  Series: Stranger of Paradise Final Fantasy Origin
+  Supreme: '0'
+  Title: 'Battle: False Knight - Motif from "Battle"'
+  Type: BMS
+  Ultimate: '9750160'
+- Basic: '9809432'
+  Expert: '9818024'
+  ID: '394'
+  Series: Final Fantasy Tribute Thanks
+  Supreme: '0'
+  Title: Opening Theme
+  Type: BMS
+  Ultimate: '9459142'
+- Basic: '9885794'
+  Expert: '9789819'
+  ID: '395'
+  Series: Bra?Bra Final Fantasy / Brass de Bravo
+  Supreme: '-'
+  Title: Moogles' Theme
+  Type: FMS
+  Ultimate: '9883878'
+- Basic: '9730994'
+  Expert: '9681956'
+  ID: '396'
+  Series: Bra?Bra Final Fantasy / Brass de Bravo
+  Supreme: '-'
+  Title: FF Medley
+  Type: FMS
+  Ultimate: '9757459'
+- Basic: '9744681'
+  Expert: '9934513'
+  ID: '397'
+  Series: Bra?Bra Final Fantasy Brass de Bravo 2
+  Supreme: '0'
+  Title: Battle at the Big Bridge
+  Type: BMS
+  Ultimate: '8790425'
+- Basic: '9934236'
+  Expert: '9833972'
+  ID: '398'
+  Series: Bra?Bra Final Fantasy Brass de Bravo 2
+  Supreme: '-'
+  Title: Mambo de Chocobo
+  Type: FMS
+  Ultimate: '9487374'
+- Basic: '9868235'
+  Expert: '9751553'
+  ID: '399'
+  Series: 'Final Fantasy Fables: Chocobo''s Dungeon'
+  Supreme: '0'
+  Title: Dungeon Hero X's Theme
+  Type: BMS
+  Ultimate: '8939789'
+- Basic: '9791005'
+  Expert: '9681745'
+  ID: '400'
+  Series: 'Final Fantasy Fables: Chocobo''s Dungeon'
+  Supreme: '0'
+  Title: Pop-Up Duel
+  Type: BMS
+  Ultimate: '9534974'
+- Basic: '9915842'
+  Expert: '9865672'
+  ID: '401'
+  Series: 'Final Fantasy Fables: Chocobo''s Dungeon'
+  Supreme: '-'
+  Title: Leviathan Battle
+  Type: BMS
+  Ultimate: '8890578'
+- Basic: '9785079'
+  Expert: '9756098'
+  ID: '402'
+  Series: 'Final Fantasy Fables: Chocobo''s Dungeon'
+  Supreme: '-'
+  Title: Guardian of the Dark II
+  Type: BMS
+  Ultimate: '8929204'
+- Basic: '9751094'
+  Expert: '9704608'
+  ID: '403'
+  Series: 'Final Fantasy Fables: Chocobo''s Dungeon'
+  Supreme: '0'
+  Title: Raffaello Battle
+  Type: BMS
+  Ultimate: '8712507'
