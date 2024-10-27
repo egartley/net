@@ -505,7 +505,7 @@
 - 100%: false
   Company: FromSoftware
   DLC: false
-  Hours Played: 50
+  Hours Played: 65
   Icon ID: '10309'
   Physical: false
   Platform: PC
@@ -1945,7 +1945,7 @@
 - 100%: false
   Company: Rockstar Games
   DLC: false
-  Hours Played: 28
+  Hours Played: 30
   Icon ID: '808'
   Physical: false
   Platform: PC
@@ -2869,7 +2869,7 @@
 - 100%: false
   Company: Nintendo
   DLC: true
-  Hours Played: 1
+  Hours Played: 6
   Icon ID: '502'
   Physical: false
   Platform: Nintendo Wii U
