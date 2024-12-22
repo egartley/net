@@ -407,6 +407,18 @@
   Title: Dark Souls Remastered
   Year: '2018'
 - 100%: false
+  Company: Motive Studio
+  DLC: false
+  Hours Played: 17
+  Icon ID: '20700'
+  Physical: false
+  Platform: PlayStation 5
+  Platinum: false
+  Playthroughs: 1
+  Rating: 4.5
+  Title: Dead Space
+  Year: '2023'
+- 100%: false
   Company: Kojima Productions
   DLC: false
   Hours Played: 52
@@ -504,8 +516,8 @@
   Year: '2005'
 - 100%: false
   Company: FromSoftware
-  DLC: false
-  Hours Played: 81
+  DLC: true
+  Hours Played: 96
   Icon ID: '10309'
   Physical: false
   Platform: PC
@@ -718,6 +730,18 @@
   Rating: 4.0
   Title: 'Final Fantasy XV: Royal Edition'
   Year: '2016'
+- 100%: false
+  Company: Luminous Productions
+  DLC: false
+  Hours Played: 3
+  Icon ID: '20703'
+  Physical: false
+  Platform: PlayStation 5
+  Platinum: false
+  Playthroughs: -1
+  Rating: 3.0
+  Title: Forspoken
+  Year: '2023'
 - 100%: true
   Company: Sucker Punch Productions
   DLC: true
@@ -1127,6 +1151,18 @@
   Title: 'Kingdom Hearts Re: Chain of Memories'
   Year: '2013'
 - 100%: false
+  Company: HAL Laboratory
+  DLC: false
+  Hours Played: 1
+  Icon ID: '20706'
+  Physical: false
+  Platform: Nintendo Switch
+  Platinum: false
+  Playthroughs: -1
+  Rating: 3.5
+  Title: Kirby and the Forgotten Land
+  Year: '2022'
+- 100%: false
   Company: Urban Wolf Games
   DLC: false
   Hours Played: 12
@@ -1375,19 +1411,19 @@
   Platform: Nintendo 3DS
   Platinum: false
   Playthroughs: 0
-  Rating: 4.0
+  Rating: 3.0
   Title: 'Mario & Luigi: Bowser''s Inside Story + Bowser Jr''s Journey'
   Year: '2018'
 - 100%: false
   Company: Acquire
   DLC: false
-  Hours Played: 20
+  Hours Played: 34
   Icon ID: '20702'
   Physical: false
   Platform: Nintendo Switch
   Platinum: false
-  Playthroughs: -1
-  Rating: 4.0
+  Playthroughs: 1
+  Rating: 3.0
   Title: 'Mario & Luigi: Brothership'
   Year: '2024'
 - 100%: false
@@ -1957,12 +1993,12 @@
 - 100%: false
   Company: Rockstar Games
   DLC: false
-  Hours Played: 34
+  Hours Played: 41
   Icon ID: '808'
   Physical: false
   Platform: PC
   Platinum: false
-  Playthroughs: -1
+  Playthroughs: 1
   Rating: 4.5
   Title: Red Dead Redemption 2
   Year: '2018'
@@ -1974,7 +2010,7 @@
   Physical: true
   Platform: PlayStation 4
   Platinum: false
-  Playthroughs: 2
+  Playthroughs: 1
   Rating: 4.5
   Title: Red Dead Redemption 2
   Year: '2018'
@@ -2735,6 +2771,30 @@
   Title: 'The Dark Pictures Anthology: Man of Medan'
   Year: '2019'
 - 100%: false
+  Company: Supermassive Games
+  DLC: true
+  Hours Played: 8
+  Icon ID: '20705'
+  Physical: false
+  Platform: PlayStation 5
+  Platinum: false
+  Playthroughs: 1
+  Rating: 3.5
+  Title: 'The Dark Pictures Anthology: The Devil in Me'
+  Year: '2022'
+- 100%: false
+  Company: Supermassive Games
+  DLC: false
+  Hours Played: 1
+  Icon ID: '20704'
+  Physical: false
+  Platform: PSVR 2
+  Platinum: false
+  Playthroughs: -1
+  Rating: 4.0
+  Title: 'The Dark Pictures: Switchback VR'
+  Year: '2023'
+- 100%: false
   Company: Bethesda
   DLC: false
   Hours Played: 20
@@ -2881,17 +2941,17 @@
 - 100%: false
   Company: Nintendo
   DLC: true
-  Hours Played: 33
+  Hours Played: 62
   Icon ID: '502'
   Physical: false
   Platform: Nintendo Wii U
   Platinum: false
-  Playthroughs: -1
+  Playthroughs: 1
   Rating: 5.0
   Title: 'The Legend of Zelda: Breath of the Wild'
   Year: '2017'
 - 100%: false
-  Company: Nintendo
+  Company: Grezzo
   DLC: false
   Hours Played: 26
   Icon ID: '20608'
