@@ -443,6 +443,18 @@
   Title: Death's Door
   Year: '2021'
 - 100%: false
+  Company: Frontier Developments
+  DLC: false
+  Hours Played: 6
+  Icon ID: '20707'
+  Physical: false
+  Platform: PlayStation 5
+  Platinum: false
+  Playthroughs: 1
+  Rating: 2.5
+  Title: Deliver Us Mars
+  Year: '2023'
+- 100%: false
   Company: Bluepoint Games
   DLC: false
   Hours Played: 39
@@ -517,7 +529,7 @@
 - 100%: false
   Company: FromSoftware
   DLC: true
-  Hours Played: 96
+  Hours Played: 104
   Icon ID: '10309'
   Physical: false
   Platform: PC
@@ -733,7 +745,7 @@
 - 100%: false
   Company: Luminous Productions
   DLC: false
-  Hours Played: 3
+  Hours Played: 21
   Icon ID: '20703'
   Physical: false
   Platform: PlayStation 5
@@ -1066,18 +1078,6 @@
   Rating: 3.5
   Title: Kingdom Hearts Birth by Sleep Final Mix
   Year: '2014'
-- 100%: true
-  Company: Square Enix
-  DLC: false
-  Hours Played: 145
-  Icon ID: '807'
-  Physical: true
-  Platform: PlayStation 4
-  Platinum: true
-  Playthroughs: 5
-  Rating: 5.0
-  Title: Kingdom Hearts Final Mix
-  Year: '2013'
 - 100%: false
   Company: Square Enix
   DLC: false
@@ -1090,6 +1090,18 @@
   Rating: 5.0
   Title: Kingdom Hearts Final Mix
   Year: '2024'
+- 100%: true
+  Company: Square Enix
+  DLC: false
+  Hours Played: 145
+  Icon ID: '807'
+  Physical: true
+  Platform: PlayStation 4
+  Platinum: true
+  Playthroughs: 5
+  Rating: 5.0
+  Title: Kingdom Hearts Final Mix
+  Year: '2013'
 - 100%: true
   Company: Square Enix
   DLC: false
@@ -2062,6 +2074,18 @@
   Rating: 4.5
   Title: 'Resident Evil 7: Biohazard'
   Year: '2017'
+- 100%: false
+  Company: CAPCOM
+  DLC: true
+  Hours Played: 1
+  Icon ID: '503'
+  Physical: false
+  Platform: PC
+  Platinum: false
+  Playthroughs: -1
+  Rating: 5.0
+  Title: Resident Evil Village
+  Year: '2021'
 - 100%: true
   Company: CAPCOM
   DLC: false
@@ -2386,6 +2410,18 @@
   Rating: 3.5
   Title: 'Spyro Orange: The Cortex Conspiracy'
   Year: '2004'
+- 100%: true
+  Company: Toys for Bob
+  DLC: false
+  Hours Played: 80
+  Icon ID: '806'
+  Physical: false
+  Platform: Nintendo Switch
+  Platinum: false
+  Playthroughs: 4
+  Rating: 4.5
+  Title: Spyro Reignited Triology
+  Year: '2019'
 - 100%: false
   Company: Toys for Bob
   DLC: false
@@ -2410,18 +2446,6 @@
   Rating: 4.5
   Title: Spyro Reignited Triology
   Year: '2018'
-- 100%: true
-  Company: Toys for Bob
-  DLC: false
-  Hours Played: 80
-  Icon ID: '806'
-  Physical: false
-  Platform: Nintendo Switch
-  Platinum: false
-  Playthroughs: 4
-  Rating: 4.5
-  Title: Spyro Reignited Triology
-  Year: '2019'
 - 100%: true
   Company: Insomniac Games
   DLC: false
@@ -2785,13 +2809,13 @@
 - 100%: false
   Company: Supermassive Games
   DLC: false
-  Hours Played: 1
+  Hours Played: 3
   Icon ID: '20704'
   Physical: false
   Platform: PSVR 2
   Platinum: false
-  Playthroughs: -1
-  Rating: 4.0
+  Playthroughs: 1
+  Rating: 3.5
   Title: 'The Dark Pictures: Switchback VR'
   Year: '2023'
 - 100%: false
@@ -3325,10 +3349,10 @@
 - 100%: false
   Company: Digital Extremes
   DLC: false
-  Hours Played: 72
+  Hours Played: 163
   Icon ID: '10500'
   Physical: false
-  Platform: PlayStation 4
+  Platform: Nintendo Switch
   Platinum: false
   Playthroughs: 1
   Rating: 4.0
@@ -3337,10 +3361,10 @@
 - 100%: false
   Company: Digital Extremes
   DLC: false
-  Hours Played: 163
+  Hours Played: 72
   Icon ID: '10500'
   Physical: false
-  Platform: Nintendo Switch
+  Platform: PlayStation 4
   Platinum: false
   Playthroughs: 1
   Rating: 4.0
