@@ -34,11 +34,11 @@
   Rating: G
   Title: A Bug's Life
   Year: '1998'
-- Length: 0:25
+- Length: '0:25'
   Rating: TV-G
   Title: A Charlie Brown Christmas
   Year: '1965'
-- Length: 0:25
+- Length: '0:25'
   Rating: TV-G
   Title: A Charlie Brown Thanksgiving
   Year: '1973'
@@ -296,7 +296,7 @@
   Year: '2003'
 - Length: '1:29'
   Rating: NR
-  Title: FIrst Contact
+  Title: First Contact
   Year: '2023'
 - Length: '2:22'
   Rating: PG-13
@@ -470,7 +470,7 @@
   Rating: R
   Title: It Chapter Two
   Year: '2019'
-- Length: 0:25
+- Length: '0:25'
   Rating: TV-G
   Title: It's the Great Pumpkin, Charlie Brown
   Year: '1966'
@@ -666,7 +666,7 @@
   Rating: G
   Title: Robin Hood
   Year: '1973'
-- Length: 0:47
+- Length: '0:47'
   Rating: TV-G
   Title: Rudolph the Red-Nosed Reindeer
   Year: '1964'
