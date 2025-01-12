@@ -3,7 +3,6 @@ $(document).ready(() => {
     const $filter = $('select#filter');
     const $filterby = $('select.filterby');
 
-    $('div.gamecard').click(function() { detailsClick(this) });
     $sortby.on('change', updateGames);
     $filter.on('change', () => { filterChange($filter.val()); updateGames(); });
     $filterby.on('change', updateGames);
@@ -20,10 +19,6 @@ $(document).ready(() => {
 
 var gameListBuilt = false
 var allGames = []
-
-function registerDetailsClick() {
-    $('div.gamecard').click(function(){detailsClick(this)})
-}
 
 function updateGames() {
     if (!gameListBuilt) {
@@ -43,8 +38,6 @@ function updateGames() {
         gameHTML = "<p>No games found. Please try a different filter.</p>";
     }
     $("div.gamecard-container").html(gameHTML);
-
-    registerDetailsClick();
 }
 
 function filterChange(val) {
@@ -242,22 +235,6 @@ function getSortedGameList(val, list) {
             break;
     }
     return list;
-}
-
-function detailsClick(e) {
-    let idattr = $(e).find("img").eq(0).attr("id").substring(1);
-    while (idattr.startsWith("0")) {
-        idattr = idattr.substring(1);
-    }
-    if (idattr.length === 0) {
-        // special case for id of 0 (bloodborne)
-        idattr = "0";
-    }
-    if (!/^\d+$/.test(idattr)) {
-        alert("Malformed game ID");
-    } else {
-        window.location.href = `/records/games/details/?id=${idattr}`;
-    }
 }
 
 function buildGameList() {
