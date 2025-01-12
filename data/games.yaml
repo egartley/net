@@ -131,7 +131,7 @@
   Title: 'Asphalt 9: Legends'
   Year: '2018'
 - 100%: true
-  Company: ASOBI Team
+  Company: Team ASOBI
   DLC: false
   Hours Played: 14
   Icon ID: '20605'
@@ -143,7 +143,7 @@
   Title: Astro Bot
   Year: '2024'
 - 100%: true
-  Company: Sony Interactive Entertainment
+  Company: Team ASOBI
   DLC: false
   Hours Played: 7
   Icon ID: '10508'
@@ -151,7 +151,7 @@
   Platform: PlayStation 5
   Platinum: true
   Playthroughs: 1
-  Rating: 3.5
+  Rating: 4.0
   Title: Astro's Playroom
   Year: '2020'
 - 100%: false
@@ -178,6 +178,18 @@
   Rating: 3.0
   Title: 'Batman: Arkham Knight'
   Year: '2015'
+- 100%: false
+  Company: Parallel Circles
+  DLC: false
+  Hours Played: 1
+  Icon ID: '20408'
+  Physical: false
+  Platform: PSVR 2
+  Platinum: false
+  Playthroughs: -1
+  Rating: 3.0
+  Title: Beat the Beats VR
+  Year: '2024'
 - 100%: true
   Company: Experiment 101
   DLC: false
@@ -397,6 +409,18 @@
 - 100%: false
   Company: FromSoftware
   DLC: true
+  Hours Played: 2
+  Icon ID: '20001'
+  Physical: false
+  Platform: PC
+  Platinum: false
+  Playthroughs: -1
+  Rating: 5.0
+  Title: Dark Souls Remastered
+  Year: '2018'
+- 100%: false
+  Company: FromSoftware
+  DLC: true
   Hours Played: 31
   Icon ID: '20001'
   Physical: true
@@ -529,7 +553,7 @@
 - 100%: false
   Company: FromSoftware
   DLC: true
-  Hours Played: 104
+  Hours Played: 109
   Icon ID: '10309'
   Physical: false
   Platform: PC
@@ -745,12 +769,12 @@
 - 100%: false
   Company: Luminous Productions
   DLC: false
-  Hours Played: 21
+  Hours Played: 31
   Icon ID: '20703'
   Physical: false
   Platform: PlayStation 5
   Platinum: false
-  Playthroughs: -1
+  Playthroughs: 0
   Rating: 3.0
   Title: Forspoken
   Year: '2023'
@@ -1062,7 +1086,7 @@
   Physical: false
   Platform: PC
   Platinum: false
-  Playthroughs: -1
+  Playthroughs: 0
   Rating: 3.5
   Title: Kingdom Hearts Birth by Sleep Final Mix
   Year: '2014'
@@ -1165,13 +1189,13 @@
 - 100%: false
   Company: HAL Laboratory
   DLC: false
-  Hours Played: 1
+  Hours Played: 3
   Icon ID: '20706'
   Physical: false
   Platform: Nintendo Switch
   Platinum: false
-  Playthroughs: -1
-  Rating: 3.5
+  Playthroughs: 0
+  Rating: 3.0
   Title: Kirby and the Forgotten Land
   Year: '2022'
 - 100%: false
@@ -2074,15 +2098,15 @@
   Rating: 4.5
   Title: 'Resident Evil 7: Biohazard'
   Year: '2017'
-- 100%: false
+- 100%: true
   Company: CAPCOM
   DLC: true
-  Hours Played: 1
+  Hours Played: 7
   Icon ID: '503'
   Physical: false
   Platform: PC
   Platinum: false
-  Playthroughs: -1
+  Playthroughs: 1
   Rating: 5.0
   Title: Resident Evil Village
   Year: '2021'
