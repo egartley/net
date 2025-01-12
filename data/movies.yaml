@@ -34,11 +34,11 @@
   Rating: G
   Title: A Bug's Life
   Year: '1998'
-- Length: '0:25'
+- Length: 0:25
   Rating: TV-G
   Title: A Charlie Brown Christmas
   Year: '1965'
-- Length: '0:25'
+- Length: 0:25
   Rating: TV-G
   Title: A Charlie Brown Thanksgiving
   Year: '1973'
@@ -234,6 +234,10 @@
   Rating: R
   Title: 'Deuce Bigalow: Male Gigolo'
   Year: '1999'
+- Length: '1:30'
+  Rating: NR
+  Title: Deus
+  Year: '2022'
 - Length: '1:40'
   Rating: R
   Title: Devil's Pass
@@ -290,6 +294,10 @@
   Rating: G
   Title: Finding Nemo
   Year: '2003'
+- Length: '1:29'
+  Rating: NR
+  Title: FIrst Contact
+  Year: '2023'
 - Length: '2:22'
   Rating: PG-13
   Title: Forrest Gump
@@ -326,6 +334,10 @@
   Rating: PG-13
   Title: Ghost in the Shell
   Year: '2017'
+- Length: '1:37'
+  Rating: NR
+  Title: Gods of the Deep
+  Year: '2023'
 - Length: '1:30'
   Rating: TV-G
   Title: Good Luck Charlie, It's Christmas!
@@ -458,7 +470,7 @@
   Rating: R
   Title: It Chapter Two
   Year: '2019'
-- Length: '0:25'
+- Length: 0:25
   Rating: TV-G
   Title: It's the Great Pumpkin, Charlie Brown
   Year: '1966'
@@ -654,7 +666,7 @@
   Rating: G
   Title: Robin Hood
   Year: '1973'
-- Length: '0:47'
+- Length: 0:47
   Rating: TV-G
   Title: Rudolph the Red-Nosed Reindeer
   Year: '1964'
