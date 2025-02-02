@@ -409,13 +409,13 @@
 - 100%: false
   Company: FromSoftware
   DLC: true
-  Hours Played: 2
+  Hours Played: 6
   Icon ID: '20001'
   Physical: false
   Platform: PC
   Platinum: false
-  Playthroughs: -1
-  Rating: 5.0
+  Playthroughs: 0
+  Rating: 4.5
   Title: Dark Souls Remastered
   Year: '2018'
 - 100%: false
@@ -1138,6 +1138,18 @@
   Rating: 4.5
   Title: Kingdom Hearts II
   Year: '2005'
+- 100%: false
+  Company: Square Enix
+  DLC: false
+  Hours Played: 19
+  Icon ID: '10001'
+  Physical: false
+  Platform: PC
+  Platinum: false
+  Playthroughs: 1
+  Rating: 5.0
+  Title: Kingdom Hearts II Final Mix
+  Year: '2014'
 - 100%: true
   Company: Square Enix
   DLC: false
@@ -1150,6 +1162,18 @@
   Rating: 5.0
   Title: Kingdom Hearts II Final Mix
   Year: '2014'
+- 100%: false
+  Company: Square Enix
+  DLC: true
+  Hours Played: 2
+  Icon ID: '506'
+  Physical: false
+  Platform: PC
+  Platinum: false
+  Playthroughs: -1
+  Rating: 4.5
+  Title: Kingdom Hearts III
+  Year: '2021'
 - 100%: true
   Company: Square Enix
   DLC: true
@@ -1402,6 +1426,18 @@
   Rating: 3.0
   Title: LEGO The Hobbit
   Year: '2014'
+- 100%: false
+  Company: Neowiz Games
+  DLC: false
+  Hours Played: 7
+  Icon ID: '20204'
+  Physical: false
+  Platform: PC
+  Platinum: false
+  Playthroughs: -1
+  Rating: 5.0
+  Title: Lies of P
+  Year: '2023'
 - 100%: true
   Company: Neowiz Games
   DLC: false
@@ -2101,7 +2137,7 @@
 - 100%: true
   Company: CAPCOM
   DLC: true
-  Hours Played: 7
+  Hours Played: 14
   Icon ID: '503'
   Physical: false
   Platform: PC
