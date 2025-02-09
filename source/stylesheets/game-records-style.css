@@ -8,7 +8,7 @@ span.gamecard-icons > span.dlc { background-color: #5D27D5 }
 span.gamecard-subtext { font-size: 12px; font-style: italic }
 span.gamecard-playtext { font-size: 12px; margin-top: 6px }
 div.gamecard { width: 180px; padding: 8px 16px; margin-right: 24px; margin-bottom: 24px; transition: background-color 0.25s; border-radius: 6px }
-div.gamecard:hover { background-color: #1e1e1e; cursor: pointer }
+div.gamecard:hover { background-color: #1e1e1e }
 div.gamecard-inner { justify-content: center; margin-left: 8px }
 div.gamecard, div.gamecard-inner { flex-direction: column }
 div.gamecard-outer, span.gamecard-rating { flex-direction: row }

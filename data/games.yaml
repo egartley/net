@@ -1135,7 +1135,7 @@
   Platform: PlayStation 2
   Platinum: false
   Playthroughs: 2
-  Rating: 4.5
+  Rating: 5.0
   Title: Kingdom Hearts II
   Year: '2005'
 - 100%: false
@@ -1147,7 +1147,7 @@
   Platform: PC
   Platinum: false
   Playthroughs: 1
-  Rating: 5.0
+  Rating: 4.5
   Title: Kingdom Hearts II Final Mix
   Year: '2014'
 - 100%: true
@@ -1159,13 +1159,13 @@
   Platform: PlayStation 4
   Platinum: true
   Playthroughs: 4
-  Rating: 5.0
+  Rating: 4.5
   Title: Kingdom Hearts II Final Mix
   Year: '2014'
 - 100%: false
   Company: Square Enix
   DLC: true
-  Hours Played: 2
+  Hours Played: 14
   Icon ID: '506'
   Physical: false
   Platform: PC
@@ -1189,7 +1189,7 @@
 - 100%: true
   Company: Square Enix
   DLC: false
-  Hours Played: 135
+  Hours Played: 138
   Icon ID: '609'
   Physical: true
   Platform: PlayStation 4
@@ -1429,7 +1429,7 @@
 - 100%: false
   Company: Neowiz Games
   DLC: false
-  Hours Played: 7
+  Hours Played: 15
   Icon ID: '20204'
   Physical: false
   Platform: PC
@@ -1441,11 +1441,11 @@
 - 100%: true
   Company: Neowiz Games
   DLC: false
-  Hours Played: 42
+  Hours Played: 44
   Icon ID: '20204'
   Physical: true
   Platform: PlayStation 5
-  Platinum: false
+  Platinum: true
   Playthroughs: 2
   Rating: 5.0
   Title: Lies of P
@@ -2929,12 +2929,12 @@
 - 100%: false
   Company: Naughty Dog
   DLC: false
-  Hours Played: 2
+  Hours Played: 9
   Icon ID: '20609'
   Physical: false
   Platform: PlayStation 5
   Platinum: false
-  Playthroughs: -1
+  Playthroughs: 1
   Rating: 3.5
   Title: The Last of Us Part I
   Year: '2022'
@@ -3043,7 +3043,7 @@
   Platform: Nintendo Switch
   Platinum: false
   Playthroughs: 1
-  Rating: 4.5
+  Rating: 4.0
   Title: 'The Legend of Zelda: Echoes of Wisdom'
   Year: '2024'
 - 100%: false
@@ -3127,7 +3127,7 @@
   Platform: Nintendo Wii
   Platinum: false
   Playthroughs: 3
-  Rating: 4.0
+  Rating: 4.5
   Title: 'The Legend of Zelda: Skyward Sword'
   Year: '2011'
 - 100%: true
@@ -3139,7 +3139,7 @@
   Platform: Nintendo Switch
   Platinum: false
   Playthroughs: 2
-  Rating: 4.5
+  Rating: 4.0
   Title: 'The Legend of Zelda: Skyward Sword HD'
   Year: '2021'
 - 100%: false
@@ -3289,7 +3289,7 @@
 - 100%: true
   Company: Square Enix
   DLC: false
-  Hours Played: 125
+  Hours Played: 127
   Icon ID: '10704'
   Physical: true
   Platform: PlayStation 4

@@ -7,7 +7,7 @@ html { background-color: #1e1e1e }
 body { color: var(--primary-text-color) }
 body, html { font-family: Poppins, sans-serif }
 .page>span#meta, .page>span#breadcrumbs { color: var(--secondary-text-color) }
-.page>span#meta { margin-top: 8px }
+.page>span#meta { margin-top: 8px; margin-bottom: 4px }
 a { text-decoration: none; color: var(--link-color) }
 a:not(.hitbox):active, a:not(.hitbox):hover { text-decoration: underline }
 .root { margin: auto; margin-top: 16px; max-width: 1600px }
@@ -21,7 +21,7 @@ a:not(.hitbox):active, a:not(.hitbox):hover { text-decoration: underline }
 .center-items { align-items: center }
 .spacer {
 	display: block; height: 2px;
-	background: linear-gradient(90deg, rgb(0, 119, 255) 15%, rgb(0, 39, 255) 50%, rgb(85, 0, 223) 85%)
+	background: linear-gradient(90deg, #0077ff 15%, #0027ff 50%, #5500df 85%)
 }
 
 .nav { margin-bottom: 18px; justify-content: space-between; border-radius: 16px }
@@ -33,7 +33,7 @@ a:not(.hitbox):active, a:not(.hitbox):hover { text-decoration: underline }
 .nav-elements>.hitbox:not(:last-child) { margin-right: 32px }
 
 .home-button { margin-right: 18px; height: 52px }
-.home-button>img { width: 52px; height: 52px }
+.home-button>img { width: 52px; height: 52px; border-radius: 50% }
 .home-button:hover { cursor: pointer }
 .home-container>.home-title { font-size: 26px; color: var(--primary-text-color) }
 .home-container>.home-title:hover { cursor: pointer; text-decoration: underline }

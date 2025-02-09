@@ -1,14 +1,11 @@
 ---
 title: Game Records
-last_updated: October 20, 2024 at 4:27 PM
+last_updated: February 9, 2024 at 12:10 PM
 ---
+
 <link href="/stylesheets/game-records-style.css" rel="stylesheet" type="text/css">
 <script src="https://code.jquery.com/jquery-3.7.1.min.js" type="application/javascript"></script>
 <script src="/javascripts/game-records.js" type="application/javascript"></script>
-
-
-<p>This is a record of every game I've played since 2006 or so. Each game has a rating out of 5, a rough estimate of total play time, and number of playthroughs (if more than one). Games that have been 100% completed include a tag next to the title, as well as those where I've gotten its platinum trophy on PSN. A vast majority of games were played on original hardware, but some of the older titles were emulated on PC.</p>
-<p>Click on a game to view more details about it. Some will have notes about how good or bad it was, why they may have been abandoned, and other things like that.</p>
 
 <h2>Statistics</h2>
 <div class="stat-container">
@@ -72,13 +69,12 @@ last_updated: October 20, 2024 at 4:27 PM
     <% end %>
   </div>
 </div>
-<p>Total games: <%= data.games.size %></p>
 
-<h2>All Games Played</h2>
+<h2>All Games (<%= data.games.size %>)</h2>
 
 <label for="sortby">Sort games by:</label>
 <select name="sortby" id="sortby" style="margin-right:12px">
-  <option selected="selected" value="titleAZ">Title A-Z (Default)</option>
+  <option selected="selected" value="titleAZ">Title A-Z</option>
   <option value="titleZA">Title Z-A</option>
   <option value="yearUp">Year (Ascending)</option>
   <option value="yearDown">Year (Descending)</option>
@@ -89,7 +85,7 @@ last_updated: October 20, 2024 at 4:27 PM
 </select>
 <label for="filter">Filter: </label>
 <select name="filter" id="filter" style="margin-right:12px">
-  <option selected="selected" value="none">None (Default)</option>
+  <option selected="selected" value="none">None</option>
   <option value="platform">Platform</option>
   <option value="rating">Rating</option>
   <option value="year">Release Year</option>
@@ -100,7 +96,7 @@ last_updated: October 20, 2024 at 4:27 PM
 </select>
 <label class="filterby" style="display:none" for="filterby">THISSHOULDNOTBEVISIBLE</label>
 <select name="filterby" class="filterby" style="display:none">
-  <option selected="selected" value="itsnotworkingbud">None (Default)</option>
+  <option selected="selected" value="itsnotworkingbud">None</option>
 </select>
 
 <div class="gamecard-container flex">
