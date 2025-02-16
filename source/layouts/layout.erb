@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="utf-8">
     <title><%= current_page.data.title %> - egartley.net</title>
     <%= partial "header" %>
 </head>
@@ -13,7 +12,7 @@
         <div class="content-container flex">
             <div class="page flex col">
                 <span class="page-title"><%= current_page.data.title %></span>
-                <span class="spacer"></span>
+                <div class="spacer"></div>
                 <span class="small-text" id="meta"><span class="bold">Last updated:</span> <%= current_page.data.last_updated %> (EDT)</span>
                 <%= partial "breadcrumbs" %>
                 <div class="content">

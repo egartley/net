@@ -1,5 +1,5 @@
 :root {
-	--link-color: #3493ff;
+	--link-color: #8ac1ff;
 	--primary-text-color: whitesmoke;
 	--secondary-text-color: lightgrey
 }
@@ -10,7 +10,7 @@ body, html { font-family: Poppins, sans-serif }
 .page>span#meta { margin-top: 8px; margin-bottom: 4px }
 a { text-decoration: none; color: var(--link-color) }
 a:not(.hitbox):active, a:not(.hitbox):hover { text-decoration: underline }
-.root { margin: auto; margin-top: 16px; max-width: 1600px }
+.root { margin: auto; margin-top: 16px; max-width: 1700px }
 
 .bold { font-weight: 700 }
 .col { flex-direction: column }
@@ -19,12 +19,9 @@ a:not(.hitbox):active, a:not(.hitbox):hover { text-decoration: underline }
 .small-text { font-size: 12px }
 .center-text { text-align: center }
 .center-items { align-items: center }
-.spacer {
-	display: block; height: 2px;
-	background: linear-gradient(90deg, #0077ff 15%, #0027ff 50%, #5500df 85%)
-}
+.spacer { display: block; height: 2px; background-color: #373737 }
 
-.nav { margin-bottom: 18px; justify-content: space-between; border-radius: 16px }
+.nav { margin-bottom: 18px; justify-content: space-between }
 .nav-elements>.hitbox { padding: 12px 16px; color: var(--primary-text-color) }
 .nav-elements>.hitbox>.spacer { width: 75%; height: 1px; margin-top: 4px; transition: width 0.25s; background: var(--link-color) }
 .nav-elements>.hitbox:hover { cursor: pointer }
@@ -40,12 +37,10 @@ a:not(.hitbox):active, a:not(.hitbox):hover { text-decoration: underline }
 
 .page, .sidebar { 
 	justify-content: space-between;
-	box-shadow: 0 0 1rem 0 rgba(0, 0, 0, .2);
-	border-style: solid;
-	border-width: 1px;
-	border-color: #323232;
+	box-shadow: 0 2px 6px rgba(0, 0, 0, 0.4);
+	border: 2px solid #2f2f2f;
 	border-radius: 16px;
-	background-color: rgba(0, 0, 0, .45)
+	background-color: rgba(0, 0, 0, 0.45)
 }
 .page { padding: 18px; width: -moz-available; width: -webkit-fill-available; margin-right: 18px }
 .page-title { font-size: 42px }
@@ -66,6 +61,7 @@ a:not(.hitbox):active, a:not(.hitbox):hover { text-decoration: underline }
 .widget-social>div>div>div:hover>span#text { color: var(--link-color) }
 .widget-social>div>div>div>span#text>a { color: var(--primary-text-color) }
 
+.pcard-container { margin-top: 48px }
 .pcard { width: 250px; height: 170px; padding-top: 4px; margin-bottom: 18px }
 .pcard:not(:last-child) { margin-right: 12px }
 .pcard>a>img { width: 95%; height: 80%; transition: width .25s, height .25s }
@@ -90,6 +86,6 @@ a:not(.hitbox):active, a:not(.hitbox):hover { text-decoration: underline }
 	.content { min-height: 426px }
 	.sidebar { padding-right: 18px }
 	.widget:last-child { margin-bottom: 36px }
-	.pcard-container { flex-direction: column }
+	.pcard-container { flex-direction: column; justify-content: center }
 	.pcard:not(:last-child) { margin-bottom: 14px }
 }

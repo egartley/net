@@ -575,6 +575,18 @@
   Title: Elden Ring
   Year: '2022'
 - 100%: false
+  Company: FromSoftware
+  DLC: false
+  Hours Played: 10
+  Icon ID: '20708'
+  Physical: false
+  Platform: PlayStation 5
+  Platinum: false
+  Playthroughs: 1
+  Rating: 5.0
+  Title: Elden Ring Nightreign (Network Test)
+  Year: '2025'
+- 100%: false
   Company: PixelOpus
   DLC: false
   Hours Played: 3
@@ -862,6 +874,18 @@
   Rating: 2.5
   Title: Harry Potter and the Sorcerer's Stone
   Year: '2001'
+- 100%: false
+  Company: Team Cherry
+  DLC: true
+  Hours Played: 1
+  Icon ID: '20709'
+  Physical: false
+  Platform: PC
+  Platinum: false
+  Playthroughs: -1
+  Rating: 5.0
+  Title: Hollow Knight
+  Year: '2017'
 - 100%: true
   Company: Team Cherry
   DLC: true
@@ -1102,18 +1126,6 @@
   Rating: 3.5
   Title: Kingdom Hearts Birth by Sleep Final Mix
   Year: '2014'
-- 100%: false
-  Company: Square Enix
-  DLC: false
-  Hours Played: 12
-  Icon ID: '20600'
-  Physical: false
-  Platform: PC
-  Platinum: false
-  Playthroughs: 1
-  Rating: 5.0
-  Title: Kingdom Hearts Final Mix
-  Year: '2024'
 - 100%: true
   Company: Square Enix
   DLC: false
@@ -1126,6 +1138,18 @@
   Rating: 5.0
   Title: Kingdom Hearts Final Mix
   Year: '2013'
+- 100%: false
+  Company: Square Enix
+  DLC: false
+  Hours Played: 12
+  Icon ID: '20600'
+  Physical: false
+  Platform: PC
+  Platinum: false
+  Playthroughs: 1
+  Rating: 5.0
+  Title: Kingdom Hearts Final Mix
+  Year: '2024'
 - 100%: true
   Company: Square Enix
   DLC: false
@@ -1165,12 +1189,12 @@
 - 100%: false
   Company: Square Enix
   DLC: true
-  Hours Played: 14
+  Hours Played: 30
   Icon ID: '506'
   Physical: false
   Platform: PC
   Platinum: false
-  Playthroughs: -1
+  Playthroughs: 1
   Rating: 4.5
   Title: Kingdom Hearts III
   Year: '2021'
@@ -1429,12 +1453,12 @@
 - 100%: false
   Company: Neowiz Games
   DLC: false
-  Hours Played: 15
+  Hours Played: 20
   Icon ID: '20204'
   Physical: false
   Platform: PC
   Platinum: false
-  Playthroughs: -1
+  Playthroughs: 1
   Rating: 5.0
   Title: Lies of P
   Year: '2023'
