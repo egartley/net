@@ -562,6 +562,18 @@
   Rating: 5.0
   Title: Elden Ring
   Year: '2022'
+- 100%: false
+  Company: FromSoftware
+  DLC: true
+  Hours Played: 21
+  Icon ID: '10309'
+  Physical: false
+  Platform: PC
+  Platinum: false
+  Playthroughs: -1
+  Rating: 5.0
+  Title: Elden Ring (Convergence Mod)
+  Year: '2022'
 - 100%: true
   Company: FromSoftware
   DLC: true
@@ -827,6 +839,18 @@
   Title: God of War
   Year: '2018'
 - 100%: false
+  Company: Santa Manica Studio
+  DLC: false
+  Hours Played: 18
+  Icon ID: '20800'
+  Physical: false
+  Platform: PlayStation 5
+  Platinum: false
+  Playthroughs: -1
+  Rating: 4.5
+  Title: 'God of War: Ragnarok'
+  Year: '2022'
+- 100%: false
   Company: Rockstar Games
   DLC: false
   Hours Played: 28
@@ -877,12 +901,12 @@
 - 100%: false
   Company: Team Cherry
   DLC: true
-  Hours Played: 1
+  Hours Played: 5
   Icon ID: '20709'
   Physical: false
   Platform: PC
   Platinum: false
-  Playthroughs: -1
+  Playthroughs: 0
   Rating: 5.0
   Title: Hollow Knight
   Year: '2017'
@@ -1978,6 +2002,18 @@
   Rating: 4.5
   Title: 'Paper Mario: The Thousand-Year Door'
   Year: '2004'
+- 100%: false
+  Company: Nintendo
+  DLC: false
+  Hours Played: 1
+  Icon ID: '20801'
+  Physical: false
+  Platform: Nintendo Switch
+  Platinum: false
+  Playthroughs: -1
+  Rating: 4.5
+  Title: 'Paper Mario: The Thousand-Year Door'
+  Year: '2024'
 - 100%: false
   Company: Game Freak
   DLC: false
