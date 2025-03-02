@@ -565,7 +565,7 @@
 - 100%: false
   Company: FromSoftware
   DLC: true
-  Hours Played: 21
+  Hours Played: 44
   Icon ID: '10309'
   Physical: false
   Platform: PC
@@ -841,12 +841,12 @@
 - 100%: false
   Company: Santa Manica Studio
   DLC: false
-  Hours Played: 18
+  Hours Played: 45
   Icon ID: '20800'
   Physical: false
   Platform: PlayStation 5
   Platinum: false
-  Playthroughs: -1
+  Playthroughs: 1
   Rating: 4.5
   Title: 'God of War: Ragnarok'
   Year: '2022'
@@ -1957,12 +1957,12 @@
 - 100%: true
   Company: Nintendo
   DLC: false
-  Hours Played: 135
+  Hours Played: 82
   Icon ID: '501'
   Physical: false
   Platform: Nintendo 64
   Platinum: false
-  Playthroughs: 5
+  Playthroughs: 3
   Rating: 5.0
   Title: Paper Mario
   Year: '2000'
@@ -2005,12 +2005,12 @@
 - 100%: false
   Company: Nintendo
   DLC: false
-  Hours Played: 1
+  Hours Played: 6
   Icon ID: '20801'
   Physical: false
   Platform: Nintendo Switch
   Platinum: false
-  Playthroughs: -1
+  Playthroughs: 0
   Rating: 4.5
   Title: 'Paper Mario: The Thousand-Year Door'
   Year: '2024'
