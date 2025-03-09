@@ -167,6 +167,18 @@
   Title: Balan Wonderworld
   Year: '2021'
 - 100%: false
+  Company: Rare
+  DLC: false
+  Hours Played: 2
+  Icon ID: '20804'
+  Physical: false
+  Platform: Nintendo 64
+  Platinum: false
+  Playthroughs: -1
+  Rating: 3.0
+  Title: Banjo-Kazooie
+  Year: '1998'
+- 100%: false
   Company: Warner Bros
   DLC: false
   Hours Played: 4
@@ -562,18 +574,6 @@
   Rating: 5.0
   Title: Elden Ring
   Year: '2022'
-- 100%: false
-  Company: FromSoftware
-  DLC: true
-  Hours Played: 44
-  Icon ID: '10309'
-  Physical: false
-  Platform: PC
-  Platinum: false
-  Playthroughs: -1
-  Rating: 5.0
-  Title: Elden Ring (Convergence Mod)
-  Year: '2022'
 - 100%: true
   Company: FromSoftware
   DLC: true
@@ -585,6 +585,18 @@
   Playthroughs: 2
   Rating: 5.0
   Title: Elden Ring
+  Year: '2022'
+- 100%: false
+  Company: FromSoftware
+  DLC: true
+  Hours Played: 52
+  Icon ID: '10309'
+  Physical: false
+  Platform: PC
+  Platinum: false
+  Playthroughs: -1
+  Rating: 5.0
+  Title: Elden Ring (Convergence Mod)
   Year: '2022'
 - 100%: false
   Company: FromSoftware
@@ -886,6 +898,18 @@
   Rating: 4.0
   Title: 'GRIME: Definitive Edition'
   Year: '2022'
+- 100%: false
+  Company: Valve
+  DLC: true
+  Hours Played: 12
+  Icon ID: '20805'
+  Physical: false
+  Platform: PC
+  Platinum: false
+  Playthroughs: 1
+  Rating: 4.0
+  Title: Half-Life 2
+  Year: '2004'
 - 100%: false
   Company: Electronic Arts
   DLC: false
@@ -2612,8 +2636,20 @@
   Platinum: true
   Playthroughs: 1
   Rating: 4.0
-  Title: 'Star Wars Jedi: Fallen Order'
+  Title: 'Star Wars: Jedi - Fallen Order'
   Year: '2019'
+- 100%: false
+  Company: Respawn Enterainment
+  DLC: false
+  Hours Played: 4
+  Icon ID: '20802'
+  Physical: false
+  Platform: PlayStation 5
+  Platinum: false
+  Playthroughs: -1
+  Rating: 4.0
+  Title: 'Star Wars: Jedi - Survivor'
+  Year: '2023'
 - 100%: true
   Company: Spiders SARL
   DLC: false
@@ -3092,7 +3128,7 @@
   Platinum: false
   Playthroughs: 1
   Rating: 5.0
-  Title: 'The Legend of Zelda: Breath of the Wild'
+  Title: 'The Legend of Zelda: Breath of the Wild (Second Wind Mod)'
   Year: '2017'
 - 100%: false
   Company: Grezzo
@@ -3131,7 +3167,7 @@
   Title: 'The Legend of Zelda: Link''s Awakening'
   Year: '2019'
 - 100%: false
-  Company: Nintendo
+  Company: Grezzo
   DLC: false
   Hours Played: 3
   Icon ID: '10007'
@@ -3144,6 +3180,18 @@
   Year: '2015'
 - 100%: false
   Company: Nintendo
+  DLC: false
+  Hours Played: 3
+  Icon ID: '20803'
+  Physical: false
+  Platform: Nintendo 64
+  Platinum: false
+  Playthroughs: -1
+  Rating: 4.5
+  Title: 'The Legend of Zelda: Ocarina of Time'
+  Year: '1998'
+- 100%: false
+  Company: Grezzo
   DLC: false
   Hours Played: 5
   Icon ID: '109'
