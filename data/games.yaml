@@ -169,12 +169,12 @@
 - 100%: false
   Company: Rare
   DLC: false
-  Hours Played: 2
+  Hours Played: 8
   Icon ID: '20804'
   Physical: false
   Platform: Nintendo 64
   Platinum: false
-  Playthroughs: -1
+  Playthroughs: 0
   Rating: 3.0
   Title: Banjo-Kazooie
   Year: '1998'
@@ -589,7 +589,7 @@
 - 100%: false
   Company: FromSoftware
   DLC: true
-  Hours Played: 52
+  Hours Played: 59
   Icon ID: '10309'
   Physical: false
   Platform: PC
@@ -2209,6 +2209,18 @@
 - 100%: false
   Company: CAPCOM
   DLC: false
+  Hours Played: 2
+  Icon ID: '10202'
+  Physical: false
+  Platform: PC
+  Platinum: false
+  Playthroughs: -1
+  Rating: 4.5
+  Title: Resident Evil 7 Biohazard
+  Year: '2017'
+- 100%: false
+  Company: CAPCOM
+  DLC: false
   Hours Played: 15
   Icon ID: '10202'
   Physical: false
@@ -2216,7 +2228,7 @@
   Platinum: false
   Playthroughs: 1
   Rating: 4.5
-  Title: 'Resident Evil 7: Biohazard'
+  Title: Resident Evil 7 Biohazard
   Year: '2017'
 - 100%: true
   Company: CAPCOM
@@ -2639,14 +2651,14 @@
   Title: 'Star Wars: Jedi - Fallen Order'
   Year: '2019'
 - 100%: false
-  Company: Respawn Enterainment
+  Company: Respawn Entertainment
   DLC: false
-  Hours Played: 4
+  Hours Played: 37
   Icon ID: '20802'
   Physical: false
   Platform: PlayStation 5
   Platinum: false
-  Playthroughs: -1
+  Playthroughs: 1
   Rating: 4.0
   Title: 'Star Wars: Jedi - Survivor'
   Year: '2023'
@@ -3181,7 +3193,7 @@
 - 100%: false
   Company: Nintendo
   DLC: false
-  Hours Played: 3
+  Hours Played: 7
   Icon ID: '20803'
   Physical: false
   Platform: Nintendo 64

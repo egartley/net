@@ -35,7 +35,7 @@ a:not(.hitbox):active, a:not(.hitbox):hover { text-decoration: underline }
 .home-container>.home-title { font-size: 26px; color: var(--primary-text-color) }
 .home-container>.home-title:hover { cursor: pointer; text-decoration: underline }
 
-.page, .sidebar { 
+.page { 
 	justify-content: space-between;
 	box-shadow: 0 2px 6px rgba(0, 0, 0, 0.4);
 	border: 2px solid #2f2f2f;
@@ -46,22 +46,7 @@ a:not(.hitbox):active, a:not(.hitbox):hover { text-decoration: underline }
 .page-title { font-size: 42px }
 .content { line-height: 1.75; margin-bottom: 22px; min-height: 550px; font-family: sans-serif }
 
-.sidebar { padding: 18px; padding-right: 32px; line-height: 1.5; max-width: 400px; height: 100% }
-.widget { margin: 24px 0 }
-.widget:first-child { margin-top: 0 }
-.widget:last-child { margin-bottom: 8px }
-.widget-title { font-size: 22px; margin-bottom: 18px }
-.widget-content { font-family: sans-serif }
-.widget-social>div { flex-flow: row nowrap; overflow-x: hidden }
-.widget-social>div>div { flex-flow: column nowrap }
-.widget-social>div>div>div { padding: 14px 34px 14px 6px; display: inline-flex }
-.widget-social>div>div>div>img { width: 26px; height: 26px; margin-right: 10px }
-.widget-social>div>div>div>span#text { transition: color .3s; font-size: 16px }
-.widget-social>div>div>div:hover,
-.widget-social>div>div>div:hover>span#text { color: var(--link-color) }
-.widget-social>div>div>div>span#text>a { color: var(--primary-text-color) }
-
-.pcard-container { margin-top: 48px }
+.pcard-container { margin-top: 36px }
 .pcard { width: 250px; height: 170px; padding-top: 4px; margin-bottom: 18px }
 .pcard:not(:last-child) { margin-right: 12px }
 .pcard>a>img { width: 95%; height: 80%; transition: width .25s, height .25s }
@@ -80,12 +65,10 @@ a:not(.hitbox):active, a:not(.hitbox):hover { text-decoration: underline }
 	.nav-elements>.hitbox:not(:last-child) { margin-right: 16px }
 	.nav-elements>.hitbox>.spacer { display: none }
 	.content-container { flex-direction: column }
-	.page, .sidebar { max-width: 100%; border-radius: 0; border-width: 0 }
+	.page { max-width: 100%; border-radius: 0; border-width: 0 }
 	.page { margin-right: 0 }
 	.page-title { font-size: 32px }
 	.content { min-height: 426px }
-	.sidebar { padding-right: 18px }
-	.widget:last-child { margin-bottom: 36px }
 	.pcard-container { flex-direction: column; justify-content: center }
 	.pcard:not(:last-child) { margin-bottom: 14px }
 }
