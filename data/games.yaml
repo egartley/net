@@ -589,7 +589,7 @@
 - 100%: false
   Company: FromSoftware
   DLC: true
-  Hours Played: 59
+  Hours Played: 60
   Icon ID: '10309'
   Physical: false
   Platform: PC
@@ -1657,6 +1657,18 @@
 - 100%: false
   Company: Nintendo
   DLC: false
+  Hours Played: 3
+  Icon ID: '20807'
+  Physical: false
+  Platform: Nintendo 64
+  Platinum: false
+  Playthroughs: -1
+  Rating: 3.5
+  Title: Mario Party 3
+  Year: '2000'
+- 100%: false
+  Company: Nintendo
+  DLC: false
   Hours Played: 2
   Icon ID: '105'
   Physical: false
@@ -2209,12 +2221,12 @@
 - 100%: false
   Company: CAPCOM
   DLC: false
-  Hours Played: 2
+  Hours Played: 4
   Icon ID: '10202'
   Physical: false
   Platform: PC
   Platinum: false
-  Playthroughs: -1
+  Playthroughs: 0
   Rating: 4.5
   Title: Resident Evil 7 Biohazard
   Year: '2017'
@@ -2686,6 +2698,18 @@
   Rating: 3.5
   Title: Stray
   Year: '2022'
+- 100%: false
+  Company: Unknown Worlds Entertainment
+  DLC: false
+  Hours Played: 8
+  Icon ID: '20806'
+  Physical: false
+  Platform: PC
+  Platinum: false
+  Playthroughs: -1
+  Rating: 4.0
+  Title: Subnautica
+  Year: '2014'
 - 100%: false
   Company: HAL Laboratory
   DLC: false
@@ -3193,7 +3217,7 @@
 - 100%: false
   Company: Nintendo
   DLC: false
-  Hours Played: 7
+  Hours Played: 20
   Icon ID: '20803'
   Physical: false
   Platform: Nintendo 64
