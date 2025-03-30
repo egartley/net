@@ -1993,7 +1993,7 @@
 - 100%: true
   Company: Nintendo
   DLC: false
-  Hours Played: 82
+  Hours Played: 84
   Icon ID: '501'
   Physical: false
   Platform: Nintendo 64
@@ -2701,13 +2701,13 @@
 - 100%: false
   Company: Unknown Worlds Entertainment
   DLC: false
-  Hours Played: 8
+  Hours Played: 30
   Icon ID: '20806'
   Physical: false
   Platform: PC
   Platinum: false
-  Playthroughs: -1
-  Rating: 4.0
+  Playthroughs: 1
+  Rating: 4.5
   Title: Subnautica
   Year: '2014'
 - 100%: false
@@ -3217,7 +3217,7 @@
 - 100%: false
   Company: Nintendo
   DLC: false
-  Hours Played: 20
+  Hours Played: 23
   Icon ID: '20803'
   Physical: false
   Platform: Nintendo 64
