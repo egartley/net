@@ -54,7 +54,7 @@ a:not(.hitbox):active, a:not(.hitbox):hover { text-decoration: underline }
 .pcard>span#title { font-weight: 700; margin-top: -18px }
 
 div.footer { color: lightgrey; font-family: sans-serif; margin: 18px 0; justify-content: center; align-items: center }
-div.footer > img { width: 24px; margin-left: 4px }
+div.footer > img { width: 24px; margin-left: 6px }
 
 @media screen and (max-width:1072px) {
 	.root { justify-content: initial; align-items: initial; align-content: initial; height: initial; margin-top: 0 }
