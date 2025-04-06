@@ -214,6 +214,18 @@
   Rating: 3.5
   Title: Biomutant
   Year: '2021'
+- 100%: false
+  Company: FromSoftware
+  DLC: true
+  Hours Played: 1
+  Icon ID: '0'
+  Physical: false
+  Platform: PC
+  Platinum: false
+  Playthroughs: -1
+  Rating: 5.0
+  Title: Bloodborne
+  Year: '2015'
 - 100%: true
   Company: FromSoftware
   DLC: true
@@ -922,6 +934,30 @@
   Rating: 2.5
   Title: Harry Potter and the Sorcerer's Stone
   Year: '2001'
+- 100%: false
+  Company: Ninja Theory
+  DLC: false
+  Hours Played: 5
+  Icon ID: '20809'
+  Physical: false
+  Platform: PC
+  Platinum: false
+  Playthroughs: 1
+  Rating: 3.5
+  Title: 'Hellblade: Senua''s Sacrifice'
+  Year: '2017'
+- 100%: false
+  Company: WB Games
+  DLC: false
+  Hours Played: 7
+  Icon ID: '20900'
+  Physical: false
+  Platform: PC
+  Platinum: false
+  Playthroughs: -1
+  Rating: 4.0
+  Title: Hogwarts Legacy
+  Year: '2023'
 - 100%: false
   Company: Team Cherry
   DLC: true
@@ -1727,6 +1763,18 @@
   Title: Meet the Robinsons
   Year: '2007'
 - 100%: false
+  Company: Mercury Steam
+  DLC: false
+  Hours Played: 2
+  Icon ID: '20808'
+  Physical: false
+  Platform: Nintendo Switch
+  Platinum: false
+  Playthroughs: 0
+  Rating: 4.0
+  Title: Metroid Dread
+  Year: '2021'
+- 100%: false
   Company: Retro Studios
   DLC: false
   Hours Played: 17
@@ -1993,7 +2041,7 @@
 - 100%: true
   Company: Nintendo
   DLC: false
-  Hours Played: 84
+  Hours Played: 86
   Icon ID: '501'
   Physical: false
   Platform: Nintendo 64
@@ -2699,7 +2747,7 @@
   Title: Stray
   Year: '2022'
 - 100%: false
-  Company: Unknown Worlds Entertainment
+  Company: Unknown Worlds
   DLC: false
   Hours Played: 30
   Icon ID: '20806'
