@@ -198,7 +198,7 @@
   Physical: false
   Platform: PSVR 2
   Platinum: false
-  Playthroughs: -1
+  Playthroughs: 0
   Rating: 3.0
   Title: Beat the Beats VR
   Year: '2024'
@@ -217,12 +217,12 @@
 - 100%: false
   Company: FromSoftware
   DLC: true
-  Hours Played: 1
+  Hours Played: 3
   Icon ID: '0'
   Physical: false
   Platform: PC
   Platinum: false
-  Playthroughs: -1
+  Playthroughs: 0
   Rating: 5.0
   Title: Bloodborne
   Year: '2015'
@@ -601,12 +601,12 @@
 - 100%: false
   Company: FromSoftware
   DLC: true
-  Hours Played: 60
+  Hours Played: 67
   Icon ID: '10309'
   Physical: false
   Platform: PC
   Platinum: false
-  Playthroughs: -1
+  Playthroughs: 1
   Rating: 5.0
   Title: Elden Ring (Convergence Mod)
   Year: '2022'
@@ -943,13 +943,13 @@
   Platform: PC
   Platinum: false
   Playthroughs: 1
-  Rating: 3.5
+  Rating: 3.0
   Title: 'Hellblade: Senua''s Sacrifice'
   Year: '2017'
 - 100%: false
   Company: WB Games
   DLC: false
-  Hours Played: 7
+  Hours Played: 28
   Icon ID: '20900'
   Physical: false
   Platform: PC
@@ -1698,7 +1698,7 @@
   Physical: false
   Platform: Nintendo 64
   Platinum: false
-  Playthroughs: -1
+  Playthroughs: 0
   Rating: 3.5
   Title: Mario Party 3
   Year: '2000'
@@ -2041,7 +2041,7 @@
 - 100%: true
   Company: Nintendo
   DLC: false
-  Hours Played: 86
+  Hours Played: 87
   Icon ID: '501'
   Physical: false
   Platform: Nintendo 64
@@ -3265,13 +3265,13 @@
 - 100%: false
   Company: Nintendo
   DLC: false
-  Hours Played: 23
+  Hours Played: 24
   Icon ID: '20803'
   Physical: false
   Platform: Nintendo 64
   Platinum: false
-  Playthroughs: -1
-  Rating: 4.5
+  Playthroughs: 1
+  Rating: 4.0
   Title: 'The Legend of Zelda: Ocarina of Time'
   Year: '1998'
 - 100%: false
@@ -3283,7 +3283,7 @@
   Platform: Nintendo 3DS
   Platinum: false
   Playthroughs: 0
-  Rating: 4.0
+  Rating: 3.5
   Title: 'The Legend of Zelda: Ocarina of Time 3D'
   Year: '2011'
 - 100%: false
