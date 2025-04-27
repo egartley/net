@@ -949,12 +949,12 @@
 - 100%: false
   Company: WB Games
   DLC: false
-  Hours Played: 28
+  Hours Played: 32
   Icon ID: '20900'
   Physical: false
   Platform: PC
   Platinum: false
-  Playthroughs: -1
+  Playthroughs: 1
   Rating: 4.0
   Title: Hogwarts Legacy
   Year: '2023'
@@ -3346,6 +3346,18 @@
   Rating: 5.0
   Title: 'The Legend of Zelda: Tears of the Kingdom'
   Year: '2023'
+- 100%: false
+  Company: Nintendo
+  DLC: false
+  Hours Played: 6
+  Icon ID: '20901'
+  Physical: false
+  Platform: Nintendo GBA
+  Platinum: false
+  Playthroughs: -1
+  Rating: 4.0
+  Title: 'The Legend of Zelda: The Minish Cap'
+  Year: '2004'
 - 100%: true
   Company: Traveller's Tales
   DLC: false
