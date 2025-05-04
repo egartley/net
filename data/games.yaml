@@ -1631,6 +1631,18 @@
   Title: 'Mario & Luigi: Paper Jam'
   Year: '2015'
 - 100%: false
+  Company: AlphaDream
+  DLC: false
+  Hours Played: 2
+  Icon ID: '20902'
+  Physical: false
+  Platform: Nintendo GBA
+  Platinum: false
+  Playthroughs: 0
+  Rating: 3.0
+  Title: 'Mario & Luigi: Superstar Saga'
+  Year: '2003'
+- 100%: false
   Company: Nintendo
   DLC: false
   Hours Played: 7
@@ -1978,6 +1990,18 @@
   Rating: 2.5
   Title: Nioh
   Year: '2017'
+- 100%: false
+  Company: Hello Games
+  DLC: false
+  Hours Played: 2
+  Icon ID: '20903'
+  Physical: false
+  Platform: PC
+  Platinum: false
+  Playthroughs: -1
+  Rating: 4.0
+  Title: No Man's Sky
+  Year: '2016'
 - 100%: false
   Company: Bloober Team
   DLC: false
@@ -3287,7 +3311,7 @@
   Title: 'The Legend of Zelda: Ocarina of Time 3D'
   Year: '2011'
 - 100%: false
-  Company: Nintendo
+  Company: CAPCOM
   DLC: false
   Hours Played: 40
   Icon ID: '101'
@@ -3347,15 +3371,15 @@
   Title: 'The Legend of Zelda: Tears of the Kingdom'
   Year: '2023'
 - 100%: false
-  Company: Nintendo
+  Company: CAPCOM
   DLC: false
-  Hours Played: 6
+  Hours Played: 10
   Icon ID: '20901'
   Physical: false
   Platform: Nintendo GBA
   Platinum: false
-  Playthroughs: -1
-  Rating: 4.0
+  Playthroughs: 1
+  Rating: 4.5
   Title: 'The Legend of Zelda: The Minish Cap'
   Year: '2004'
 - 100%: true
