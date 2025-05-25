@@ -1603,7 +1603,7 @@
   Platform: Nintendo Switch
   Platinum: false
   Playthroughs: 1
-  Rating: 3.0
+  Rating: 2.5
   Title: 'Mario & Luigi: Brothership'
   Year: '2024'
 - 100%: false
@@ -1777,7 +1777,7 @@
 - 100%: false
   Company: Mercury Steam
   DLC: false
-  Hours Played: 2
+  Hours Played: 3
   Icon ID: '20808'
   Physical: false
   Platform: Nintendo Switch
@@ -1786,6 +1786,18 @@
   Rating: 4.0
   Title: Metroid Dread
   Year: '2021'
+- 100%: false
+  Company: Nintendo
+  DLC: false
+  Hours Played: 2
+  Icon ID: '20904'
+  Physical: false
+  Platform: Nintendo GBA
+  Platinum: false
+  Playthroughs: -1
+  Rating: 3.0
+  Title: Metroid Fusion
+  Year: '2004'
 - 100%: false
   Company: Retro Studios
   DLC: false
@@ -1993,12 +2005,12 @@
 - 100%: false
   Company: Hello Games
   DLC: false
-  Hours Played: 26
+  Hours Played: 41
   Icon ID: '20903'
   Physical: false
   Platform: PC
   Platinum: false
-  Playthroughs: -1
+  Playthroughs: 1
   Rating: 4.5
   Title: No Man's Sky
   Year: '2016'
@@ -2482,6 +2494,18 @@
   Rating: 5.0
   Title: 'Sekiro: Shadows Die Twice'
   Year: '2019'
+- 100%: false
+  Company: Ninja Theory
+  DLC: false
+  Hours Played: 4
+  Icon ID: '20905'
+  Physical: false
+  Platform: PC
+  Platinum: false
+  Playthroughs: -1
+  Rating: 4.0
+  Title: 'Senua''s Saga: Hellblade II'
+  Year: '2024'
 - 100%: false
   Company: Bluepoint Games
   DLC: false
