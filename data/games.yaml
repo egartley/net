@@ -613,12 +613,12 @@
 - 100%: false
   Company: FromSoftware
   DLC: false
-  Hours Played: 22
+  Hours Played: 82
   Icon ID: '20708'
   Physical: false
   Platform: PC
   Platinum: false
-  Playthroughs: -1
+  Playthroughs: 1
   Rating: 5.0
   Title: Elden Ring Nightreign
   Year: '2025'
@@ -1714,6 +1714,18 @@
   Rating: 5.0
   Title: Mario Kart Wii
   Year: '2008'
+- 100%: false
+  Company: Nintendo
+  DLC: false
+  Hours Played: 6
+  Icon ID: '20907'
+  Physical: false
+  Platform: Nintendo Switch 2
+  Platinum: false
+  Playthroughs: 1
+  Rating: 4.0
+  Title: Mario Kart World
+  Year: '2025'
 - 100%: false
   Company: Nintendo
   DLC: false
@@ -3406,6 +3418,18 @@
   Rating: 5.0
   Title: 'The Legend of Zelda: Tears of the Kingdom'
   Year: '2023'
+- 100%: false
+  Company: Nintendo
+  DLC: false
+  Hours Played: 2
+  Icon ID: '20908'
+  Physical: true
+  Platform: Nintendo Switch 2
+  Platinum: false
+  Playthroughs: -1
+  Rating: 5.0
+  Title: 'The Legend of Zelda: Tears of the Kingdom'
+  Year: '2025'
 - 100%: false
   Company: CAPCOM
   DLC: false
