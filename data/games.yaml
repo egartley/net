@@ -613,7 +613,7 @@
 - 100%: false
   Company: FromSoftware
   DLC: false
-  Hours Played: 106
+  Hours Played: 129
   Icon ID: '20708'
   Physical: false
   Platform: PC
@@ -1548,7 +1548,7 @@
   Year: '2014'
 - 100%: false
   Company: Neowiz Games
-  DLC: false
+  DLC: true
   Hours Played: 20
   Icon ID: '20204'
   Physical: false
@@ -1717,7 +1717,7 @@
 - 100%: false
   Company: Nintendo
   DLC: false
-  Hours Played: 11
+  Hours Played: 13
   Icon ID: '20907'
   Physical: false
   Platform: Nintendo Switch 2
@@ -2542,6 +2542,18 @@
   Rating: 3.5
   Title: Shadow of the Colossus
   Year: '2018'
+- 100%: false
+  Company: Bloober Team
+  DLC: false
+  Hours Played: 2
+  Icon ID: '20909'
+  Physical: false
+  Platform: PC
+  Platinum: false
+  Playthroughs: -1
+  Rating: 4.0
+  Title: Silent Hill 2
+  Year: '2024'
 - 100%: false
   Company: Thatgamecompany
   DLC: false
@@ -3421,7 +3433,7 @@
 - 100%: false
   Company: Nintendo
   DLC: false
-  Hours Played: 4
+  Hours Played: 9
   Icon ID: '20908'
   Physical: true
   Platform: Nintendo Switch 2
