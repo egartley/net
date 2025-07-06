@@ -613,7 +613,7 @@
 - 100%: false
   Company: FromSoftware
   DLC: false
-  Hours Played: 129
+  Hours Played: 161
   Icon ID: '20708'
   Physical: false
   Platform: PC
@@ -1717,7 +1717,7 @@
 - 100%: false
   Company: Nintendo
   DLC: false
-  Hours Played: 13
+  Hours Played: 15
   Icon ID: '20907'
   Physical: false
   Platform: Nintendo Switch 2
@@ -2545,13 +2545,13 @@
 - 100%: false
   Company: Bloober Team
   DLC: false
-  Hours Played: 2
+  Hours Played: 4
   Icon ID: '20909'
   Physical: false
   Platform: PC
   Platinum: false
   Playthroughs: -1
-  Rating: 4.0
+  Rating: 5.0
   Title: Silent Hill 2
   Year: '2024'
 - 100%: false
@@ -3433,7 +3433,7 @@
 - 100%: false
   Company: Nintendo
   DLC: false
-  Hours Played: 9
+  Hours Played: 12
   Icon ID: '20908'
   Physical: true
   Platform: Nintendo Switch 2
