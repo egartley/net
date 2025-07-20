@@ -539,6 +539,18 @@
   Title: Disney's Chicken Little
   Year: '2006'
 - 100%: false
+  Company: Nintendo
+  DLC: false
+  Hours Played: 5
+  Icon ID: '10207'
+  Physical: true
+  Platform: Nintendo Switch 2
+  Platinum: false
+  Playthroughs: -1
+  Rating: 5.0
+  Title: Donkey Kong Bananza
+  Year: '2025'
+- 100%: false
   Company: id Software
   DLC: false
   Hours Played: 17
@@ -613,7 +625,7 @@
 - 100%: false
   Company: FromSoftware
   DLC: false
-  Hours Played: 182
+  Hours Played: 198
   Icon ID: '20708'
   Physical: false
   Platform: PC
@@ -1717,7 +1729,7 @@
 - 100%: false
   Company: Nintendo
   DLC: false
-  Hours Played: 15
+  Hours Played: 16
   Icon ID: '20907'
   Physical: false
   Platform: Nintendo Switch 2
@@ -2545,7 +2557,7 @@
 - 100%: false
   Company: Bloober Team
   DLC: false
-  Hours Played: 8
+  Hours Played: 17
   Icon ID: '20909'
   Physical: false
   Platform: PC
@@ -3433,7 +3445,7 @@
 - 100%: false
   Company: Nintendo
   DLC: false
-  Hours Played: 15
+  Hours Played: 17
   Icon ID: '20908'
   Physical: true
   Platform: Nintendo Switch 2

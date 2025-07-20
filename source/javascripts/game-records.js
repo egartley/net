@@ -123,7 +123,7 @@ function getFilteredGameList(filter, val) {
             "ps5": ["PlayStation 5"],
             "ps45": ["PlayStation 4", "PlayStation 5"],
             "ps12": ["PlayStation 1", "PlayStation 2"],
-            "switch": ["Nintendo Switch"]
+            "switch": ["Nintendo Switch", "Nintendo Switch 2"]
         };
         
         let platforms = platformFilters[val];

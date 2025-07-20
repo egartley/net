@@ -1,6 +1,6 @@
 ---
 title: Game Records
-last_updated: February 9, 2024 at 12:10 PM
+last_updated: July 20, 2025 at 11:31 AM
 ---
 
 <link href="/stylesheets/game-records-style.css" rel="stylesheet" type="text/css">
@@ -10,7 +10,7 @@ last_updated: February 9, 2024 at 12:10 PM
 <h2>Statistics</h2>
 <div class="stat-container">
   <% stat_ratings = {5 => 0, 4.5 => 0, 4 => 0, 3.5 => 0, 3 => 0, 2.5 => 0, '2 stars or below' => 0} %>
-  <% stat_platforms = {"PS4/PS5" => 0, "PS1/PS2" => 0, "Nintendo DS/3DS" => 0, "Nintendo Switch" => 0, "Nintendo Wii" => 0, "PC" => 0, "Other" => 0} %>
+  <% stat_platforms = {"PS4/PS5" => 0, "PS1/PS2" => 0, "Nintendo DS/3DS" => 0, "Switch/Switch 2" => 0, "Nintendo Wii" => 0, "PC" => 0, "Other" => 0} %>
   <% stat_completion = {"100% Complete" => 0, "Platinum Trophy" => 0} %>
 
   <% data.games.each do |game| %>
@@ -38,6 +38,8 @@ last_updated: February 9, 2024 at 12:10 PM
       <% stat_platforms["PS1/PS2"] += 1 %>
     <% elsif ["Nintendo 3DS", "Nintendo DS", "Nintendo DSi", "DSiWare"].include?(platform) %>
       <% stat_platforms["Nintendo DS/3DS"] += 1 %>
+    <% elsif ["Nintendo Switch", "Nintendo Switch 2"].include?(platform) %>
+      <% stat_platforms["Switch/Switch 2"] += 1 %>
     <% else %>
       <% if stat_platforms.key?(platform) %>
         <% stat_platforms[platform] += 1 %>
