@@ -226,6 +226,18 @@
   Rating: 3.5
   Title: Biomutant
   Year: '2021'
+- 100%: false
+  Company: Crowbar Collective
+  DLC: false
+  Hours Played: 12
+  Icon ID: '10406'
+  Physical: false
+  Platform: PC
+  Platinum: false
+  Playthroughs: 1
+  Rating: 3.5
+  Title: Black Mesa
+  Year: '2020'
 - 100%: true
   Company: FromSoftware
   DLC: true
@@ -526,7 +538,31 @@
   Rating: 3.5
   Title: 'Detroit: Become Human'
   Year: '2018'
-- 100%: true
+- 100%: false
+  Company: Disney Interactive Studios
+  DLC: false
+  Hours Played: 15
+  Icon ID: '909'
+  Physical: true
+  Platform: Nintendo Wii
+  Platinum: false
+  Playthroughs: 1
+  Rating: 3.5
+  Title: Disney Epic Mickey
+  Year: '2010'
+- 100%: false
+  Company: Purple Lamp
+  DLC: false
+  Hours Played: 11
+  Icon ID: '10405'
+  Physical: false
+  Platform: PC
+  Platinum: false
+  Playthroughs: 1
+  Rating: 3.5
+  Title: 'Disney Epic Mickey: Rebrushed'
+  Year: '2024'
+- 100%: false
   Company: Avalanche Software
   DLC: false
   Hours Played: 15
@@ -538,15 +574,15 @@
   Rating: 3.5
   Title: Disney's Chicken Little
   Year: '2006'
-- 100%: false
+- 100%: true
   Company: Nintendo
   DLC: false
-  Hours Played: 25
+  Hours Played: 37
   Icon ID: '10207'
   Physical: true
   Platform: Nintendo Switch 2
   Platinum: false
-  Playthroughs: -1
+  Playthroughs: 1
   Rating: 5.0
   Title: Donkey Kong Bananza
   Year: '2025'
@@ -625,7 +661,7 @@
 - 100%: false
   Company: FromSoftware
   DLC: false
-  Hours Played: 206
+  Hours Played: 246
   Icon ID: '20708'
   Physical: false
   Platform: PC
@@ -658,18 +694,6 @@
   Rating: 2.5
   Title: Entwined
   Year: '2014'
-- 100%: false
-  Company: Disney Interactive Studios
-  DLC: false
-  Hours Played: 15
-  Icon ID: '909'
-  Physical: true
-  Platform: Nintendo Wii
-  Platinum: false
-  Playthroughs: 1
-  Rating: 3.5
-  Title: Epic Mickey
-  Year: '2010'
 - 100%: false
   Company: Double Fine Productions
   DLC: false
@@ -1561,7 +1585,7 @@
 - 100%: false
   Company: Neowiz Games
   DLC: true
-  Hours Played: 25
+  Hours Played: 31
   Icon ID: '20204'
   Physical: false
   Platform: PC
@@ -2830,6 +2854,18 @@
   Rating: 4.0
   Title: Steelrising
   Year: '2022'
+- 100%: false
+  Company: Shift Up
+  DLC: false
+  Hours Played: 13
+  Icon ID: '10703'
+  Physical: false
+  Platform: PC
+  Platinum: false
+  Playthroughs: -1
+  Rating: 4.5
+  Title: Stellar Blade
+  Year: '2025'
 - 100%: true
   Company: BlueTwelve
   DLC: false
@@ -3450,7 +3486,7 @@
   Physical: true
   Platform: Nintendo Switch 2
   Platinum: false
-  Playthroughs: -1
+  Playthroughs: 0
   Rating: 5.0
   Title: 'The Legend of Zelda: Tears of the Kingdom'
   Year: '2025'
