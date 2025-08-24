@@ -661,7 +661,7 @@
 - 100%: false
   Company: FromSoftware
   DLC: false
-  Hours Played: 246
+  Hours Played: 252
   Icon ID: '20708'
   Physical: false
   Platform: PC
@@ -2854,16 +2854,16 @@
   Rating: 4.0
   Title: Steelrising
   Year: '2022'
-- 100%: false
+- 100%: true
   Company: Shift Up
   DLC: false
-  Hours Played: 13
+  Hours Played: 43
   Icon ID: '10703'
   Physical: false
   Platform: PC
   Platinum: false
-  Playthroughs: -1
-  Rating: 4.5
+  Playthroughs: 1
+  Rating: 5.0
   Title: Stellar Blade
   Year: '2025'
 - 100%: true
