@@ -251,18 +251,6 @@
   Title: Bloodborne
   Year: '2015'
 - 100%: false
-  Company: Thekla Inc
-  DLC: false
-  Hours Played: 3
-  Icon ID: '20507'
-  Physical: false
-  Platform: PlayStation 5
-  Platinum: false
-  Playthroughs: 0
-  Rating: 3.0
-  Title: 'Braid: Anniversary Edition'
-  Year: '2024'
-- 100%: false
   Company: Nintendo
   DLC: false
   Hours Played: 22
@@ -481,6 +469,18 @@
 - 100%: false
   Company: Kojima Productions
   DLC: false
+  Hours Played: 19
+  Icon ID: '10106'
+  Physical: false
+  Platform: PC
+  Platinum: false
+  Playthroughs: -1
+  Rating: 4.0
+  Title: 'Death Stranding: Director''s Cut'
+  Year: '2022'
+- 100%: false
+  Company: Kojima Productions
+  DLC: false
   Hours Played: 52
   Icon ID: '10106'
   Physical: false
@@ -661,7 +661,7 @@
 - 100%: false
   Company: FromSoftware
   DLC: false
-  Hours Played: 252
+  Hours Played: 263
   Icon ID: '20708'
   Physical: false
   Platform: PC
@@ -971,6 +971,18 @@
   Title: Half-Life 2
   Year: '2004'
 - 100%: false
+  Company: Valve
+  DLC: false
+  Hours Played: 3
+  Icon ID: '20507'
+  Physical: false
+  Platform: PC
+  Platinum: false
+  Playthroughs: -1
+  Rating: 4.5
+  Title: 'Half-Life: Alyx'
+  Year: '2020'
+- 100%: false
   Company: Electronic Arts
   DLC: false
   Hours Played: 15
@@ -1008,16 +1020,16 @@
   Year: '2023'
 - 100%: false
   Company: Team Cherry
-  DLC: true
-  Hours Played: 5
+  DLC: false
+  Hours Played: 18
   Icon ID: '20709'
   Physical: false
   Platform: PC
   Platinum: false
-  Playthroughs: 0
+  Playthroughs: -1
   Rating: 5.0
-  Title: Hollow Knight
-  Year: '2017'
+  Title: 'Hollow Knight: Silksong'
+  Year: '2025'
 - 100%: true
   Company: Team Cherry
   DLC: true
@@ -2857,12 +2869,12 @@
 - 100%: true
   Company: Shift Up
   DLC: false
-  Hours Played: 43
+  Hours Played: 46
   Icon ID: '10703'
   Physical: false
   Platform: PC
-  Platinum: false
-  Playthroughs: 1
+  Platinum: true
+  Playthroughs: 2
   Rating: 5.0
   Title: Stellar Blade
   Year: '2025'
