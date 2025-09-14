@@ -190,30 +190,6 @@
   Rating: 3.0
   Title: Banjo-Kazooie
   Year: '1998'
-- 100%: false
-  Company: Warner Bros
-  DLC: false
-  Hours Played: 4
-  Icon ID: '10101'
-  Physical: false
-  Platform: PlayStation 4
-  Platinum: false
-  Playthroughs: 0
-  Rating: 3.0
-  Title: 'Batman: Arkham Knight'
-  Year: '2015'
-- 100%: false
-  Company: Parallel Circles
-  DLC: false
-  Hours Played: 1
-  Icon ID: '20408'
-  Physical: false
-  Platform: PSVR 2
-  Platinum: false
-  Playthroughs: 0
-  Rating: 3.0
-  Title: Beat the Beats VR
-  Year: '2024'
 - 100%: true
   Company: Experiment 101
   DLC: false
@@ -385,18 +361,6 @@
 - 100%: true
   Company: CD Projekt RED
   DLC: false
-  Hours Played: 113
-  Icon ID: '509'
-  Physical: true
-  Platform: PlayStation 4
-  Platinum: true
-  Playthroughs: 2
-  Rating: 3.5
-  Title: Cyberpunk 2077
-  Year: '2020'
-- 100%: true
-  Company: CD Projekt RED
-  DLC: false
   Hours Played: 52
   Icon ID: '509'
   Physical: false
@@ -406,6 +370,18 @@
   Rating: 4.0
   Title: Cyberpunk 2077
   Year: '2022'
+- 100%: true
+  Company: CD Projekt RED
+  DLC: false
+  Hours Played: 113
+  Icon ID: '509'
+  Physical: true
+  Platform: PlayStation 4
+  Platinum: true
+  Playthroughs: 2
+  Rating: 3.5
+  Title: Cyberpunk 2077
+  Year: '2020'
 - 100%: false
   Company: FromSoftware
   DLC: true
@@ -469,7 +445,7 @@
 - 100%: false
   Company: Kojima Productions
   DLC: false
-  Hours Played: 19
+  Hours Played: 27
   Icon ID: '10106'
   Physical: false
   Platform: PC
@@ -661,7 +637,7 @@
 - 100%: false
   Company: FromSoftware
   DLC: false
-  Hours Played: 263
+  Hours Played: 270
   Icon ID: '20708'
   Physical: false
   Platform: PC
@@ -973,7 +949,7 @@
 - 100%: false
   Company: Valve
   DLC: false
-  Hours Played: 3
+  Hours Played: 4
   Icon ID: '20507'
   Physical: false
   Platform: PC
@@ -1021,7 +997,7 @@
 - 100%: false
   Company: Team Cherry
   DLC: false
-  Hours Played: 18
+  Hours Played: 41
   Icon ID: '20709'
   Physical: false
   Platform: PC
@@ -1249,18 +1225,6 @@
 - 100%: false
   Company: Square Enix
   DLC: false
-  Hours Played: 2
-  Icon ID: '108'
-  Physical: false
-  Platform: PC
-  Platinum: false
-  Playthroughs: 0
-  Rating: 3.5
-  Title: Kingdom Hearts Birth by Sleep Final Mix
-  Year: '2014'
-- 100%: false
-  Company: Square Enix
-  DLC: false
   Hours Played: 30
   Icon ID: '108'
   Physical: true
@@ -1270,18 +1234,6 @@
   Rating: 3.5
   Title: Kingdom Hearts Birth by Sleep Final Mix
   Year: '2014'
-- 100%: true
-  Company: Square Enix
-  DLC: false
-  Hours Played: 145
-  Icon ID: '807'
-  Physical: true
-  Platform: PlayStation 4
-  Platinum: true
-  Playthroughs: 5
-  Rating: 5.0
-  Title: Kingdom Hearts Final Mix
-  Year: '2013'
 - 100%: false
   Company: Square Enix
   DLC: false
@@ -1294,6 +1246,18 @@
   Rating: 5.0
   Title: Kingdom Hearts Final Mix
   Year: '2024'
+- 100%: true
+  Company: Square Enix
+  DLC: false
+  Hours Played: 145
+  Icon ID: '807'
+  Physical: true
+  Platform: PlayStation 4
+  Platinum: true
+  Playthroughs: 5
+  Rating: 5.0
+  Title: Kingdom Hearts Final Mix
+  Year: '2013'
 - 100%: true
   Company: Square Enix
   DLC: false
@@ -1691,18 +1655,6 @@
   Title: 'Mario & Luigi: Paper Jam'
   Year: '2015'
 - 100%: false
-  Company: AlphaDream
-  DLC: false
-  Hours Played: 2
-  Icon ID: '20902'
-  Physical: false
-  Platform: Nintendo GBA
-  Platinum: false
-  Playthroughs: 0
-  Rating: 3.0
-  Title: 'Mario & Luigi: Superstar Saga'
-  Year: '2003'
-- 100%: false
   Company: Nintendo
   DLC: false
   Hours Played: 7
@@ -1858,18 +1810,6 @@
   Rating: 4.0
   Title: Metroid Dread
   Year: '2021'
-- 100%: false
-  Company: Nintendo
-  DLC: false
-  Hours Played: 2
-  Icon ID: '20904'
-  Physical: false
-  Platform: Nintendo GBA
-  Platinum: false
-  Playthroughs: 0
-  Rating: 3.0
-  Title: Metroid Fusion
-  Year: '2004'
 - 100%: false
   Company: Retro Studios
   DLC: false
@@ -2185,18 +2125,6 @@
 - 100%: false
   Company: Nintendo
   DLC: false
-  Hours Played: 15
-  Icon ID: '606'
-  Physical: false
-  Platform: Nintendo GameCube
-  Platinum: false
-  Playthroughs: 0
-  Rating: 4.5
-  Title: 'Paper Mario: The Thousand-Year Door'
-  Year: '2004'
-- 100%: false
-  Company: Nintendo
-  DLC: false
   Hours Played: 6
   Icon ID: '20801'
   Physical: false
@@ -2206,6 +2134,18 @@
   Rating: 4.5
   Title: 'Paper Mario: The Thousand-Year Door'
   Year: '2024'
+- 100%: false
+  Company: Nintendo
+  DLC: false
+  Hours Played: 15
+  Icon ID: '606'
+  Physical: false
+  Platform: Nintendo GameCube
+  Platinum: false
+  Playthroughs: 0
+  Rating: 4.5
+  Title: 'Paper Mario: The Thousand-Year Door'
+  Year: '2004'
 - 100%: false
   Company: Game Freak
   DLC: false
@@ -2377,18 +2317,6 @@
 - 100%: false
   Company: CAPCOM
   DLC: false
-  Hours Played: 4
-  Icon ID: '10202'
-  Physical: false
-  Platform: PC
-  Platinum: false
-  Playthroughs: 0
-  Rating: 4.5
-  Title: Resident Evil 7 Biohazard
-  Year: '2017'
-- 100%: false
-  Company: CAPCOM
-  DLC: false
   Hours Played: 15
   Icon ID: '10202'
   Physical: false
@@ -2413,24 +2341,24 @@
 - 100%: true
   Company: CAPCOM
   DLC: false
-  Hours Played: 63
-  Icon ID: '503'
-  Physical: true
-  Platform: PlayStation 4
-  Platinum: false
-  Playthroughs: 6
-  Rating: 5.0
-  Title: Resident Evil Village
-  Year: '2021'
-- 100%: true
-  Company: CAPCOM
-  DLC: false
   Hours Played: 16
   Icon ID: '503'
   Physical: false
   Platform: PlayStation 5
   Platinum: false
   Playthroughs: 1
+  Rating: 5.0
+  Title: Resident Evil Village
+  Year: '2021'
+- 100%: true
+  Company: CAPCOM
+  DLC: false
+  Hours Played: 63
+  Icon ID: '503'
+  Physical: true
+  Platform: PlayStation 4
+  Platinum: false
+  Playthroughs: 6
   Rating: 5.0
   Title: Resident Evil Village
   Year: '2021'
@@ -2605,24 +2533,24 @@
 - 100%: false
   Company: Thatgamecompany
   DLC: false
-  Hours Played: 31
-  Icon ID: '10404'
-  Physical: false
-  Platform: iOS
-  Platinum: false
-  Playthroughs: 3
-  Rating: 3.0
-  Title: 'Sky: Children of the Light'
-  Year: '2019'
-- 100%: false
-  Company: Thatgamecompany
-  DLC: false
   Hours Played: 23
   Icon ID: '10404'
   Physical: false
   Platform: Nintendo Switch
   Platinum: false
   Playthroughs: 2
+  Rating: 3.0
+  Title: 'Sky: Children of the Light'
+  Year: '2019'
+- 100%: false
+  Company: Thatgamecompany
+  DLC: false
+  Hours Played: 31
+  Icon ID: '10404'
+  Physical: false
+  Platform: iOS
+  Platinum: false
+  Playthroughs: 3
   Rating: 3.0
   Title: 'Sky: Children of the Light'
   Year: '2019'
@@ -2758,18 +2686,6 @@
   Rating: 3.5
   Title: 'Spyro Orange: The Cortex Conspiracy'
   Year: '2004'
-- 100%: true
-  Company: Toys for Bob
-  DLC: false
-  Hours Played: 80
-  Icon ID: '806'
-  Physical: false
-  Platform: Nintendo Switch
-  Platinum: false
-  Playthroughs: 4
-  Rating: 4.5
-  Title: Spyro Reignited Triology
-  Year: '2019'
 - 100%: false
   Company: Toys for Bob
   DLC: false
@@ -2782,6 +2698,18 @@
   Rating: 4.5
   Title: Spyro Reignited Triology
   Year: '2018'
+- 100%: true
+  Company: Toys for Bob
+  DLC: false
+  Hours Played: 80
+  Icon ID: '806'
+  Physical: false
+  Platform: Nintendo Switch
+  Platinum: false
+  Playthroughs: 4
+  Rating: 4.5
+  Title: Spyro Reignited Triology
+  Year: '2019'
 - 100%: true
   Company: Toys for Bob
   DLC: false
@@ -2917,15 +2845,27 @@
 - 100%: false
   Company: Nintendo
   DLC: false
-  Hours Played: 5
-  Icon ID: '10408'
+  Hours Played: 61
+  Icon ID: '10409'
   Physical: false
   Platform: Nintendo Switch
+  Platinum: false
+  Playthroughs: 1
+  Rating: 4.0
+  Title: Super Mario 3D All-Stars
+  Year: '2020'
+- 100%: false
+  Company: Nintendo
+  DLC: false
+  Hours Played: 4
+  Icon ID: '10408'
+  Physical: false
+  Platform: Nintendo 64
   Platinum: false
   Playthroughs: 0
   Rating: 3.5
   Title: Super Mario 64
-  Year: '2020'
+  Year: '1996'
 - 100%: true
   Company: Nintendo
   DLC: false
@@ -2950,18 +2890,6 @@
   Rating: 3.5
   Title: Super Mario Bros. Wonder
   Year: '2023'
-- 100%: true
-  Company: Nintendo
-  DLC: false
-  Hours Played: 36
-  Icon ID: '10005'
-  Physical: false
-  Platform: Nintendo Switch
-  Platinum: false
-  Playthroughs: 2
-  Rating: 4.5
-  Title: Super Mario Galaxy
-  Year: '2020'
 - 100%: true
   Company: Nintendo
   DLC: false
@@ -3010,18 +2938,6 @@
   Rating: 2.5
   Title: Super Mario Run
   Year: '2016'
-- 100%: false
-  Company: Nintendo
-  DLC: false
-  Hours Played: 20
-  Icon ID: '10409'
-  Physical: false
-  Platform: Nintendo Switch
-  Platinum: false
-  Playthroughs: 0
-  Rating: 3.5
-  Title: Super Mario Sunshine
-  Year: '2020'
 - 100%: false
   Company: Nintendo
   DLC: false
@@ -3481,18 +3397,6 @@
 - 100%: false
   Company: Nintendo
   DLC: false
-  Hours Played: 145
-  Icon ID: '10906'
-  Physical: true
-  Platform: Nintendo Switch
-  Platinum: false
-  Playthroughs: 1
-  Rating: 5.0
-  Title: 'The Legend of Zelda: Tears of the Kingdom'
-  Year: '2023'
-- 100%: false
-  Company: Nintendo
-  DLC: false
   Hours Played: 17
   Icon ID: '20908'
   Physical: true
@@ -3502,6 +3406,18 @@
   Rating: 5.0
   Title: 'The Legend of Zelda: Tears of the Kingdom'
   Year: '2025'
+- 100%: false
+  Company: Nintendo
+  DLC: false
+  Hours Played: 145
+  Icon ID: '10906'
+  Physical: true
+  Platform: Nintendo Switch
+  Platinum: false
+  Playthroughs: 1
+  Rating: 5.0
+  Title: 'The Legend of Zelda: Tears of the Kingdom'
+  Year: '2023'
 - 100%: false
   Company: CAPCOM
   DLC: false
@@ -3769,10 +3685,10 @@
 - 100%: false
   Company: Digital Extremes
   DLC: false
-  Hours Played: 163
+  Hours Played: 72
   Icon ID: '10500'
   Physical: false
-  Platform: Nintendo Switch
+  Platform: PlayStation 4
   Platinum: false
   Playthroughs: 1
   Rating: 4.0
@@ -3781,10 +3697,10 @@
 - 100%: false
   Company: Digital Extremes
   DLC: false
-  Hours Played: 72
+  Hours Played: 163
   Icon ID: '10500'
   Physical: false
-  Platform: PlayStation 4
+  Platform: Nintendo Switch
   Platinum: false
   Playthroughs: 1
   Rating: 4.0
