@@ -637,7 +637,7 @@
 - 100%: false
   Company: FromSoftware
   DLC: false
-  Hours Played: 270
+  Hours Played: 283
   Icon ID: '20708'
   Physical: false
   Platform: PC
@@ -994,15 +994,15 @@
   Rating: 4.0
   Title: Hogwarts Legacy
   Year: '2023'
-- 100%: false
+- 100%: true
   Company: Team Cherry
   DLC: false
-  Hours Played: 41
+  Hours Played: 57
   Icon ID: '20709'
   Physical: false
   Platform: PC
   Platinum: false
-  Playthroughs: -1
+  Playthroughs: 1
   Rating: 5.0
   Title: 'Hollow Knight: Silksong'
   Year: '2025'
