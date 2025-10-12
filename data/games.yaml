@@ -193,12 +193,12 @@
 - 100%: false
   Company: Rocksteady Studios
   DLC: false
-  Hours Played: 13
+  Hours Played: 21
   Icon ID: '10101'
   Physical: false
   Platform: PC
   Platinum: false
-  Playthroughs: -1
+  Playthroughs: 1
   Rating: 4.0
   Title: 'Batman: Arkham Knight'
   Year: '2015'
@@ -649,7 +649,7 @@
 - 100%: false
   Company: FromSoftware
   DLC: false
-  Hours Played: 292
+  Hours Played: 303
   Icon ID: '20708'
   Physical: false
   Platform: PC
@@ -1991,7 +1991,7 @@
   Title: Nicktoons Movin'
   Year: '2004'
 - 100%: false
-  Company: Cavia
+  Company: Square Enix
   DLC: false
   Hours Played: 19
   Icon ID: '20106'
@@ -2545,12 +2545,12 @@
 - 100%: false
   Company: NeoBards Entertainment
   DLC: false
-  Hours Played: 10
+  Hours Played: 16
   Icon ID: '20408'
   Physical: false
   Platform: PC
   Platinum: false
-  Playthroughs: -1
+  Playthroughs: 1
   Rating: 5.0
   Title: Silent Hill f
   Year: '2025'
@@ -2938,6 +2938,18 @@
   Rating: 4.0
   Title: Super Mario Galaxy 2
   Year: '2010'
+- 100%: false
+  Company: Nintendo
+  DLC: false
+  Hours Played: 8
+  Icon ID: '20904'
+  Physical: true
+  Platform: Nintendo Switch 2
+  Platinum: false
+  Playthroughs: -1
+  Rating: 4.5
+  Title: Super Mario Galaxy 2
+  Year: '2025'
 - 100%: true
   Company: Nintendo
   DLC: false
@@ -3790,3 +3802,15 @@
   Rating: 3.5
   Title: World of Goo
   Year: '2013'
+- 100%: false
+  Company: Playtonic Limited
+  DLC: false
+  Hours Played: 4
+  Icon ID: '20902'
+  Physical: false
+  Platform: PC
+  Platinum: false
+  Playthroughs: -1
+  Rating: 4.0
+  Title: Yooka-Replaylee
+  Year: '2025'
