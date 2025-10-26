@@ -406,6 +406,18 @@
   Rating: 4.5
   Title: 'Dark Souls II: Scholar of the First Sin'
   Year: '2015'
+- 100%: false
+  Company: FromSoftware
+  DLC: true
+  Hours Played: 9
+  Icon ID: '20002'
+  Physical: false
+  Platform: PC
+  Platinum: false
+  Playthroughs: -1
+  Rating: 5.0
+  Title: Dark Souls III (Convergence Mod)
+  Year: '2016'
 - 100%: true
   Company: FromSoftware
   DLC: true
@@ -649,7 +661,7 @@
 - 100%: false
   Company: FromSoftware
   DLC: false
-  Hours Played: 303
+  Hours Played: 316
   Icon ID: '20708'
   Physical: false
   Platform: PC
@@ -1729,7 +1741,7 @@
 - 100%: false
   Company: Nintendo
   DLC: false
-  Hours Played: 17
+  Hours Played: 18
   Icon ID: '20907'
   Physical: false
   Platform: Nintendo Switch 2
@@ -2941,13 +2953,13 @@
 - 100%: false
   Company: Nintendo
   DLC: false
-  Hours Played: 8
+  Hours Played: 11
   Icon ID: '20904'
   Physical: true
   Platform: Nintendo Switch 2
   Platinum: false
-  Playthroughs: -1
-  Rating: 4.5
+  Playthroughs: 1
+  Rating: 4.0
   Title: Super Mario Galaxy 2
   Year: '2025'
 - 100%: true
@@ -3805,12 +3817,12 @@
 - 100%: false
   Company: Playtonic Limited
   DLC: false
-  Hours Played: 4
+  Hours Played: 9
   Icon ID: '20902'
   Physical: false
   Platform: PC
   Platinum: false
-  Playthroughs: -1
+  Playthroughs: 1
   Rating: 4.0
   Title: Yooka-Replaylee
   Year: '2025'
