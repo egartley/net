@@ -1,16 +1,15 @@
 ---
 title: Game Records
-last_updated: July 20, 2025 at 11:31 AM
+last_updated: November 9, 2025 at 2:07 PM
 ---
 
 <link href="/stylesheets/game-records-style.css" rel="stylesheet" type="text/css">
 <script src="https://code.jquery.com/jquery-3.7.1.min.js" type="application/javascript"></script>
 <script src="/javascripts/game-records.js" type="application/javascript"></script>
 
-<h2>Statistics</h2>
-<div class="stat-container">
-  <% stat_ratings = {5 => 0, 4.5 => 0, 4 => 0, 3.5 => 0, 3 => 0, 2.5 => 0, '2 stars or below' => 0} %>
-  <% stat_platforms = {"PS4/PS5" => 0, "PS1/PS2" => 0, "Nintendo DS/3DS" => 0, "Switch/Switch 2" => 0, "Nintendo Wii" => 0, "PC" => 0, "Other" => 0} %>
+<div class="stat-container flex">
+  <% stat_ratings = {5 => 0, 4.5 => 0, 4 => 0, 3.5 => 0, 3 => 0, 2.5 => 0, '&le; 2' => 0} %>
+  <% stat_platforms = {"PlayStation 4 and 5" => 0, "PlayStation 1 and 2" => 0, "Nintendo DS/3DS" => 0, "Switch 1 and 2" => 0, "Wii and Wii U" => 0, "PC" => 0, "Other" => 0} %>
   <% stat_completion = {"100% Complete" => 0, "Platinum Trophy" => 0} %>
 
   <% data.games.each do |game| %>
@@ -29,17 +28,19 @@ last_updated: July 20, 2025 at 11:31 AM
     <% elsif rating >= 2.5 %>
       <% stat_ratings[2.5] += 1 %>
     <% else %>
-      <% stat_ratings['2 stars or below'] += 1 %>
+      <% stat_ratings['&le; 2'] += 1 %>
     <% end %>
 
     <% if ["PlayStation 4", "PlayStation 5"].include?(platform) %>
-      <% stat_platforms["PS4/PS5"] += 1 %>
+      <% stat_platforms["PlayStation 4 and 5"] += 1 %>
     <% elsif ["PlayStation 1", "PlayStation 2"].include?(platform) %>
-      <% stat_platforms["PS1/PS2"] += 1 %>
+      <% stat_platforms["PlayStation 1 and 2"] += 1 %>
     <% elsif ["Nintendo 3DS", "Nintendo DS", "Nintendo DSi", "DSiWare"].include?(platform) %>
       <% stat_platforms["Nintendo DS/3DS"] += 1 %>
     <% elsif ["Nintendo Switch", "Nintendo Switch 2"].include?(platform) %>
-      <% stat_platforms["Switch/Switch 2"] += 1 %>
+      <% stat_platforms["Switch 1 and 2"] += 1 %>
+    <% elsif ["Nintendo Wii", "Nintendo Wii U"].include?(platform) %>
+      <% stat_platforms["Wii and Wii U"] += 1 %>
     <% else %>
       <% if stat_platforms.key?(platform) %>
         <% stat_platforms[platform] += 1 %>
@@ -53,53 +54,88 @@ last_updated: July 20, 2025 at 11:31 AM
   <% end %>
 
   <div class="stat">
-    <span class="bold">Platforms</span><br>
-    <% stat_platforms.each do |platform, count| %>
-      <%= "#{platform} (#{count})" %><br>
-    <% end %>
+    <h2>Platforms</h2>
+    <div class="flex">
+      <div class="flex col" style="margin-right: 18px">
+        <% stat_platforms.each do |platform, count| %>
+          <b><%= "#{platform}:" %></b>
+        <% end %>
+      </div>
+      <div class="flex col">
+        <% stat_platforms.each do |platform, count| %>
+          <span><%= "#{count}" %></span>
+        <% end %>
+      </div>
+    </div>
   </div>
   <div class="stat">
-    <span class="bold">Ratings</span><br>
-    <% stat_ratings.each do |rating, count| %>
-      <%= "#{rating} stars (#{count})" %><br>
-    <% end %>
+    <h2>Ratings</h2>
+    <div class="flex">
+      <div class="flex col" style="margin-right: 18px">
+        <% stat_ratings.each do |rating, count| %>
+          <b><%= "#{rating} stars:" %></b>
+        <% end %>
+      </div>
+      <div class="flex col">
+        <% stat_ratings.each do |rating, count| %>
+          <span><%= "#{count}" %></span>
+        <% end %>
+      </div>
+    </div>
   </div>
   <div class="stat">
-    <span class="bold">Completion</span><br>
-    <% stat_completion.each do |completion, count| %>
-      <%= "#{completion} (#{count})" %><br>
-    <% end %>
+    <h2>Completion</h2>
+    <div class="flex">
+      <div class="flex col" style="margin-right: 18px">
+        <% stat_completion.each do |completion, count| %>
+          <b><%= "#{completion}:" %></b>
+        <% end %>
+      </div>
+      <div class="flex col">
+        <% stat_completion.each do |completion, count| %>
+          <span><%= "#{count}" %></span>
+        <% end %>
+      </div>
+    </div>
   </div>
 </div>
 
 <h2>All Games (<%= data.games.size %>)</h2>
 
-<label for="sortby">Sort games by:</label>
-<select name="sortby" id="sortby" style="margin-right:12px">
-  <option selected="selected" value="titleAZ">Title A-Z</option>
-  <option value="titleZA">Title Z-A</option>
-  <option value="yearUp">Year (Ascending)</option>
-  <option value="yearDown">Year (Descending)</option>
-  <option value="ratingUp">Rating (Ascending)</option>
-  <option value="ratingDown">Rating (Descending)</option>
-  <option value="hoursUp">Hours (Ascending)</option>
-  <option value="hoursDown">Hours (Descending)</option>
-</select>
-<label for="filter">Filter: </label>
-<select name="filter" id="filter" style="margin-right:12px">
-  <option selected="selected" value="none">None</option>
-  <option value="platform">Platform</option>
-  <option value="rating">Rating</option>
-  <option value="year">Release Year</option>
-  <option value="hours">Hours Played</option>
-  <option value="playthroughs">Playthroughs</option>
-  <option value="hundo">100% Completion</option>
-  <option value="plat">Platinum Trophy</option>
-</select>
-<label class="filterby" style="display:none" for="filterby">THISSHOULDNOTBEVISIBLE</label>
-<select name="filterby" class="filterby" style="display:none">
-  <option selected="selected" value="itsnotworkingbud">None</option>
-</select>
+<div class="flex" style="margin-bottom:16px;flex-wrap:wrap">
+  <div>
+    <label for="sortby">Sort games by:</label>
+    <select name="sortby" id="sortby" style="margin-right:16px">
+      <option selected="selected" value="titleAZ">Title A-Z</option>
+      <option value="titleZA">Title Z-A</option>
+      <option value="yearUp">Year (Ascending)</option>
+      <option value="yearDown">Year (Descending)</option>
+      <option value="ratingUp">Rating (Ascending)</option>
+      <option value="ratingDown">Rating (Descending)</option>
+      <option value="hoursUp">Hours (Ascending)</option>
+      <option value="hoursDown">Hours (Descending)</option>
+    </select>
+  </div>
+  <div>
+    <label for="filter">Filter: </label>
+    <select name="filter" id="filter" style="margin-right:16px">
+      <option selected="selected" value="none">(None)</option>
+      <option value="platform">Platform</option>
+      <option value="rating">Rating</option>
+      <option value="year">Release Year</option>
+      <option value="hours">Hours Played</option>
+      <option value="playthroughs">Playthroughs</option>
+      <option value="hundo">100% Completion</option>
+      <option value="plat">Platinum Trophy</option>
+    </select>
+  </div>
+  <div>
+    <label class="filterby" style="display:none" for="filterby">THISSHOULDNOTBEVISIBLE</label>
+    <select name="filterby" class="filterby" style="display:none">
+      <option selected="selected" value="itsnotworkingbud">None</option>
+    </select>
+  </div>
+</div>
 
 <div class="gamecard-container flex">
   <% data.games.each do |row| %>

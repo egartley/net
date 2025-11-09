@@ -409,12 +409,12 @@
 - 100%: false
   Company: FromSoftware
   DLC: true
-  Hours Played: 9
+  Hours Played: 35
   Icon ID: '20002'
   Physical: false
   Platform: PC
   Platinum: false
-  Playthroughs: -1
+  Playthroughs: 1
   Rating: 5.0
   Title: Dark Souls III (Convergence Mod)
   Year: '2016'
@@ -661,7 +661,7 @@
 - 100%: false
   Company: FromSoftware
   DLC: false
-  Hours Played: 316
+  Hours Played: 336
   Icon ID: '20708'
   Physical: false
   Platform: PC
@@ -3478,6 +3478,18 @@
   Rating: 4.5
   Title: 'The Legend of Zelda: The Minish Cap'
   Year: '2004'
+- 100%: false
+  Company: Nintendo
+  DLC: false
+  Hours Played: 7
+  Icon ID: '30000'
+  Physical: false
+  Platform: Nintendo Wii U
+  Platinum: false
+  Playthroughs: -1
+  Rating: 4.0
+  Title: 'The Legend of Zelda: Twilight Princess HD'
+  Year: '2016'
 - 100%: true
   Company: Traveller's Tales
   DLC: false

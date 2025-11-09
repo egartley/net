@@ -75,11 +75,11 @@ function getFilterHTML(val) {
     const filterOptions = {
         "platform": '<option selected="selected" value="ps5">PlayStation 5</option>' + 
             '<option value="ps4">PlayStation 4</option>' +
-            '<option value="ps45">PlayStation 4 and 5</option>' +
+            '<option value="pc">PC</option>' +
             '<option value="ps12">PlayStation 1 and 2</option>' +
-            '<option value="switch">Nintendo Switch</option>' +
-            '<option value="nonswitch">Other Nintendo Consoles</option>' +
-            '<option value="allelse">PC and Other</option>',
+            '<option value="switch">Nintendo Switch 1 and 2</option>' +
+            '<option value="nonswitch">Nintendo Wii U and earlier</option>' +
+            '<option value="allelse">Other</option>',
         "rating": '<option selected="selected" value="5star">5 stars</option>' + 
             '<option value="45star">4.5 stars</option>' +
             '<option value="4star">4 stars</option>' +
@@ -121,9 +121,9 @@ function getFilteredGameList(filter, val) {
         const platformFilters = {
             "ps4": ["PlayStation 4"],
             "ps5": ["PlayStation 5"],
-            "ps45": ["PlayStation 4", "PlayStation 5"],
             "ps12": ["PlayStation 1", "PlayStation 2"],
-            "switch": ["Nintendo Switch", "Nintendo Switch 2"]
+            "switch": ["Nintendo Switch", "Nintendo Switch 2"],
+            "pc": ["PC"]
         };
         
         let platforms = platformFilters[val];
@@ -132,7 +132,7 @@ function getFilteredGameList(filter, val) {
         } else if (val === "nonswitch") {
             filteredGames = allGames.filter(g => g.platform.includes("Nintendo") && !g.platform.includes("Switch"));
         } else if (val === "allelse") {
-            filteredGames = allGames.filter(g => !g.platform.includes("Nintendo") && !g.platform.includes("PlayStation"));
+            filteredGames = allGames.filter(g => !g.platform.includes("Nintendo") && !g.platform.includes("PlayStation") && !g.platform.includes("PC"));
         }
     } else if (filter == "rating") {
         let rmin = 0, rmax = 5;

@@ -7,19 +7,16 @@ span.gamecard-icons > span.hundo { background-color: #367CE2 }
 span.gamecard-icons > span.dlc { background-color: #5D27D5 }
 span.gamecard-subtext { font-size: 12px; font-style: italic }
 span.gamecard-playtext { font-size: 12px; margin-top: 6px }
-div.gamecard { width: 180px; padding: 8px 16px; margin-right: 24px; margin-bottom: 24px; transition: background-color 0.25s; border-radius: 6px }
-div.gamecard:hover { background-color: #1e1e1e }
+div.gamecard { width: 180px; padding: 8px 16px; margin-right: 24px; margin-bottom: 24px }
 div.gamecard-inner { justify-content: center; margin-left: 8px }
 div.gamecard, div.gamecard-inner { flex-direction: column }
 div.gamecard-outer, span.gamecard-rating { flex-direction: row }
 a.qn-link { margin-right: 10px; font-size: 18px }
-div.stat-container { display: flex; flex-direction: row }
-div.stat { margin-right: 28px }
+div.stat { margin-right: 48px }
 span.gamecard-rating>img { width: 16px; height: 16px }
-select#sortby { margin-bottom: 32px }
 @media screen and (max-width:1072px) {
 	div.gamecard-container { flex-direction: column; align-items: initial }
 	div.gamecard { width: 100%; margin-bottom: 36px; margin-right: 0; padding: 0 }
 	div.stat-container { flex-direction: column }
-	div.stat { margin-bottom: 32px }
+	div.stat { margin-right: 0 }
 }
