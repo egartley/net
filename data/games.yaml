@@ -347,6 +347,18 @@
   Title: Cocoon
   Year: '2023'
 - 100%: false
+  Company: Remedy Entertainment
+  DLC: false
+  Hours Played: 16
+  Icon ID: '30001'
+  Physical: false
+  Platform: PC
+  Platinum: false
+  Playthroughs: 1
+  Rating: 4.5
+  Title: Control
+  Year: '2019'
+- 100%: false
   Company: Cooking Mama Limited
   DLC: false
   Hours Played: 4
@@ -409,15 +421,15 @@
 - 100%: false
   Company: FromSoftware
   DLC: true
-  Hours Played: 35
-  Icon ID: '20002'
+  Hours Played: 26
+  Icon ID: '10400'
   Physical: false
   Platform: PC
   Platinum: false
-  Playthroughs: 1
+  Playthroughs: -1
   Rating: 5.0
-  Title: Dark Souls III (Convergence Mod)
-  Year: '2016'
+  Title: 'Dark Souls II: Scholar of the First Sin (Seeker of Fire mod)'
+  Year: '2015'
 - 100%: true
   Company: FromSoftware
   DLC: true
@@ -428,8 +440,20 @@
   Platinum: true
   Playthroughs: 3
   Rating: 5.0
-  Title: 'Dark Souls III: The Fire Fades Edition'
+  Title: Dark Souls III
   Year: '2017'
+- 100%: false
+  Company: FromSoftware
+  DLC: true
+  Hours Played: 35
+  Icon ID: '20002'
+  Physical: false
+  Platform: PC
+  Platinum: false
+  Playthroughs: 1
+  Rating: 5.0
+  Title: Dark Souls III (Convergence mod)
+  Year: '2016'
 - 100%: false
   Company: FromSoftware
   DLC: true
@@ -656,12 +680,12 @@
   Platinum: false
   Playthroughs: 1
   Rating: 5.0
-  Title: Elden Ring (Convergence Mod)
+  Title: Elden Ring (Convergence mod)
   Year: '2022'
 - 100%: false
   Company: FromSoftware
-  DLC: false
-  Hours Played: 336
+  DLC: true
+  Hours Played: 430
   Icon ID: '20708'
   Physical: false
   Platform: PC
@@ -943,7 +967,7 @@
   Platform: iOS
   Platinum: false
   Playthroughs: 4
-  Rating: 4.0
+  Rating: 5.0
   Title: 'Grand Theft Auto: San Andreas'
   Year: '2013'
 - 100%: true
@@ -1040,7 +1064,7 @@
   Platinum: false
   Playthroughs: 1
   Rating: 5.0
-  Title: 'Hollow Knight: Voidheart Edition'
+  Title: Hollow Knight
   Year: '2018'
 - 100%: true
   Company: Guerrilla Games
@@ -1174,6 +1198,18 @@
   Rating: 3.5
   Title: Inside
   Year: '2016'
+- 100%: false
+  Company: Raptorsoft Games
+  DLC: false
+  Hours Played: 3
+  Icon ID: '30003'
+  Physical: false
+  Platform: PC
+  Platinum: false
+  Playthroughs: 1
+  Rating: 4.0
+  Title: Interior Worlds
+  Year: '2023'
 - 100%: false
   Company: Ember Lab
   DLC: false
@@ -1843,9 +1879,21 @@
   Platform: Nintendo Switch
   Platinum: false
   Playthroughs: 1
-  Rating: 4.0
+  Rating: 4.5
   Title: Metroid Prime Remastered
   Year: '2023'
+- 100%: true
+  Company: Retro Studios
+  DLC: false
+  Hours Played: 16
+  Icon ID: '30002'
+  Physical: true
+  Platform: Nintendo Switch 2
+  Platinum: false
+  Playthroughs: 1
+  Rating: 3.5
+  Title: 'Metroid Prime 4: Beyond'
+  Year: '2025'
 - 100%: true
   Company: Monolith Productions
   DLC: false
@@ -3481,12 +3529,12 @@
 - 100%: false
   Company: Nintendo
   DLC: false
-  Hours Played: 7
+  Hours Played: 18
   Icon ID: '30000'
   Physical: false
   Platform: Nintendo Wii U
   Platinum: false
-  Playthroughs: -1
+  Playthroughs: 0
   Rating: 4.0
   Title: 'The Legend of Zelda: Twilight Princess HD'
   Year: '2016'
