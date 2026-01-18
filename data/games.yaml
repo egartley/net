@@ -421,12 +421,12 @@
 - 100%: false
   Company: FromSoftware
   DLC: true
-  Hours Played: 26
+  Hours Played: 34
   Icon ID: '10400'
   Physical: false
   Platform: PC
   Platinum: false
-  Playthroughs: -1
+  Playthroughs: 1
   Rating: 5.0
   Title: 'Dark Souls II: Scholar of the First Sin (Seeker of Fire mod)'
   Year: '2015'
@@ -2458,6 +2458,18 @@
   Rating: 3.0
   Title: Returnal
   Year: '2021'
+- 100%: false
+  Company: Housemarque
+  DLC: false
+  Hours Played: 22
+  Icon ID: '10209'
+  Physical: false
+  Platform: PC
+  Platinum: false
+  Playthroughs: -1
+  Rating: 5.0
+  Title: Returnal
+  Year: '2023'
 - 100%: false
   Company: United Game Artists
   DLC: false
