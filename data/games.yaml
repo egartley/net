@@ -685,7 +685,7 @@
 - 100%: false
   Company: FromSoftware
   DLC: true
-  Hours Played: 430
+  Hours Played: 434
   Icon ID: '20708'
   Physical: false
   Platform: PC
@@ -1044,18 +1044,6 @@
   Year: '2023'
 - 100%: true
   Company: Team Cherry
-  DLC: false
-  Hours Played: 57
-  Icon ID: '20709'
-  Physical: false
-  Platform: PC
-  Platinum: false
-  Playthroughs: 1
-  Rating: 5.0
-  Title: 'Hollow Knight: Silksong'
-  Year: '2025'
-- 100%: true
-  Company: Team Cherry
   DLC: true
   Hours Played: 52
   Icon ID: '709'
@@ -1066,6 +1054,18 @@
   Rating: 5.0
   Title: Hollow Knight
   Year: '2018'
+- 100%: true
+  Company: Team Cherry
+  DLC: false
+  Hours Played: 57
+  Icon ID: '20709'
+  Physical: false
+  Platform: PC
+  Platinum: false
+  Playthroughs: 1
+  Rating: 5.0
+  Title: 'Hollow Knight: Silksong'
+  Year: '2025'
 - 100%: true
   Company: Guerrilla Games
   DLC: false
@@ -1090,6 +1090,18 @@
   Rating: 4.5
   Title: Horizon Forbidden West
   Year: '2022'
+- 100%: false
+  Company: Guerrilla Games
+  DLC: false
+  Hours Played: 5
+  Icon ID: '30006'
+  Physical: false
+  Platform: PC
+  Platinum: false
+  Playthroughs: 1
+  Rating: 3.5
+  Title: Horizon Hunters Gathering (Playtest)
+  Year: '2026'
 - 100%: true
   Company: Guerrilla Games
   DLC: true
@@ -1654,6 +1666,18 @@
   Rating: 3.0
   Title: Little Nightmares
   Year: '2017'
+- 100%: false
+  Company: CI Games
+  DLC: false
+  Hours Played: 48
+  Icon ID: '30004'
+  Physical: false
+  Platform: PC
+  Platinum: false
+  Playthroughs: 1
+  Rating: 5.0
+  Title: Lords of the Fallen
+  Year: '2023'
 - 100%: true
   Company: AlphaDream
   DLC: false
@@ -2398,6 +2422,18 @@
   Rating: 4.5
   Title: Resident Evil 7 Biohazard
   Year: '2017'
+- 100%: false
+  Company: CAPCOM
+  DLC: false
+  Hours Played: 7
+  Icon ID: '30005'
+  Physical: false
+  Platform: PC
+  Platinum: false
+  Playthroughs: -1
+  Rating: 5.0
+  Title: Resident Evil Requiem
+  Year: '2026'
 - 100%: true
   Company: CAPCOM
   DLC: true
