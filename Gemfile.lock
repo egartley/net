@@ -14,7 +14,7 @@ GEM
       securerandom (>= 0.3)
       tzinfo (~> 2.0, >= 2.0.5)
       uri (>= 0.13.1)
-    addressable (2.8.8)
+    addressable (2.8.9)
       public_suffix (>= 2.0.2, < 8.0)
     autoprefixer-rails (10.4.21.0)
       execjs (~> 2)
@@ -89,7 +89,8 @@ GEM
       toml
       uglifier (>= 3, < 5)
       webrick
-    minitest (6.0.1)
+    minitest (6.0.2)
+      drb (~> 2.0)
       prism (~> 1.5)
     padrino-helpers (0.15.3)
       i18n (>= 0.6.7, < 2)
@@ -100,7 +101,7 @@ GEM
     parslet (2.0.0)
     prism (1.9.0)
     public_suffix (7.0.2)
-    rack (3.2.4)
+    rack (3.2.5)
     rackup (2.3.1)
       rack (>= 3)
     rb-fsevent (0.11.2)
