@@ -1019,6 +1019,18 @@
   Title: Harry Potter and the Sorcerer's Stone
   Year: '2001'
 - 100%: false
+  Company: Rogue Factor
+  DLC: false
+  Hours Played: 7
+  Icon ID: '30007'
+  Physical: false
+  Platform: PC
+  Platinum: false
+  Playthroughs: -1
+  Rating: 4.5
+  Title: Hell is Us
+  Year: '2025'
+- 100%: false
   Company: Ninja Theory
   DLC: false
   Hours Played: 5
@@ -2425,12 +2437,12 @@
 - 100%: false
   Company: CAPCOM
   DLC: false
-  Hours Played: 7
+  Hours Played: 27
   Icon ID: '30005'
   Physical: false
   Platform: PC
   Platinum: false
-  Playthroughs: -1
+  Playthroughs: 1
   Rating: 5.0
   Title: Resident Evil Requiem
   Year: '2026'
