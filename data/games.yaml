@@ -382,6 +382,18 @@
   Rating: 3.5
   Title: 'Crash Bandicoot 4: It''s About Time'
   Year: '2020'
+- 100%: false
+  Company: Bloober Team
+  DLC: false
+  Hours Played: 2
+  Icon ID: '30009'
+  Physical: false
+  Platform: PC
+  Platinum: false
+  Playthroughs: -1
+  Rating: 4.0
+  Title: 'Cronos: The New Dawn'
+  Year: '2025'
 - 100%: true
   Company: CD Projekt RED
   DLC: false
@@ -1021,12 +1033,12 @@
 - 100%: false
   Company: Rogue Factor
   DLC: false
-  Hours Played: 7
+  Hours Played: 25
   Icon ID: '30007'
   Physical: false
   Platform: PC
   Platinum: false
-  Playthroughs: -1
+  Playthroughs: 1
   Rating: 4.5
   Title: Hell is Us
   Year: '2025'
@@ -2530,6 +2542,18 @@
   Rating: 2.5
   Title: Rez Infinite
   Year: '2016'
+- 100%: false
+  Company: Hopoo Games
+  DLC: false
+  Hours Played: 16
+  Icon ID: '30008'
+  Physical: false
+  Platform: PC
+  Platinum: false
+  Playthroughs: 1
+  Rating: 4.0
+  Title: Risk of Rain 2
+  Year: '2020'
 - 100%: false
   Company: Sumo Digital
   DLC: false
