@@ -385,15 +385,27 @@
 - 100%: false
   Company: Bloober Team
   DLC: false
-  Hours Played: 2
+  Hours Played: 20
   Icon ID: '30009'
+  Physical: false
+  Platform: PC
+  Platinum: false
+  Playthroughs: 1
+  Rating: 4.5
+  Title: 'Cronos: The New Dawn'
+  Year: '2025'
+- 100%: false
+  Company: CD Projekt RED
+  DLC: false
+  Hours Played: 7
+  Icon ID: '509'
   Physical: false
   Platform: PC
   Platinum: false
   Playthroughs: -1
   Rating: 4.0
-  Title: 'Cronos: The New Dawn'
-  Year: '2025'
+  Title: Cyberpunk 2077
+  Year: '2022'
 - 100%: true
   Company: CD Projekt RED
   DLC: false
@@ -697,7 +709,7 @@
 - 100%: false
   Company: FromSoftware
   DLC: true
-  Hours Played: 434
+  Hours Played: 479
   Icon ID: '20708'
   Physical: false
   Platform: PC
@@ -835,7 +847,7 @@
   Platform: PlayStation 4
   Platinum: false
   Playthroughs: 1
-  Rating: 4.0
+  Rating: 3.0
   Title: Final Fantasy VII
   Year: '2015'
 - 100%: false
@@ -862,6 +874,18 @@
   Rating: 4.5
   Title: Final Fantasy VII Remake
   Year: '2020'
+- 100%: false
+  Company: Square Enix
+  DLC: true
+  Hours Played: 30
+  Icon ID: '205'
+  Physical: false
+  Platform: PC
+  Platinum: false
+  Playthroughs: 1
+  Rating: 4.5
+  Title: Final Fantasy VII Remake Intergrade
+  Year: '2022'
 - 100%: false
   Company: Square Enix
   DLC: true
@@ -995,6 +1019,18 @@
   Title: 'GRIME: Definitive Edition'
   Year: '2022'
 - 100%: false
+  Company: Clover Bite
+  DLC: false
+  Hours Played: 30
+  Icon ID: '30103'
+  Physical: false
+  Platform: PC
+  Platinum: false
+  Playthroughs: 1
+  Rating: 4.5
+  Title: GRIME II
+  Year: '2026'
+- 100%: false
   Company: Valve
   DLC: true
   Hours Played: 12
@@ -1117,14 +1153,14 @@
 - 100%: false
   Company: Guerrilla Games
   DLC: false
-  Hours Played: 5
+  Hours Played: 16
   Icon ID: '30006'
   Physical: false
   Platform: PC
   Platinum: false
   Playthroughs: 1
   Rating: 3.5
-  Title: Horizon Hunters Gathering (Playtest)
+  Title: Horizon Hunters Gathering (Play Test)
   Year: '2026'
 - 100%: true
   Company: Guerrilla Games
@@ -2401,6 +2437,30 @@
 - 100%: false
   Company: CAPCOM
   DLC: false
+  Hours Played: 12
+  Icon ID: '30100'
+  Physical: false
+  Platform: PC
+  Platinum: false
+  Playthroughs: 1
+  Rating: 4.5
+  Title: Resident Evil
+  Year: '2015'
+- 100%: false
+  Company: CAPCOM
+  DLC: false
+  Hours Played: 3
+  Icon ID: '30101'
+  Physical: false
+  Platform: PC
+  Platinum: false
+  Playthroughs: 0
+  Rating: 4.0
+  Title: Resident Evil 0
+  Year: '2016'
+- 100%: false
+  Company: CAPCOM
+  DLC: false
   Hours Played: 15
   Icon ID: '20306'
   Physical: false
@@ -2458,6 +2518,18 @@
   Rating: 5.0
   Title: Resident Evil Requiem
   Year: '2026'
+- 100%: false
+  Company: CAPCOM
+  DLC: false
+  Hours Played: 2
+  Icon ID: '30102'
+  Physical: false
+  Platform: PC
+  Platinum: false
+  Playthroughs: -1
+  Rating: 4.0
+  Title: Resident Evil Revelations
+  Year: '2013'
 - 100%: true
   Company: CAPCOM
   DLC: true
