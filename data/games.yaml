@@ -127,7 +127,7 @@
   Platform: PlayStation 5
   Platinum: false
   Playthroughs: 1
-  Rating: 4.0
+  Rating: 3.5
   Title: 'Armored Core VI: Fires of Rubicon'
   Year: '2023'
 - 100%: false
@@ -271,7 +271,7 @@
   Platform: PlayStation 1
   Platinum: false
   Playthroughs: 6
-  Rating: 4.5
+  Rating: 5.0
   Title: 'Bugs Bunny: Lost in Time'
   Year: '1999'
 - 100%: true
@@ -367,7 +367,7 @@
   Platform: Nintendo DS
   Platinum: false
   Playthroughs: 1
-  Rating: 2.5
+  Rating: 3.0
   Title: Cooking Mama
   Year: '2006'
 - 100%: false
@@ -394,16 +394,16 @@
   Rating: 4.5
   Title: 'Cronos: The New Dawn'
   Year: '2025'
-- 100%: false
+- 100%: true
   Company: CD Projekt RED
-  DLC: false
-  Hours Played: 7
+  DLC: true
+  Hours Played: 71
   Icon ID: '509'
   Physical: false
   Platform: PC
   Platinum: false
-  Playthroughs: -1
-  Rating: 4.0
+  Playthroughs: 1
+  Rating: 5.0
   Title: Cyberpunk 2077
   Year: '2022'
 - 100%: true
@@ -538,6 +538,18 @@
   Rating: 4.0
   Title: 'Death Stranding: Director''s Cut'
   Year: '2021'
+- 100%: false
+  Company: Kojima Productions
+  DLC: false
+  Hours Played: 87
+  Icon ID: '30104'
+  Physical: false
+  Platform: PC
+  Platinum: true
+  Playthroughs: 1
+  Rating: 5.0
+  Title: 'Death Stranding 2: On the Beach'
+  Year: '2026'
 - 100%: true
   Company: Acid Nerve
   DLC: false
@@ -947,6 +959,18 @@
   Title: Ghost of Tsushima Director's Cut
   Year: '2021'
 - 100%: false
+  Company: Sucker Punch Productions
+  DLC: false
+  Hours Played: 36
+  Icon ID: '30105'
+  Physical: true
+  Platform: PlayStation 5
+  Platinum: false
+  Playthroughs: -1
+  Rating: 4.5
+  Title: Ghost of Yotei
+  Year: '2025'
+- 100%: false
   Company: Coffee Stain Publishing
   DLC: false
   Hours Played: 3
@@ -1321,6 +1345,18 @@
 - 100%: false
   Company: Square Enix
   DLC: false
+  Hours Played: 3
+  Icon ID: '10103'
+  Physical: false
+  Platform: PC
+  Platinum: false
+  Playthroughs: 1
+  Rating: 3.5
+  Title: 'Kingdom Hearts 0.2: Birth by Sleep - A Fragmentary Passage'
+  Year: '2024'
+- 100%: false
+  Company: Square Enix
+  DLC: false
   Hours Played: 10
   Icon ID: '300'
   Physical: false
@@ -1354,6 +1390,18 @@
   Rating: 4.5
   Title: 'Kingdom Hearts 3D: Dream Drop Distance HD'
   Year: '2017'
+- 100%: false
+  Company: Square Enix
+  DLC: false
+  Hours Played: 16
+  Icon ID: '902'
+  Physical: false
+  Platform: PC
+  Platinum: false
+  Playthroughs: 1
+  Rating: 4.5
+  Title: 'Kingdom Hearts 3D: Dream Drop Distance HD'
+  Year: '2024'
 - 100%: false
   Company: Square Enix
   DLC: false
@@ -1993,7 +2041,7 @@
 - 100%: false
   Company: Mojang
   DLC: false
-  Hours Played: 305
+  Hours Played: 450
   Icon ID: '209'
   Physical: false
   Platform: PC
@@ -2035,9 +2083,21 @@
   Platform: iOS
   Platinum: false
   Playthroughs: 1
-  Rating: 4.0
+  Rating: 5.0
   Title: Minecraft Pocket Edition
   Year: '2012'
+- 100%: false
+  Company: Douze Dixiemes
+  DLC: false
+  Hours Played: 23
+  Icon ID: '30107'
+  Physical: false
+  Platform: PC
+  Platinum: false
+  Playthroughs: 1
+  Rating: 4.0
+  Title: 'MIO: Memories in Orbit'
+  Year: '2026'
 - 100%: true
   Company: Black Mermaid
   DLC: false
@@ -2521,12 +2581,12 @@
 - 100%: false
   Company: CAPCOM
   DLC: false
-  Hours Played: 2
+  Hours Played: 12
   Icon ID: '30102'
   Physical: false
   Platform: PC
   Platinum: false
-  Playthroughs: -1
+  Playthroughs: 1
   Rating: 4.0
   Title: Resident Evil Revelations
   Year: '2013'
@@ -2626,6 +2686,18 @@
   Rating: 4.0
   Title: Risk of Rain 2
   Year: '2020'
+- 100%: false
+  Company: Lunar Software
+  DLC: false
+  Hours Played: 5
+  Icon ID: '30106'
+  Physical: false
+  Platform: PC
+  Platinum: false
+  Playthroughs: 1
+  Rating: 3.0
+  Title: Routine
+  Year: '2025'
 - 100%: false
   Company: Sumo Digital
   DLC: false
@@ -2975,15 +3047,15 @@
   Title: Spyro the Dragon
   Year: '1998'
 - 100%: false
-  Company: Sierra Entertainment
+  Company: Eurocom
   DLC: false
-  Hours Played: 15
+  Hours Played: 17
   Icon ID: '407'
   Physical: false
   Platform: PlayStation 2
   Platinum: false
-  Playthroughs: 0
-  Rating: 2.5
+  Playthroughs: 1
+  Rating: 3.0
   Title: 'Spyro: A Hero''s Tail'
   Year: '2004'
 - 100%: true
