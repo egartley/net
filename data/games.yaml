@@ -229,12 +229,12 @@
 - 100%: true
   Company: FromSoftware
   DLC: true
-  Hours Played: 78
+  Hours Played: 88
   Icon ID: '0'
   Physical: true
   Platform: PlayStation 4
   Platinum: true
-  Playthroughs: 3
+  Playthroughs: 4
   Rating: 5.0
   Title: Bloodborne
   Year: '2015'
@@ -517,6 +517,18 @@
 - 100%: false
   Company: Kojima Productions
   DLC: false
+  Hours Played: 87
+  Icon ID: '30104'
+  Physical: false
+  Platform: PC
+  Platinum: true
+  Playthroughs: 1
+  Rating: 5.0
+  Title: 'Death Stranding 2: On the Beach'
+  Year: '2026'
+- 100%: false
+  Company: Kojima Productions
+  DLC: false
   Hours Played: 31
   Icon ID: '10106'
   Physical: false
@@ -538,18 +550,6 @@
   Rating: 4.0
   Title: 'Death Stranding: Director''s Cut'
   Year: '2021'
-- 100%: false
-  Company: Kojima Productions
-  DLC: false
-  Hours Played: 87
-  Icon ID: '30104'
-  Physical: false
-  Platform: PC
-  Platinum: true
-  Playthroughs: 1
-  Rating: 5.0
-  Title: 'Death Stranding 2: On the Beach'
-  Year: '2026'
 - 100%: true
   Company: Acid Nerve
   DLC: false
@@ -877,6 +877,18 @@
 - 100%: false
   Company: Square Enix
   DLC: false
+  Hours Played: 73
+  Icon ID: '20402'
+  Physical: false
+  Platform: PC
+  Platinum: false
+  Playthroughs: 1
+  Rating: 4.5
+  Title: Final Fantasy VII Rebirth
+  Year: '2025'
+- 100%: false
+  Company: Square Enix
+  DLC: false
   Hours Played: 72
   Icon ID: '205'
   Physical: false
@@ -895,7 +907,7 @@
   Platform: PC
   Platinum: false
   Playthroughs: 1
-  Rating: 4.5
+  Rating: 5.0
   Title: Final Fantasy VII Remake Intergrade
   Year: '2022'
 - 100%: false
@@ -958,15 +970,15 @@
   Rating: 4.5
   Title: Ghost of Tsushima Director's Cut
   Year: '2021'
-- 100%: false
+- 100%: true
   Company: Sucker Punch Productions
   DLC: false
-  Hours Played: 36
+  Hours Played: 50
   Icon ID: '30105'
   Physical: true
   Platform: PlayStation 5
-  Platinum: false
-  Playthroughs: -1
+  Platinum: true
+  Playthroughs: 1
   Rating: 4.5
   Title: Ghost of Yotei
   Year: '2025'
@@ -1030,18 +1042,6 @@
   Rating: 5.0
   Title: 'Grand Theft Auto: San Andreas'
   Year: '2013'
-- 100%: true
-  Company: Akupara Games
-  DLC: true
-  Hours Played: 19
-  Icon ID: '20401'
-  Physical: false
-  Platform: PlayStation 5
-  Platinum: true
-  Playthroughs: 1
-  Rating: 4.0
-  Title: 'GRIME: Definitive Edition'
-  Year: '2022'
 - 100%: false
   Company: Clover Bite
   DLC: false
@@ -1054,6 +1054,18 @@
   Rating: 4.5
   Title: GRIME II
   Year: '2026'
+- 100%: true
+  Company: Akupara Games
+  DLC: true
+  Hours Played: 19
+  Icon ID: '20401'
+  Physical: false
+  Platform: PlayStation 5
+  Platinum: true
+  Playthroughs: 1
+  Rating: 4.0
+  Title: 'GRIME: Definitive Edition'
+  Year: '2022'
 - 100%: false
   Company: Valve
   DLC: true
@@ -1234,6 +1246,18 @@
   Rating: 3.5
   Title: Human Resource Machine
   Year: '2015'
+- 100%: false
+  Company: Tomorrow Corporation
+  DLC: false
+  Hours Played: 6
+  Icon ID: '10702'
+  Physical: false
+  Platform: PC
+  Platinum: false
+  Playthroughs: 1
+  Rating: 4.0
+  Title: Human Resource Machine
+  Year: '2015'
 - 100%: true
   Company: tha LTD
   DLC: false
@@ -1327,7 +1351,7 @@
   Platform: PlayStation 2
   Platinum: false
   Playthroughs: 3
-  Rating: 4.5
+  Rating: 5.0
   Title: Kingdom Hearts
   Year: '2002'
 - 100%: false
@@ -1993,27 +2017,15 @@
 - 100%: false
   Company: Mercury Steam
   DLC: false
-  Hours Played: 3
+  Hours Played: 18
   Icon ID: '20808'
   Physical: false
   Platform: Nintendo Switch
   Platinum: false
   Playthroughs: 0
-  Rating: 4.0
+  Rating: 4.5
   Title: Metroid Dread
   Year: '2021'
-- 100%: false
-  Company: Retro Studios
-  DLC: false
-  Hours Played: 17
-  Icon ID: '20607'
-  Physical: false
-  Platform: Nintendo Switch
-  Platinum: false
-  Playthroughs: 1
-  Rating: 4.5
-  Title: Metroid Prime Remastered
-  Year: '2023'
 - 100%: true
   Company: Retro Studios
   DLC: false
@@ -2026,6 +2038,18 @@
   Rating: 3.5
   Title: 'Metroid Prime 4: Beyond'
   Year: '2025'
+- 100%: false
+  Company: Retro Studios
+  DLC: false
+  Hours Played: 17
+  Icon ID: '20607'
+  Physical: false
+  Platform: Nintendo Switch
+  Platinum: false
+  Playthroughs: 1
+  Rating: 4.5
+  Title: Metroid Prime Remastered
+  Year: '2023'
 - 100%: true
   Company: Monolith Productions
   DLC: false
@@ -2411,6 +2435,18 @@
   Title: Powerwash Simulator
   Year: '2022'
 - 100%: false
+  Company: CAPCOM
+  DLC: false
+  Hours Played: 11
+  Icon ID: '30108'
+  Physical: false
+  Platform: PC
+  Platinum: false
+  Playthroughs: 1
+  Rating: 3.5
+  Title: Pragmata
+  Year: '2026'
+- 100%: false
   Company: Ubisoft
   DLC: false
   Hours Played: 10
@@ -2723,6 +2759,18 @@
   Title: 'Samurai Jack: The Amulet of Time'
   Year: '2003'
 - 100%: false
+  Company: Housemarque
+  DLC: false
+  Hours Played: 23
+  Icon ID: '30201'
+  Physical: true
+  Platform: PlayStation 5
+  Platinum: false
+  Playthroughs: 1
+  Rating: 4.5
+  Title: Saros
+  Year: '2026'
+- 100%: false
   Company: Heavy Iron Studios
   DLC: false
   Hours Played: 20
@@ -2734,6 +2782,18 @@
   Rating: 3.0
   Title: Scooby-Doo! Night of 100 Frights
   Year: '2002'
+- 100%: false
+  Company: Ebb Software
+  DLC: false
+  Hours Played: 3
+  Icon ID: '30202'
+  Physical: false
+  Platform: PC
+  Platinum: false
+  Playthroughs: 1
+  Rating: 3.0
+  Title: Scorn
+  Year: '2022'
 - 100%: false
   Company: 5th Cell
   DLC: false
@@ -2842,6 +2902,18 @@
   Rating: 5.0
   Title: Silent Hill f
   Year: '2025'
+- 100%: false
+  Company: Screen Burn
+  DLC: false
+  Hours Played: 23
+  Icon ID: '30203'
+  Physical: false
+  Platform: PC
+  Platinum: false
+  Playthroughs: 2
+  Rating: 4.5
+  Title: 'Silent Hill: Townfall'
+  Year: '2026'
 - 100%: false
   Company: Thatgamecompany
   DLC: false
@@ -3443,6 +3515,18 @@
   Title: 'The Dark Pictures: Switchback VR'
   Year: '2023'
 - 100%: false
+  Company: FromSoftware
+  DLC: false
+  Hours Played: 12
+  Icon ID: '30200'
+  Physical: false
+  Platform: Nintendo Switch 2
+  Platinum: false
+  Playthroughs: 1
+  Rating: 5.0
+  Title: The Duskbloods (Network Test)
+  Year: '2026'
+- 100%: false
   Company: Bethesda
   DLC: false
   Hours Played: 20
@@ -3517,7 +3601,7 @@
 - 100%: true
   Company: Naughty Dog
   DLC: false
-  Hours Played: 12
+  Hours Played: 13
   Icon ID: '20308'
   Physical: false
   Platform: PlayStation 5
@@ -3655,7 +3739,7 @@
   Platform: Nintendo 64
   Platinum: false
   Playthroughs: 1
-  Rating: 4.0
+  Rating: 3.5
   Title: 'The Legend of Zelda: Ocarina of Time'
   Year: '1998'
 - 100%: false
@@ -3802,6 +3886,18 @@
   Rating: 3.0
   Title: The Medium
   Year: '2021'
+- 100%: false
+  Company: MoonHood
+  DLC: false
+  Hours Played: 5
+  Icon ID: '30109'
+  Physical: false
+  Platform: PC
+  Platinum: false
+  Playthroughs: 1
+  Rating: 3.0
+  Title: The Midnight Walk
+  Year: '2025'
 - 100%: false
   Company: All Possible Futures
   DLC: false
