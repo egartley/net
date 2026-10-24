@@ -10,6 +10,18 @@
   Rating: 3.5
   Title: '24: The Game'
   Year: '2006'
+- 100%: false
+  Company: Tomorrow Corporation
+  DLC: false
+  Hours Played: 6
+  Icon ID: '30204'
+  Physical: false
+  Platform: PC
+  Platinum: false
+  Playthroughs: 0
+  Rating: 3.5
+  Title: 7 Billion Humans
+  Year: '2018'
 - 100%: true
   Company: Traveller's Tales
   DLC: false
@@ -229,7 +241,7 @@
 - 100%: true
   Company: FromSoftware
   DLC: true
-  Hours Played: 88
+  Hours Played: 77
   Icon ID: '0'
   Physical: true
   Platform: PlayStation 4
@@ -1594,6 +1606,18 @@
   Rating: 3.0
   Title: 'LEGO Batman 3: Beyond Gotham'
   Year: '2014'
+- 100%: false
+  Company: Traveller's Tales
+  DLC: false
+  Hours Played: 9
+  Icon ID: '30207'
+  Physical: false
+  Platform: PC
+  Platinum: false
+  Playthroughs: -1
+  Rating: 4.0
+  Title: 'LEGO Batman: Legacy of the Dark Knight'
+  Year: '2026'
 - 100%: true
   Company: Traveller's Tales
   DLC: false
@@ -2183,6 +2207,18 @@
   Title: MySims Agents
   Year: '2009'
 - 100%: false
+  Company: Cyan Worlds
+  DLC: false
+  Hours Played: 4
+  Icon ID: '30205'
+  Physical: false
+  Platform: PC
+  Platinum: false
+  Playthroughs: 1
+  Rating: 4.0
+  Title: Myst
+  Year: '2021'
+- 100%: false
   Company: Ubisoft
   DLC: false
   Hours Played: 30
@@ -2722,6 +2758,18 @@
   Rating: 4.0
   Title: Risk of Rain 2
   Year: '2020'
+- 100%: false
+  Company: Cyan Worlds
+  DLC: false
+  Hours Played: 7
+  Icon ID: '30206'
+  Physical: false
+  Platform: PC
+  Platinum: false
+  Playthroughs: 1
+  Rating: 4.5
+  Title: Riven
+  Year: '2024'
 - 100%: false
   Company: Lunar Software
   DLC: false
