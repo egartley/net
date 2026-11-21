@@ -174,10 +174,10 @@
   Rating: PG-13
   Title: Black Sheep
   Year: '1996'
-- Length: '1:37'
-  Rating: NR
-  Title: 'Bob Lazar: Area 51 & Flying Saucers'
-  Year: '2018'
+- Length: '1:44'
+  Rating: PG-13
+  Title: Blacklight
+  Year: '2022'
 - Length: '1:36'
   Rating: PG
   Title: Bolt
@@ -346,6 +346,10 @@
   Rating: R
   Title: Ex Machina
   Year: '2014'
+- Length: '1:52'
+  Rating: R
+  Title: Extinction
+  Year: '2015'
 - Length: '1:40'
   Rating: G
   Title: Finding Nemo
@@ -538,6 +542,10 @@
   Rating: R
   Title: It Chapter Two
   Year: '2019'
+- Length: '1:40'
+  Rating: R
+  Title: It Follows
+  Year: '2014'
 - Length: '1:19'
   Rating: PG
   Title: James and the Giant Peach
@@ -714,6 +722,10 @@
   Rating: NR
   Title: Project Gemini
   Year: '2022'
+- Length: '2:36'
+  Rating: PG-13
+  Title: Project Hail Mary
+  Year: '2026'
 - Length: '1:25'
   Rating: R
   Title: Project Ithaca
@@ -794,6 +806,10 @@
   Rating: PG
   Title: Shrek
   Year: '2001'
+- Length: '1:35'
+  Rating: R
+  Title: 'Silent Hill: Revelation'
+  Year: '2012'
 - Length: '1:32'
   Rating: PG-13
   Title: Skyline
@@ -1106,6 +1122,22 @@
   Rating: G
   Title: The Polar Express
   Year: '2004'
+- Length: '1:25'
+  Rating: R
+  Title: The Purge
+  Year: '2013'
+- Length: '1:43'
+  Rating: R
+  Title: 'The Purge: Anarchy'
+  Year: '2014'
+- Length: '1:49'
+  Rating: R
+  Title: 'The Purge: Election Year'
+  Year: '2016'
+- Length: '1:29'
+  Rating: R
+  Title: The Pyramid
+  Year: '2014'
 - Length: '1:24'
   Rating: NR
   Title: The Sleep Experiment
@@ -1130,6 +1162,10 @@
   Rating: PG
   Title: The Super Mario Bros. Movie
   Year: '2023'
+- Length: '1:38'
+  Rating: PG
+  Title: The Super Mario Galaxy Movie
+  Year: '2026'
 - Length: '1:37'
   Rating: R
   Title: The System
@@ -1154,12 +1190,16 @@
   Rating: PG
   Title: The Wizard of Oz
   Year: '1939'
+- Length: '1:34'
+  Rating: R
+  Title: They Live
+  Year: '1988'
 - Length: '1:44'
   Rating: NR
   Title: Time Laspe
   Year: '2014'
 - Length: '2:09'
-  Rating: NR
+  Rating: TV-PG
   Title: To Kill a Mockingbird
   Year: '1962'
 - Length: '1:24'

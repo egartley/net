@@ -733,7 +733,7 @@
 - 100%: false
   Company: FromSoftware
   DLC: true
-  Hours Played: 479
+  Hours Played: 482
   Icon ID: '20708'
   Physical: false
   Platform: PC
@@ -1606,15 +1606,15 @@
   Rating: 3.0
   Title: 'LEGO Batman 3: Beyond Gotham'
   Year: '2014'
-- 100%: false
+- 100%: true
   Company: Traveller's Tales
   DLC: false
-  Hours Played: 9
+  Hours Played: 29
   Icon ID: '30207'
   Physical: false
   Platform: PC
   Platinum: false
-  Playthroughs: -1
+  Playthroughs: 1
   Rating: 4.0
   Title: 'LEGO Batman: Legacy of the Dark Knight'
   Year: '2026'
@@ -2327,6 +2327,18 @@
   Title: Omno
   Year: '2021'
 - 100%: false
+  Company: Moon Studios
+  DLC: false
+  Hours Played: 9
+  Icon ID: '30300'
+  Physical: false
+  Platform: PC
+  Platinum: false
+  Playthroughs: 1
+  Rating: 3.5
+  Title: 'Ori and the Blind Forest: Definitive Edition'
+  Year: '2016'
+- 100%: false
   Company: Mobius Digital
   DLC: false
   Hours Played: 2
@@ -2422,6 +2434,18 @@
   Rating: 4.5
   Title: 'Paper Mario: The Thousand-Year Door'
   Year: '2004'
+- 100%: false
+  Company: S-GAME
+  DLC: false
+  Hours Played: 39
+  Icon ID: '30208'
+  Physical: false
+  Platform: PC
+  Platinum: false
+  Playthroughs: 1
+  Rating: 5.0
+  Title: Phantom Blade Zero
+  Year: '2026'
 - 100%: false
   Company: Game Freak
   DLC: false
@@ -3790,6 +3814,18 @@
   Rating: 3.5
   Title: 'The Legend of Zelda: Ocarina of Time'
   Year: '1998'
+- 100%: false
+  Company: Nintendo
+  DLC: false
+  Hours Played: 23
+  Icon ID: '30209'
+  Physical: true
+  Platform: Nintendo Switch 2
+  Platinum: false
+  Playthroughs: 1
+  Rating: 4.5
+  Title: 'The Legend of Zelda: Ocarine of Time'
+  Year: '2026'
 - 100%: false
   Company: Grezzo
   DLC: false
